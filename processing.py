@@ -389,6 +389,133 @@ def process_rnn_author_match_pair(max_seq1_len=10, max_seq2_len=5, shuffle=True,
     utils.dump_large_obj(test_data, out_dir, "author_rnn_test.pkl")
 
 
+def sentences_long_to_matrix(t1, t2, mat_size):
+    matrix = -np.ones((mat_size, mat_size))
+    for i, word1 in enumerate(t1[: mat_size]):
+        for j, word2 in enumerate(t2[: mat_size]):
+            v = -1
+            if word1 == word2:
+                v = 1
+            matrix[i][j] = v
+    return matrix
+
+
+def sentences_short_to_matrix(t1, t2, mat_size):
+    overlap = set(t1).intersection(t2)
+    new_seq_t1 = []
+    new_seq_t2 = []
+    for w in t1:
+        if w in overlap:
+            new_seq_t1.append(w)
+    for w in t2:
+        if w in overlap:
+            new_seq_t2.append(w)
+
+    matrix = -np.ones((mat_size, mat_size))
+    for i, word1 in enumerate(t1[: mat_size]):
+        for j, word2 in enumerate(t2[: mat_size]):
+            v = -1
+            if word1 == word2:
+                v = 1
+            matrix[i][j] = v
+    return matrix
+
+
+def process_cnn_match_pair(entity_type, matrix_size_1=10, matrix_size_2=5, shuffle=True, seed=42):
+    file_dir = join(settings.DATA_DIR, entity_type)
+
+    pairs_train = utils.load_json(file_dir, "{}_alignment_{}_pairs.json".format(entity_type, "train"))
+    pairs_test = utils.load_json(file_dir, "{}_alignment_{}_pairs.json".format(entity_type, "test"))
+
+    vocab, text_pipeline = build_tokenizer(entity_type, pairs_train, pairs_test)
+
+    n_matrix = len(pairs_train)
+    x_long = np.zeros((n_matrix, matrix_size_1, matrix_size_1))
+    x_short = np.zeros((n_matrix, matrix_size_2, matrix_size_2))
+    y = np.zeros(n_matrix, dtype=np.long)
+    count = 0
+
+    for i, pair in enumerate(pairs_train):
+        if i % 100 == 0:
+            print('pairs to matrices', i)
+        cur_y = pair["label"]
+        item1 = utils.normalize_text(pair["{}1".format(entity_type)])
+        item2 = utils.normalize_text(pair["{}2".format(entity_type)])
+        item1 = text_pipeline(item1)
+        item2 = text_pipeline(item2)
+
+        matrix1 = sentences_long_to_matrix(item1, item2, matrix_size_1)
+        x_long[count] = utils.scale_matrix(matrix1)
+        matrix2 = sentences_short_to_matrix(item1, item2, matrix_size_2)
+        x_short[count] = utils.scale_matrix(matrix2)
+        y[count] = cur_y
+        count += 1
+
+    n_test = len(pairs_test)
+    x_test_long = np.zeros((n_test, matrix_size_1, matrix_size_1))
+    x_test_short = np.zeros((n_test, matrix_size_2, matrix_size_2))
+    y_test = np.zeros(n_test, dtype=np.long)
+    count = 0
+    for i, pair in enumerate(pairs_test):
+        if i % 100 == 0:
+            print('pairs to matrices', i)
+        cur_y = pair["label"]
+        item1 = utils.normalize_text(pair["{}1".format(entity_type)])
+        item2 = utils.normalize_text(pair["{}2".format(entity_type)])
+        item1 = text_pipeline(item1)
+        item2 = text_pipeline(item2)
+
+        matrix1 = sentences_long_to_matrix(item1, item2, matrix_size_1)
+        x_test_long[count] = utils.scale_matrix(matrix1)
+        matrix2 = sentences_short_to_matrix(item1, item2, matrix_size_2)
+        x_test_short[count] = utils.scale_matrix(matrix2)
+        y_test[count] = cur_y
+        count += 1
+
+    print("shuffle", shuffle)
+    if shuffle:
+        x_long, x_short, y = sklearn.utils.shuffle(
+            x_long, x_short, y,
+            random_state=seed
+        )
+
+    N = len(y)
+
+    if entity_type == "aff":
+        n_train = int(N*0.75)
+        n_valid = int(N*0.25)
+    elif entity_type == "venue":
+        n_train = int(N / 5 * 4)
+        n_valid = int(N / 5)
+    else:
+        raise NotImplementedError
+
+    out_dir = join(settings.OUT_DIR, entity_type, "cnn")
+    os.makedirs(out_dir, exist_ok=True)
+
+    train_data = {}
+    train_data["x1"] = x_long[:n_train]
+    train_data["x2"] = x_short[:n_train]
+    train_data["y"] = y[:n_train]
+    print("train labels", len(train_data["y"]))
+
+    valid_data = {}
+    valid_data["x1"] = x_long[n_train:(n_train + n_valid)]
+    valid_data["x2"] = x_short[n_train:(n_train + n_valid)]
+    valid_data["y"] = y[n_train:(n_train + n_valid)]
+    print("valid labels", len(valid_data["y"]), valid_data["y"])
+
+    test_data = {}
+    test_data["x1"] = x_test_long
+    test_data["x2"] = x_test_short
+    test_data["y"] = y_test
+    print("test labels", len(test_data["y"]), test_data["y"])
+
+    utils.dump_large_obj(train_data, out_dir, "{}_cnn_train.pkl".format(entity_type))
+    utils.dump_large_obj(test_data, out_dir, "{}_cnn_test.pkl".format(entity_type))
+    utils.dump_large_obj(valid_data, out_dir, "{}_cnn_valid.pkl".format(entity_type))
+
+
 if __name__ == "__main__":
     # gen_short_texts_sim_stat_features(entity_type="aff")
     # gen_short_texts_sim_stat_features(entity_type="venue")
@@ -396,5 +523,8 @@ if __name__ == "__main__":
 
     # process_rnn_match_pair(entity_type="aff", max_seq1_len=10, max_seq2_len=5)
     # process_rnn_match_pair(entity_type="venue", max_seq1_len=10, max_seq2_len=5)
-    process_rnn_author_match_pair(max_seq1_len=10, max_seq2_len=5)
+    # process_rnn_author_match_pair(max_seq1_len=10, max_seq2_len=5)
+
+    process_cnn_match_pair(entity_type="aff")
+    # process_cnn_match_pair(entity_type="venue")
     logger.info("done")

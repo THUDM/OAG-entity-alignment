@@ -2,6 +2,7 @@ from os.path import join
 import json
 import unicodedata
 import pickle
+from sklearn.preprocessing import normalize
 from torch.utils.data.sampler import Sampler
 
 import logging
@@ -57,6 +58,12 @@ def normalize_text(text):
     text = remove_marks(text)
     text = " ".join([x for x in text.split() if x not in stopwords])
     return text
+
+
+def scale_matrix(mat):
+    mn = mat.mean(axis=1)
+    mat_center = mat - mn[:, None]
+    return normalize(mat_center)
 
 
 class ChunkSampler(Sampler):
