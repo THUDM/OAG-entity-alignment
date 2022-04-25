@@ -545,7 +545,7 @@ def process_cnn_author_match_pair(matrix_size_1=10, matrix_size_2=5, shuffle=Tru
     n_matrix = len(pairs_train)
     x_long = np.zeros((n_matrix, matrix_size_1, matrix_size_1))
     x_short = np.zeros((n_matrix, matrix_size_2, matrix_size_2))
-    y = np.zeros(n_matrix, dtype=np.long)
+    y = [x["label"] for x in pairs_train]
     count = 0
 
     for pair in tqdm(pairs_train):
