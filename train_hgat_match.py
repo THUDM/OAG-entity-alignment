@@ -265,4 +265,4 @@ def calc_avg_metrics(args):
 if __name__ == '__main__':
     print("args", args)
     main(args=args)
-    # calc_avg_metrics(args)
+    calc_avg_metrics(args)
