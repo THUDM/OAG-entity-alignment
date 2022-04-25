@@ -172,8 +172,9 @@ def train_one_time(args, wf, repeat_seed):
     dataset = PairedSubgraphDataset(seed=args.seed, shuffle=True, role="train")
     dataset_test = PairedSubgraphDataset(seed=args.seed, shuffle=False, role="test")
     N = len(dataset)
-    n_train = int(N/args.train_ratio)
+    n_train = int(N*args.train_ratio)
     n_valid = N - n_train
+    print("n_train", n_train)
 
     train_loader = DataLoader(dataset, batch_size=args.batch,
                               sampler=ChunkSampler(n_train, 0))
