@@ -7,9 +7,6 @@ class BiLSTM(nn.Module):
                  multiple=0, use_seq_num=2):
         super(BiLSTM, self).__init__()
         self.vocab_size = vocab_size
-        self.multiple = multiple
-        self.n_d = 192
-        self.n_out = 192
 
         # embedding layer
         self.embed_seq = nn.Embedding(self.vocab_size + 1, embedding_size)
