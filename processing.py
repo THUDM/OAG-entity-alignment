@@ -265,11 +265,136 @@ def process_rnn_match_pair(entity_type, max_seq1_len=10, max_seq2_len=5, shuffle
     utils.dump_large_obj(test_data, out_dir, "{}_rnn_test.pkl".format(entity_type))
 
 
+def process_rnn_author_match_pair(max_seq1_len=10, max_seq2_len=5, shuffle=True, seed=42):
+    from keras.preprocessing.sequence import pad_sequences
+    cur_data_dir = join(settings.DATA_DIR, "author")
+
+    pairs_train = utils.load_json(cur_data_dir, "author_alignment_train_pairs.json")
+    pairs_test = utils.load_json(cur_data_dir, "author_alignment_test_pairs.json")
+
+    node_list = []
+    with open(join(cur_data_dir, "large_cross_graph_nodes_list.txt")) as rf:
+        for i, line in enumerate(rf):
+            node_list.append(line.strip())
+    node_to_idx = {n: i for i, n in enumerate(node_list)}
+
+    aminer_ego_author_attr = utils.load_json(cur_data_dir, "aminer_ego_author_attr_dict.json")
+    dblp_ego_author_attr = utils.load_json(cur_data_dir, "dblp_ego_author_attr_dict.json")
+
+    aminer_aid_to_vids = utils.load_json(cur_data_dir, "aminer_aid_to_vids.json")
+    dblp_aid_to_vids = utils.load_json(cur_data_dir, "dblp_aid_to_vids.json")
+
+    x1 = []
+    x2 = []
+    x1_keywords = []
+    x2_keywords = []
+    for pair in tqdm(pairs_train):
+        aid = pair["aminer"]
+        did = pair["dblp"]
+        pubs_a = aminer_ego_author_attr.get(aid, [])["pubs"][: max_seq1_len]
+        pubs_d = dblp_ego_author_attr.get(did, [])["pubs"][: max_seq1_len]
+        pubs_a_idx = [node_to_idx[x + "-pp"] for x in pubs_a]
+        pubs_d_idx = [node_to_idx[x + "-pp"] for x in pubs_d]
+        x1.append(pubs_a_idx)
+        x2.append(pubs_d_idx)
+
+        vids_a = aminer_aid_to_vids.get(aid, [])[: max_seq2_len]
+        vids_d = dblp_aid_to_vids.get(aid, [])[: max_seq2_len]
+        vids_a_idx = [node_to_idx[x["id"] + "-vv"] for x in vids_a]
+        vids_d_idx = [node_to_idx[x["id"] + "-vv"] for x in vids_d]
+        x1_keywords.append(vids_a_idx)
+        x2_keywords.append(vids_d_idx)
+
+    # test
+    x1_test = []
+    x2_test = []
+    x1_keywords_test = []
+    x2_keywords_test = []
+    for pair in tqdm(pairs_test):
+        aid = pair["aminer"]
+        did = pair["dblp"]
+        pubs_a = aminer_ego_author_attr.get(aid, [])["pubs"][: max_seq1_len]
+        pubs_d = dblp_ego_author_attr.get(did, [])["pubs"][: max_seq1_len]
+        pubs_a_idx = [node_to_idx[x + "-pp"] for x in pubs_a]
+        pubs_d_idx = [node_to_idx[x + "-pp"] for x in pubs_d]
+        x1_test.append(pubs_a_idx)
+        x2_test.append(pubs_d_idx)
+
+        vids_a = aminer_aid_to_vids.get(aid, [])[: max_seq2_len]
+        vids_d = dblp_aid_to_vids.get(aid, [])[: max_seq2_len]
+        vids_a_idx = [node_to_idx[x["id"] + "-vv"] for x in vids_a]
+        vids_d_idx = [node_to_idx[x["id"] + "-vv"] for x in vids_d]
+        x1_keywords_test.append(vids_a_idx)
+        x2_keywords_test.append(vids_d_idx)
+
+    n_nodes = len(node_list)
+
+    x1 = pad_sequences(x1, maxlen=max_seq1_len, value=n_nodes + 1)
+    x2 = pad_sequences(x2, maxlen=max_seq1_len, value=n_nodes + 1)
+
+    x1_keywords = pad_sequences(x1_keywords, maxlen=max_seq2_len, value=n_nodes + 1)
+    x2_keywords = pad_sequences(x2_keywords, maxlen=max_seq2_len, value=n_nodes + 1)
+
+    x1_test = pad_sequences(x1_test, maxlen=max_seq1_len, value=n_nodes + 1)
+    x2_test = pad_sequences(x2_test, maxlen=max_seq1_len, value=n_nodes + 1)
+
+    x1_test_keywords = pad_sequences(x1_keywords_test, maxlen=max_seq2_len, value=n_nodes + 1)
+    x2_test_keywords = pad_sequences(x2_keywords_test, maxlen=max_seq2_len, value=n_nodes + 1)
+
+    labels = [x["label"] for x in pairs_train]
+    labels_test = [x["label"] for x in pairs_test]
+
+    if shuffle:
+        x1, x2, x1_keywords, x2_keywords, labels = sklearn.utils.shuffle(
+            x1, x2, x1_keywords, x2_keywords, labels,
+            random_state=seed
+        )
+
+    out_dir = join(settings.OUT_DIR, "author", "rnn")
+    os.makedirs(out_dir, exist_ok=True)
+
+    N = len(pairs_train)
+    n_train = int(N / 9 * 8)
+    n_valid = int(N / 9)
+
+    train_data = {}
+    train_data["x1_seq1"] = x1[:n_train]
+    train_data["x1_seq2"] = x1_keywords[:n_train]
+    train_data["x2_seq1"] = x2[:n_train]
+    train_data["x2_seq2"] = x2_keywords[:n_train]
+    train_data["y"] = labels[:n_train]
+    train_data["vocab_size"] = n_nodes
+    print("train labels", len(train_data["y"]))
+
+    valid_data = {}
+    valid_data["x1_seq1"] = x1[n_train:(n_train + n_valid)]
+    valid_data["x1_seq2"] = x1_keywords[n_train:(n_train + n_valid)]
+    valid_data["x2_seq1"] = x2[n_train:(n_train + n_valid)]
+    valid_data["x2_seq2"] = x2_keywords[n_train:(n_train + n_valid)]
+    valid_data["y"] = labels[n_train:(n_train + n_valid)]
+    print("valid labels", len(valid_data["y"]))
+
+    utils.dump_large_obj(train_data, out_dir, "author_rnn_train.pkl")
+    utils.dump_large_obj(valid_data, out_dir, "author_rnn_valid.pkl")
+
+    test_data = {}
+
+    test_data["x1_seq1"] = x1_test
+    test_data["x1_seq2"] = x1_test_keywords
+    test_data["x2_seq1"] = x2_test
+    test_data["x2_seq2"] = x2_test_keywords
+    test_data["y"] = labels_test
+    print("test labels", len(test_data["y"]))
+
+    utils.dump_large_obj(test_data, out_dir, "author_rnn_test.pkl")
+
+
 if __name__ == "__main__":
     # gen_short_texts_sim_stat_features(entity_type="aff")
     # gen_short_texts_sim_stat_features(entity_type="venue")
     # gen_author_sim_struct_features()
 
     # process_rnn_match_pair(entity_type="aff", max_seq1_len=10, max_seq2_len=5)
-    process_rnn_match_pair(entity_type="venue", max_seq1_len=10, max_seq2_len=5)
+    # process_rnn_match_pair(entity_type="venue", max_seq1_len=10, max_seq2_len=5)
+    process_rnn_author_match_pair(max_seq1_len=10, max_seq2_len=5)
     logger.info("done")
