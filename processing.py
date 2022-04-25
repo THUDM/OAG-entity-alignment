@@ -629,16 +629,213 @@ def process_cnn_author_match_pair(matrix_size_1=10, matrix_size_2=5, shuffle=Tru
     utils.dump_large_obj(valid_data, out_dir, "author_cnn_valid.pkl")
 
 
+def gen_author_paired_subgraphs():
+    author_dir = join(settings.DATA_DIR, "author")
+
+    pairs_train = utils.load_json(author_dir, "author_alignment_{}_pairs.json".format("train"))
+    pairs_test = utils.load_json(author_dir, "author_alignment_{}_pairs.json".format("test"))
+    labels_train = [x["label"] for x in pairs_train]
+    labels_test = [x["label"] for x in pairs_test]
+
+    adjs = []
+    vertex_ids = []
+    vertex_types = []
+
+    adjs_test = []
+    vertex_ids_test = []
+    vertex_types_test = []
+    n_nodes_ego = 382
+
+    aminer_ego_author_attr = utils.load_json(author_dir, "aminer_ego_author_attr_dict.json")
+    aminer_aid_to_sorted_pubs = utils.load_json(author_dir, "aminer_aid_to_sorted_pubs.json")
+
+    dblp_ego_author_attr = utils.load_json(author_dir, "dblp_ego_author_attr_dict.json")
+    dblp_aid_to_sorted_pids = utils.load_json(author_dir, "dblp_aid_to_sorted_pubs.json")
+
+    aminer_aid_to_vids = utils.load_json(author_dir, "aminer_aid_to_vids.json")
+    dblp_aid_to_vids = utils.load_json(author_dir, "dblp_aid_to_vids.json")
+
+    aminer_aid_to_coauthors = utils.load_json(author_dir, "aminer_aid_to_coauthors.json")
+    dblp_aid_to_coauthors = utils.load_json(author_dir, "dblp_aid_to_coauthors.json")
+
+    coauthor_dict_cache = {**aminer_aid_to_coauthors, **dblp_aid_to_coauthors}
+    ego_attr = {**aminer_ego_author_attr, **dblp_ego_author_attr}
+    aid_to_pids_ego = {x: ego_attr[x].get("pubs", []) for x in ego_attr}
+    aid_to_pids = {**aid_to_pids_ego, **aminer_aid_to_sorted_pubs, **dblp_aid_to_sorted_pids}
+    aid_to_vids = {**aminer_aid_to_vids, **dblp_aid_to_vids}
+
+    for i, pair in enumerate(pairs_train + pairs_test):
+        if i < len(labels_train):
+            cur_adjs = adjs
+            cur_vertex_ids = vertex_ids
+            cur_vertex_types = vertex_types
+        else:
+            cur_adjs = adjs_test
+            cur_vertex_ids = vertex_ids_test
+            cur_vertex_types = vertex_types_test
+
+        node_set = set()
+        node_list = []
+        node_type_list = []
+        n_authors = 0
+        n_venues = 0
+        n_papers = 0
+        aaid, daid = pair['aminer'], pair['dblp']
+        aaid_dec = '{}-aa'.format(aaid)
+        daid_dec = '{}-ad'.format(daid)
+        n_authors += 2
+
+        # focal_node1 = aaid
+        # focal_node2 = daid
+        node_set.update({aaid, daid})
+        node_list += [aaid_dec, daid_dec]
+        node_type_list += [settings.AUTHOR_TYPE, settings.AUTHOR_TYPE]
+
+        # 1-ego venues
+        a_venues = aminer_aid_to_vids.get(aaid, [])[:10]
+        d_venues = dblp_aid_to_vids.get(daid, [])[:10]
+        venues_1_ego = [v['id'] for v in a_venues + d_venues]
+        for v in venues_1_ego:
+            if v not in node_set:
+                node_set.add(v)
+                v_dec = '{}-vv'.format(v)
+                n_venues += 1
+                node_list.append(v_dec)
+                node_type_list.append(settings.VENUE_TYPE)
+
+        # 1-ego papers
+        a_pubs = aminer_ego_author_attr.get(aaid, {}).get('pubs', [])[:20]
+        d_pubs = dblp_ego_author_attr.get(daid, {}).get('pubs', [])[:20]
+        pubs_1_ego = {item for item in a_pubs + d_pubs if item not in node_set}
+        node_set.update(pubs_1_ego)
+        node_list += ['{}-pp'.format(item) for item in pubs_1_ego]
+        node_type_list += [settings.PAPER_TYPE] * len(pubs_1_ego)
+        n_papers += len(pubs_1_ego)
+
+        # 1-ego coauthors
+        a_coauthors = aminer_aid_to_coauthors.get(aaid, [])[:10]
+        for cur_aid in a_coauthors:
+            if cur_aid not in node_set:
+                node_set.add(cur_aid)
+                node_list.append('{}-aa'.format(cur_aid))
+                node_type_list.append(settings.AUTHOR_TYPE)
+                n_authors += 1
+
+        d_coauthors = dblp_aid_to_coauthors.get(daid, [])[:10]
+        d_coauthors = {a for a in d_coauthors if a not in node_set}
+        node_set.update(d_coauthors)
+        node_list += ['{}-ad'.format(a) for a in d_coauthors]
+        node_type_list += [settings.AUTHOR_TYPE] * len(d_coauthors)
+        n_authors += len(d_coauthors)
+
+        # 2-ego
+        for a in a_coauthors:
+            cur_venues = aminer_aid_to_vids.get(a, [])[:5]
+            cur_vids = {v['id'] for v in cur_venues if v['id'] not in node_set}
+            node_set.update(cur_vids)
+            node_list += ['{}-vv'.format(v) for v in cur_vids]
+            node_type_list += [settings.VENUE_TYPE] * len(cur_vids)
+            n_venues += len(cur_vids)
+
+        for a in d_coauthors:
+            cur_venues = dblp_aid_to_vids.get(a, [])[:5]
+            cur_vids = {v['id'] for v in cur_venues if v['id'] not in node_set}
+            node_set.update(cur_vids)
+            node_list += ['{}-vv'.format(v) for v in cur_vids]
+            node_type_list += [settings.VENUE_TYPE] * len(cur_vids)
+            n_venues += len(cur_vids)
+
+        a_pubs_2 = []
+        for a in a_coauthors:
+            cur_pubs = aminer_aid_to_sorted_pubs.get(a, [])[:10]
+            a_pubs_2 += cur_pubs
+
+        d_pubs_2 = []
+        for a in d_coauthors:
+            cur_pubs = dblp_aid_to_sorted_pids.get(a, [])[:10]
+            d_pubs_2 += cur_pubs
+
+        pubs_2_ego = {item for item in a_pubs_2 + d_pubs_2 if item not in node_set}
+        node_set.update(pubs_2_ego)
+        node_list += ['{}-pp'.format(p) for p in pubs_2_ego]
+        node_type_list += [settings.PAPER_TYPE] * len(pubs_2_ego)
+        n_papers += len(pubs_2_ego)
+
+        cur_n_nodes_real = len(node_list)
+        assert len(node_set) == len(node_list) == len(node_type_list)
+        assert n_authors <= 22 and n_venues <= 120 and n_papers <= 240
+
+        # padding
+        for v_idx in range(len(node_set), n_nodes_ego):
+            node_list.append('-1')
+            node_type_list.append(settings.AUTHOR_TYPE)
+        assert len(node_list) == n_nodes_ego
+
+        cur_vertex_ids.append(node_list)
+        cur_vertex_types.append(node_type_list)
+
+        node_to_idx = {eid[:-3]: i for i, eid in enumerate(node_list)}
+        adj = np.zeros((n_nodes_ego, n_nodes_ego), dtype=np.bool_)
+        nnz = 0
+        for ii in range(cur_n_nodes_real):
+            v1 = node_list[ii][:-3]
+            t1 = node_type_list[ii]
+            if t1 == settings.AUTHOR_TYPE:
+                v_nbrs = aid_to_vids.get(v1, [])
+                v_nbrs = {item['id'] for item in v_nbrs}
+                v_nbrs_filtered = {item for item in v_nbrs if item in node_set}
+                nbrs_set = v_nbrs_filtered
+
+                p_nbrs = aid_to_pids.get(v1, [])
+                p_nbrs_filtered = {item for item in p_nbrs if item in node_set}
+                nbrs_set.update(p_nbrs_filtered)
+
+                a_nbrs = coauthor_dict_cache.get(v1, [])
+                a_nbrs_filtered = {item for item in a_nbrs if item in node_set}
+                nbrs_set.update(a_nbrs_filtered)
+
+                for nbr in nbrs_set:
+                    nbr_idx_map = node_to_idx[nbr]
+                    adj[ii, nbr_idx_map] = True
+                    adj[nbr_idx_map, ii] = True
+                    nnz += 1
+
+        cur_adjs.append(adj)
+
+        if i % 100 == 0:
+            logger.info('***********iter %d nnz %d', i, nnz)
+            logger.info('n_nodes real %d, n_authors %d, n_venues %d, n_papers %d.',
+                        cur_n_nodes_real, n_authors, n_venues, n_papers)
+
+    out_dir = join(settings.OUT_DIR, "author", "hgat")
+    os.makedirs(out_dir, exist_ok=True)
+    np.save(join(out_dir, 'vertex_id_train.npy'), np.array(vertex_ids))
+    np.save(join(out_dir, 'vertex_types_train.npy'), np.array(vertex_types))
+    np.save(join(out_dir, 'adjacency_matrix_train.npy'), np.array(adjs))
+    np.save(join(out_dir, 'label_train.npy'), np.array(labels_train))
+
+    np.save(join(out_dir, 'vertex_id_test.npy'), np.array(vertex_ids_test))
+    np.save(join(out_dir, 'vertex_types_test.npy'), np.array(vertex_types_test))
+    np.save(join(out_dir, 'adjacency_matrix_test.npy'), np.array(adjs_test))
+    np.save(join(out_dir, 'label_test.npy'), np.array(labels_test))
+
+
 if __name__ == "__main__":
+    # for svm
     # gen_short_texts_sim_stat_features(entity_type="aff")
     # gen_short_texts_sim_stat_features(entity_type="venue")
     # gen_author_sim_struct_features()
 
+    # for rnn-based matching
     # process_rnn_match_pair(entity_type="aff", max_seq1_len=10, max_seq2_len=5)
     # process_rnn_match_pair(entity_type="venue", max_seq1_len=10, max_seq2_len=5)
     # process_rnn_author_match_pair(max_seq1_len=10, max_seq2_len=5)
 
+    # for cnn-based matching
     # process_cnn_match_pair(entity_type="aff")
     # process_cnn_match_pair(entity_type="venue")
-    process_cnn_author_match_pair()
+    # process_cnn_author_match_pair()
+
+    # for hgat-based matching
+    gen_author_paired_subgraphs()
     logger.info("done")

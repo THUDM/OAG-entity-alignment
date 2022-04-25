@@ -10,3 +10,6 @@ os.makedirs(OUT_DIR, exist_ok=True)
 
 MAX_WORD_TOKEN_NUM = 99999
 
+AUTHOR_TYPE = 0
+PAPER_TYPE = 1
+VENUE_TYPE = 2
