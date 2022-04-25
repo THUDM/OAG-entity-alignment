@@ -193,7 +193,7 @@ def train_one_time(args, wf, repeat_seed):
                 min_loss_val = metrics_val[0]
                 best_test_metrics = metrics_test
                 best_epoch = epoch
-                torch.save(model.state_dict(), join(model_dir, "cnn-match-best-now-train-num-{}-try-{}.mdl".format(args.train_num, repeat_seed)))
+                torch.save(model.state_dict(), join(model_dir, "cnn-match-best-now-try-{}.mdl".format(repeat_seed)))
 
     logger.info("optimization Finished!")
     logger.info("total time elapsed: {:.4f}s".format(time.time() - t_total))
