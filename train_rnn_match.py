@@ -155,7 +155,9 @@ def train_one_time(args, wf, repeat_seed):
     if args.entity_type != "author":
         pretrain_emb = torch.randn(size=(settings.MAX_WORD_TOKEN_NUM + 1, 128))
     else:
-        raise NotImplementedError
+        pretrain_emb = np.load(join(settings.DATA_DIR, "author", "large_cross_graph_node_emb.npy"))
+        pretrain_emb = np.concatenate((pretrain_emb, np.zeros(shape=(2, args.embedding_size))), axis=0)
+        pretrain_emb = torch.from_numpy(pretrain_emb)
 
     model = BiLSTM(vocab_size=settings.MAX_WORD_TOKEN_NUM,
                    pretrain_emb=pretrain_emb,
