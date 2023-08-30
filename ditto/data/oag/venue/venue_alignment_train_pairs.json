@@ -1,0 +1,5002 @@
+[
+    {
+        "venue1": "journal of shihezi university",
+        "venue2": "journal of shihezi university  philosophy and social science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of chongqing university of science and technology",
+        "venue2": "journal of chongqing technology and business university natural science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of technology and information education",
+        "venue2": "journal of technology and teacher education",
+        "label": 0
+    },
+    {
+        "venue1": "the american journal of managed care",
+        "venue2": "american journal of managed care",
+        "label": 1
+    },
+    {
+        "venue1": "materials science and engineering r",
+        "venue2": "iop conference series: materials science and engineering",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural science",
+        "venue2": "bulletin of agricultural science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of chemical thermodynamics",
+        "venue2": "journal of chemical thermodynamics",
+        "label": 1
+    },
+    {
+        "venue1": "information systems management",
+        "venue2": "j  of management information systems",
+        "label": 0
+    },
+    {
+        "venue1": "scandinavian journal of work environment   health",
+        "venue2": "scandinavian journal of work environment   health",
+        "label": 1
+    },
+    {
+        "venue1": "structural engineering earthquake engineering",
+        "venue2": "structural engineering   earthquake engineering",
+        "label": 1
+    },
+    {
+        "venue1": "journal of north university of china",
+        "venue2": "journal of north china university of technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of mining and metallurgy section a mining",
+        "venue2": "journal of mining and metallurgy section b metallurgy",
+        "label": 1
+    },
+    {
+        "venue1": "chinese journal of bone and joint",
+        "venue2": "chinese journal of bone and joint surgery",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural research",
+        "venue2": "agricultural research and application",
+        "label": 0
+    },
+    {
+        "venue1": "management   economic information",
+        "venue2": " journal of shaanxi administration school and shaanxi economic management school",
+        "label": 0
+    },
+    {
+        "venue1": "transactions of j w r i",
+        "venue2": "transactions of the sdps",
+        "label": 0
+    },
+    {
+        "venue1": "journal of henan institute of engineering",
+        "venue2": "journal of henan institute of engineering natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of software engineering",
+        "venue2": "software engineering journal   object oriented systems",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of educational thought",
+        "venue2": "journal of xiamen educational college",
+        "label": 0
+    },
+    {
+        "venue1": "innovative food science and emerging technologies",
+        "venue2": "innovative food science   emerging technologies",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of information technology",
+        "venue2": "international journal of computer games technology   networking for computer games",
+        "label": 0
+    },
+    {
+        "venue1": "experimental biology",
+        "venue2": "journal of experimental biology",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of obstetrics and gynecology",
+        "venue2": "journal of psychosomatic obstetrics and gynecology",
+        "label": 0
+    },
+    {
+        "venue1": "networks and spatial economics",
+        "venue2": "networks   spatial economics",
+        "label": 1
+    },
+    {
+        "venue1": "journal of information engineering and applications",
+        "venue2": "international journal of supercomputer applications and high performance engineering",
+        "label": 0
+    },
+    {
+        "venue1": "psychology today",
+        "venue2": "informatics and psychology workshop",
+        "label": 0
+    },
+    {
+        "venue1": "world health",
+        "venue2": "e health",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural engineering today",
+        "venue2": "agricultural engineering technology",
+        "label": 0
+    },
+    {
+        "venue1": "russian and east european studies",
+        "venue2": "east european russian   central asian studies",
+        "label": 1
+    },
+    {
+        "venue1": "plastics world",
+        "venue2": "guangdong plastics",
+        "label": 0
+    },
+    {
+        "venue1": "medical equipment",
+        "venue2": "modern medical equipment and application",
+        "label": 0
+    },
+    {
+        "venue1": "canadian psychology",
+        "venue2": "canadian psychology psychologie canadienne",
+        "label": 1
+    },
+    {
+        "venue1": "journal of xihua teachers college",
+        "venue2": "journal of xihua teachers college natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "polymer materials science and engineering",
+        "venue2": "polymer materials science   engineering",
+        "label": 1
+    },
+    {
+        "venue1": "journal of fujian agriculture and forestry university",
+        "venue2": "journal of fujian agriculture and forestry university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "plastics world",
+        "venue2": "plastics manufacture",
+        "label": 0
+    },
+    {
+        "venue1": "public works",
+        "venue2": "for the public good",
+        "label": 0
+    },
+    {
+        "venue1": "modern medicine",
+        "venue2": "modern medicine   health",
+        "label": 0
+    },
+    {
+        "venue1": "world studies in education",
+        "venue2": "studies in preschool education",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yangzhou university",
+        "venue2": "journal of taxation college of yangzhou university",
+        "label": 0
+    },
+    {
+        "venue1": "open linguistics",
+        "venue2": "nankai linguistics",
+        "label": 0
+    },
+    {
+        "venue1": "paradigms",
+        "venue2": "the new security paradigms workshop",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural sciences",
+        "venue2": "tibetan journal of agricultural sciences",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of geology",
+        "venue2": "chinese journal of geology",
+        "label": 0
+    },
+    {
+        "venue1": "land",
+        "venue2": "land greening",
+        "label": 0
+    },
+    {
+        "venue1": "science and research",
+        "venue2": "research on library science",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of geology",
+        "venue2": "journal of geology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of inner mongolia polytechnic university",
+        "venue2": "journal of inner mongolia polytechnic university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of hehai university",
+        "venue2": "journal of hehai university  natural sciences  ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of huaibei normal university",
+        "venue2": "journal of huaibei normal university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of jilin normal university",
+        "venue2": "jilin normal university journal humanities and social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "in vitro cellular   developmental biology animal",
+        "venue2": "in vitro cellular   developmental biology animal",
+        "label": 1
+    },
+    {
+        "venue1": "the international journal of aviation psychology",
+        "venue2": "international journal of aviation psychology",
+        "label": 1
+    },
+    {
+        "venue1": "early american studies",
+        "venue2": "american studies quarterly",
+        "label": 0
+    },
+    {
+        "venue1": "discrete and computational geometry",
+        "venue2": "japanese conference on discrete and computational geometry",
+        "label": 0
+    },
+    {
+        "venue1": "journal of civil engineering and architecture",
+        "venue2": "journal of beijing institute of civil engineering and architecture",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of laparoscopic surgery",
+        "venue2": "chinese journal of laparoscopic surgery electronic edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of shaanxi university of science and technology",
+        "venue2": "journal of shaanxi university of science   technology natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "rural china",
+        "venue2": "china rural credit cooperative",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of information technology",
+        "venue2": "international journal of advanced manufacturing technology",
+        "label": 0
+    },
+    {
+        "venue1": "arts and social sciences journal",
+        "venue2": "journal of chongqing university of arts and sciences social sciences edition ",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of home science",
+        "venue2": "acis international journal of computer   information science",
+        "label": 0
+    },
+    {
+        "venue1": "iron and steel technology",
+        "venue2": "iron   steel technology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of shenyang institute of engineering",
+        "venue2": "journal of shenyang institute of engineering natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "the european journal of medicine",
+        "venue2": "european journal of nuclear medicine",
+        "label": 0
+    },
+    {
+        "venue1": "world of obstetrics and gynecology",
+        "venue2": "progress in obstetrics and gynecology",
+        "label": 1
+    },
+    {
+        "venue1": "biomedical journal",
+        "venue2": "journal of biomedical imaging",
+        "label": 0
+    },
+    {
+        "venue1": "the public historian",
+        "venue2": "public historian",
+        "label": 1
+    },
+    {
+        "venue1": "the astronomy and astrophysics review",
+        "venue2": "astronomy and astrophysics review",
+        "label": 1
+    },
+    {
+        "venue1": "open hematology journal",
+        "venue2": "the open hematology journal",
+        "label": 1
+    },
+    {
+        "venue1": "public works",
+        "venue2": "public historian",
+        "label": 0
+    },
+    {
+        "venue1": "journal of industrial hygiene",
+        "venue2": "chinese journal of urban and rural industrial hygiene",
+        "label": 0
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "theory culture   society",
+        "label": 0
+    },
+    {
+        "venue1": "infectious diseases",
+        "venue2": "workshop for control of emerging infectious diseases",
+        "label": 0
+    },
+    {
+        "venue1": "journal of jilin institute of architectural and civil",
+        "venue2": "journal of jilin institute of architectural   civil",
+        "label": 1
+    },
+    {
+        "venue1": "public works",
+        "venue2": "public nelation world",
+        "label": 0
+    },
+    {
+        "venue1": "management international",
+        "venue2": "proceedings of the fifth international workshop on data management on new hardware",
+        "label": 0
+    },
+    {
+        "venue1": "materials science and engineering r",
+        "venue2": "polymer materials science   engineering",
+        "label": 0
+    },
+    {
+        "venue1": "the business review",
+        "venue2": "21st century business review",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural research",
+        "venue2": "australian journal of agricultural research",
+        "label": 0
+    },
+    {
+        "venue1": "group analysis",
+        "venue2": "network analysis",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of one health",
+        "venue2": "journal of international reproductive health family planning",
+        "label": 0
+    },
+    {
+        "venue1": "ludong university journal",
+        "venue2": "ludong university journal natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of shaanxi normal university",
+        "venue2": "journal of further education of shaanxi normal university",
+        "label": 0
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of jiangsu institute of education natural science ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of law   politics",
+        "venue2": "journal  of beijing college of politics and law",
+        "label": 0
+    },
+    {
+        "venue1": "the american journal of surgical pathology",
+        "venue2": "american journal of surgical pathology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of early modern studies",
+        "venue2": "journal of modern chinese studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of law   politics",
+        "venue2": "beijing management college of politics and law journal",
+        "label": 0
+    },
+    {
+        "venue1": "journal of science educational science",
+        "venue2": "journal of inner mongolia normal university educational science ",
+        "label": 0
+    },
+    {
+        "venue1": "social network analysis and mining",
+        "venue2": "snakdd'08 proceedings of the second international conference on advances in social network mining and analysis",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of technology",
+        "venue2": "international journal of computer science   information technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of baoji university of arts and sciences",
+        "venue2": "journal of baoji university of arts and sciences social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of information technology",
+        "venue2": "information sciences: an international journal   special issue: information technology",
+        "label": 0
+    },
+    {
+        "venue1": "the international economy",
+        "venue2": "studies in international technology and economy",
+        "label": 0
+    },
+    {
+        "venue1": "journal of fuzhou university",
+        "venue2": "journal of fuzhou university philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of arts and social sciences",
+        "venue2": "journal of xiamen university arts   social sciences ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hangzhou normal university",
+        "venue2": "journal of hangzhou normal university natural sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "software engineering   management",
+        "venue2": "software engineering for tailor made data management",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of philosophy",
+        "venue2": "theoria a swedish journal of philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "journal of ancient philosophy",
+        "venue2": "phronesis a journal for ancient philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "journal of food safety and quality",
+        "venue2": "journal of food safety   quality",
+        "label": 1
+    },
+    {
+        "venue1": "journal of jilin normal university",
+        "venue2": "jilin normal university journal  natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "diagnostic and interventional imaging",
+        "venue2": "journal of diagnostic imaging   interventional radiology",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of american science",
+        "venue2": "journal of the american society for information science",
+        "label": 0
+    },
+    {
+        "venue1": "annals of software engineering",
+        "venue2": "annals of software engineering   special issue on software engineering education",
+        "label": 1
+    },
+    {
+        "venue1": "medicine and law",
+        "venue2": "the journal of law   medicine",
+        "label": 1
+    },
+    {
+        "venue1": "journal of hangzhou normal university",
+        "venue2": "journal of hangzhou normal university medical edition ",
+        "label": 1
+    },
+    {
+        "venue1": "group analysis",
+        "venue2": "non linear analysis",
+        "label": 0
+    },
+    {
+        "venue1": "us neurology",
+        "venue2": "archives of neurology",
+        "label": 1
+    },
+    {
+        "venue1": "the new philosophy",
+        "venue2": "international philosophy today",
+        "label": 0
+    },
+    {
+        "venue1": "t   t international",
+        "venue2": "international database conference  workshop ",
+        "label": 0
+    },
+    {
+        "venue1": "pharmaceutical engineering",
+        "venue2": "pharmaceutical engineering design",
+        "label": 1
+    },
+    {
+        "venue1": "journal of beijing normal university",
+        "venue2": "journal of beijing normal university social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of pathology",
+        "venue2": "journal of pathology",
+        "label": 1
+    },
+    {
+        "venue1": "nature today",
+        "venue2": "nature magazine",
+        "label": 0
+    },
+    {
+        "venue1": "journal of huaibei normal university",
+        "venue2": "journal of huaibei normal university philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yangtze university agricultural science volume",
+        "venue2": "journal of yangtze university natural science edition  agricultural science volume",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of research",
+        "venue2": "international journal of pharmaceutical research",
+        "label": 0
+    },
+    {
+        "venue1": "chemical engineering world",
+        "venue2": "higher education in chemical engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of arts and social sciences",
+        "venue2": "journal of chongqing university of arts and sciences social sciences edition ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of xinjiang normal university",
+        "venue2": "journal of xinjiang normal university edition of philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "rural china",
+        "venue2": "china rural survey",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the northwest normal university",
+        "venue2": "journal of the northwest normal university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "the first resource",
+        "venue2": "the x resource",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of entomology",
+        "venue2": "chinese journal of applied entomology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of baoji college of arts and science",
+        "venue2": "journal of baoji college of arts and science social science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yanan university",
+        "venue2": "journal of yanan university medical sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of serious games",
+        "venue2": "journal of the international computer games association",
+        "label": 0
+    },
+    {
+        "venue1": "inquiry",
+        "venue2": "inquiry into economic problems",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of ocular trauma and occupational eye disease",
+        "venue2": "chinese journal of ocular trauma and occupational eye disease with ophthalmic surgery ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of psychology",
+        "venue2": "heath psychology journal",
+        "label": 0
+    },
+    {
+        "venue1": "arts and social sciences journal",
+        "venue2": "journal of baoji university of arts and sciences social sciences edition ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of life sciences",
+        "venue2": "journal of zhejiang university agriculture and life sciences ",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of science and engineering",
+        "venue2": "international journal of systems science   intelligent control of high performance engineering systems",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of pathology",
+        "venue2": "indian journal of pathology and microbiology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of nuclear and particle physics",
+        "venue2": "journal of physics g nuclear and particle physics",
+        "label": 1
+    },
+    {
+        "venue1": "the spine journal",
+        "venue2": "spine journal",
+        "label": 1
+    },
+    {
+        "venue1": "vocational education",
+        "venue2": "health vocational education",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of open information technologies",
+        "venue2": "international journal of measurement technologies and instrumentation engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the second northwest university for nationalities",
+        "venue2": "journal of northwest university for nationalities philosophy and social science ",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of urology",
+        "venue2": "journal of urology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of nanchang hangkong university",
+        "venue2": "journal of nanchang hangkong university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of landscape architecture",
+        "venue2": "journal of guangdong landscape architecture",
+        "label": 1
+    },
+    {
+        "venue1": "journal of software engineering",
+        "venue2": "software engineering journal   special section on z",
+        "label": 1
+    },
+    {
+        "venue1": "journal of arts and social sciences",
+        "venue2": "journal of baoji university of arts and sciences social science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "cognitive affective   behavioral neuroscience",
+        "venue2": "cognitive affective   behavioral neuroscience",
+        "label": 1
+    },
+    {
+        "venue1": "applied computer science",
+        "venue2": "theoretical computer science   applied semantics",
+        "label": 0
+    },
+    {
+        "venue1": "plastics world",
+        "venue2": "shanghai plastics",
+        "label": 0
+    },
+    {
+        "venue1": "veterinary world",
+        "venue2": "veterinary orientation",
+        "label": 0
+    },
+    {
+        "venue1": "environmental and resource economics",
+        "venue2": "environmental   resource economics",
+        "label": 1
+    },
+    {
+        "venue1": "journal of imaging",
+        "venue2": "imaging science journal",
+        "label": 1
+    },
+    {
+        "venue1": "journal of hubei university for nationalities",
+        "venue2": "journal of hubei university for nationalities natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of software",
+        "venue2": "journal of software maintenance",
+        "label": 0
+    },
+    {
+        "venue1": "the reading teacher",
+        "venue2": "reading teacher",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of computing",
+        "venue2": "international journal of reconfigurable computing   regular issue",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of commerce",
+        "venue2": "journal of tianjin college of commerce",
+        "label": 0
+    },
+    {
+        "venue1": "botany",
+        "venue2": "botany botanique",
+        "label": 1
+    },
+    {
+        "venue1": "discrete and computational geometry",
+        "venue2": "discrete   computational geometry   23rd annual symposium on computational geometry",
+        "label": 1
+    },
+    {
+        "venue1": "antibiotics",
+        "venue2": "journal of antibiotics",
+        "label": 1
+    },
+    {
+        "venue1": "open linguistics",
+        "venue2": "chinese linguistics",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of open information technologies",
+        "venue2": "international journal of interactive communication systems and technologies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of law   politics",
+        "venue2": "journal of the east china university of politics   law",
+        "label": 0
+    },
+    {
+        "venue1": "english teaching",
+        "venue2": "elementary english teaching journal",
+        "label": 0
+    },
+    {
+        "venue1": "journal of guangzhou university",
+        "venue2": "journal of guangzhou university social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of new technology and materials",
+        "venue2": "journal of electronic materials   alternative substrate technology",
+        "label": 0
+    },
+    {
+        "venue1": "computing systems in engineering",
+        "venue2": "engineering interactive computing systems",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of american science",
+        "venue2": "journal of the american society for information science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of north university of china",
+        "venue2": "journal of north university of china social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "world journal of clinical oncology",
+        "venue2": "chinese journal of clinical oncology",
+        "label": 0
+    },
+    {
+        "venue1": "annual review of automatic programming",
+        "venue2": "annual review in automatic programming",
+        "label": 1
+    },
+    {
+        "venue1": "the archaeological journal",
+        "venue2": "archaeologies journal of the world archaeological congress",
+        "label": 1
+    },
+    {
+        "venue1": "world studies in education",
+        "venue2": "studies in foreign education",
+        "label": 0
+    },
+    {
+        "venue1": "modern nursing home",
+        "venue2": "modern clinical nursing",
+        "label": 0
+    },
+    {
+        "venue1": "european journal of general medicine",
+        "venue2": "european journal of nuclear medicine",
+        "label": 0
+    },
+    {
+        "venue1": "latest thinking",
+        "venue2": "new thinking",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of forestry",
+        "venue2": "state academy of forestry administration journal",
+        "label": 0
+    },
+    {
+        "venue1": "automotive engineering international",
+        "venue2": "seas '05 proceedings of the second international workshop on software engineering for automotive systems",
+        "label": 0
+    },
+    {
+        "venue1": "journal of shenyang institute of engineering",
+        "venue2": "journal of shenyang institute of engineering social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "international journal of knowledge management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of south central university for nationalities",
+        "venue2": "journal of south central university for nationalities philosophy and social science ",
+        "label": 1
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "medicine world",
+        "label": 0
+    },
+    {
+        "venue1": "journal of software",
+        "venue2": "software law journal",
+        "label": 0
+    },
+    {
+        "venue1": "the scandinavian journal of economics",
+        "venue2": "scandinavian journal of economics",
+        "label": 1
+    },
+    {
+        "venue1": "journal of central china normal university",
+        "venue2": "journal of central china normal university natural sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "adult learning",
+        "venue2": "innovative adult learning with innovative technologies",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of shanxi teachers university",
+        "venue2": "journal of shanxi teachers university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "journal of new medicine",
+        "label": 0
+    },
+    {
+        "venue1": "public works",
+        "venue2": "public relations world",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of hellenic studies",
+        "venue2": "journal of hellenic studies",
+        "label": 1
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "new chinese medicine",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of serious games",
+        "venue2": "international journal of computer games technology   networking for computer games",
+        "label": 0
+    },
+    {
+        "venue1": "journal of university of jinan",
+        "venue2": "journal of jinan university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "biosensors and bioelectronics",
+        "venue2": "biosensors   bioelectronics",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of technology",
+        "venue2": "international journal of computer games technology   networking for computer games",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of stomatology",
+        "venue2": "journal of international stomatology",
+        "label": 0
+    },
+    {
+        "venue1": "materials science and engineering r",
+        "venue2": "journal of materials science and engineering",
+        "label": 1
+    },
+    {
+        "venue1": "journal of hangzhou normal university",
+        "venue2": "journal of hangzhou normal university humanities and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "fluids",
+        "venue2": "computers and fluids",
+        "label": 0
+    },
+    {
+        "venue1": "psychology today",
+        "venue2": "informatics and psychology workshop",
+        "label": 0
+    },
+    {
+        "venue1": "astronomy and computing",
+        "venue2": "proceedings of the 2012 workshop on high performance computing for astronomy date",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hangzhou normal university",
+        "venue2": "journal of hangzhou normal university social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of immunology",
+        "venue2": "journal of allergy and clinical immunology",
+        "label": 0
+    },
+    {
+        "venue1": "world journal of critical care medicine",
+        "venue2": "chinese journal of integrated traditional and western medicine in intentire critical care",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of american science",
+        "venue2": "journal of the american society for information science and technology   bioinformatics",
+        "label": 0
+    },
+    {
+        "venue1": "journal of signal and information processing",
+        "venue2": "eurasip journal on applied signal processing",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "international journal of risk and contingency management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hohai university",
+        "venue2": "journal of hohai university natural sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "american journal of clinical oncology",
+        "venue2": "american journal of clinical oncology cancer clinical trials",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural sciences",
+        "venue2": "shaanxi journal of agricultural sciences",
+        "label": 0
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "culture   communication",
+        "label": 0
+    },
+    {
+        "venue1": "traffic management",
+        "venue2": "road traffic management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of inner mongolia normal university",
+        "venue2": "journal of inner mongolia normal university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "world cultures",
+        "venue2": "the religions cultures in the world",
+        "label": 0
+    },
+    {
+        "venue1": "applied chemistry",
+        "venue2": "journal of applied chemistry",
+        "label": 1
+    },
+    {
+        "venue1": "computers in education",
+        "venue2": "world conference on computers in education",
+        "label": 1
+    },
+    {
+        "venue1": "the australian journal of anthropology",
+        "venue2": "australian journal of anthropology",
+        "label": 1
+    },
+    {
+        "venue1": "the georgia review",
+        "venue2": "georgia review",
+        "label": 1
+    },
+    {
+        "venue1": "world health",
+        "venue2": "wireless health",
+        "label": 0
+    },
+    {
+        "venue1": "latest thinking",
+        "venue2": "thinking and wisdom",
+        "label": 0
+    },
+    {
+        "venue1": "integration",
+        "venue2": "intelligent information integration",
+        "label": 0
+    },
+    {
+        "venue1": "computer graphics and image processing",
+        "venue2": "computer vision  graphics  and image processing",
+        "label": 0
+    },
+    {
+        "venue1": "rural china",
+        "venue2": "china rural economy",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "international journal of man machine studies   what programmers know",
+        "label": 0
+    },
+    {
+        "venue1": "materials today proceedings",
+        "venue2": "new chemical materials",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of engineering",
+        "venue2": "international journal on software engineering and knowledge engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of shanxi teachers university",
+        "venue2": "journal of shanxi teachers university social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "canadian journal of zoology",
+        "venue2": "canadian journal of zoology revue canadienne de zoologie",
+        "label": 1
+    },
+    {
+        "venue1": "journal of hebei polytechnic university",
+        "venue2": "journal of hebei polytechnic university social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of pathology",
+        "venue2": "journal of audiology and speech pathology",
+        "label": 0
+    },
+    {
+        "venue1": "northwest education",
+        "venue2": "journal of the northwest adult education",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yanan university",
+        "venue2": "journal of yanan university  medical sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "research in higher education journal",
+        "venue2": "a journal of research in education",
+        "label": 0
+    },
+    {
+        "venue1": "south african journal of chemistry",
+        "venue2": "south african journal of chemistry suid afrikaanse tydskrif vir chemie",
+        "label": 1
+    },
+    {
+        "venue1": "information systems management",
+        "venue2": "information  knowledge  systems management",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of information technology",
+        "venue2": "international journal of computer applications in technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing university of science and technology",
+        "venue2": "journal of chongqing university of science and technology natural sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of inner mongolia normal university education science ",
+        "label": 0
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "culture health   sexuality",
+        "label": 0
+    },
+    {
+        "venue1": "journal of logistics university of capf",
+        "venue2": "journal of logistics university of capf medical sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of civil engineering and architecture",
+        "venue2": "journal of information technology in civil engineering and architecture",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of management it and engineering",
+        "venue2": "international journal of multimedia data engineering   management",
+        "label": 0
+    },
+    {
+        "venue1": "the consultant",
+        "venue2": "farmer's consultant",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing university of science and technology",
+        "venue2": "journal of chongqing university of science and technology social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of membrane biology",
+        "venue2": "journal of membrane biology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of jiangsu institute of education nature science ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of design and science",
+        "venue2": "journal of integrated design   process science",
+        "label": 0
+    },
+    {
+        "venue1": "research in review",
+        "venue2": "the new review of information behaviour research",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of civil engineering",
+        "venue2": "journal of information technology in civil engineering and architecture",
+        "label": 0
+    },
+    {
+        "venue1": "journal of shandong institute of mining and technology",
+        "venue2": "journal of shandong institute of mining and technology social science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of natural sciences engineering and technology",
+        "venue2": "journal of jilin teachers institute of engineering and technology natural sciences edition ",
+        "label": 0
+    },
+    {
+        "venue1": "the new philosophy",
+        "venue2": "the palace of philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "journal of fujian agriculture and forestry university",
+        "venue2": "journal of fujian agriculture and forestry university philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "manager journal",
+        "venue2": "journal of tianjin manager college",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of american science",
+        "venue2": "journal of the american society for information science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "problems of legality",
+        "venue2": "government legality",
+        "label": 0
+    },
+    {
+        "venue1": "journal of liaocheng university",
+        "venue2": "journal of liaocheng university social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "electronic colloquium on computational complexity",
+        "venue2": "electronic colloquium on computational complexity  eccc ",
+        "label": 1
+    },
+    {
+        "venue1": "computers in education",
+        "venue2": "computers and advanced technology in education",
+        "label": 1
+    },
+    {
+        "venue1": "journal of huazhong normal university",
+        "venue2": "journal of huazhong normal university natural sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "the east and the west",
+        "venue2": "philosophy east   west",
+        "label": 1
+    },
+    {
+        "venue1": "journal of henan education institute",
+        "venue2": "journal of henan institute of education natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "rural china",
+        "venue2": "rural credit cooperative of china",
+        "label": 0
+    },
+    {
+        "venue1": "the institute of electrical and electronics engineers",
+        "venue2": "the institute of electrical and electronics engineers  inc on conference on software maintenance  1985",
+        "label": 1
+    },
+    {
+        "venue1": "social science journal of xiangtan university",
+        "venue2": "journal of xiangtan normal university social science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of computer network and information security",
+        "venue2": "computer networks: the international journal of computer and telecommunications networking   special issue on computer network security",
+        "label": 0
+    },
+    {
+        "venue1": "cognition",
+        "venue2": "spatial cognition",
+        "label": 0
+    },
+    {
+        "venue1": "ems world",
+        "venue2": "ems insider",
+        "label": 1
+    },
+    {
+        "venue1": "sulphuric acid and industry",
+        "venue2": "sulphuric acid industry",
+        "label": 1
+    },
+    {
+        "venue1": "management and technology of sme",
+        "venue2": "management   technology of sme",
+        "label": 1
+    },
+    {
+        "venue1": "journal of endocrinology and metabolism",
+        "venue2": "journal of clinical endocrinology   metabolism",
+        "label": 1
+    },
+    {
+        "venue1": "journal of software engineering",
+        "venue2": "software engineering journal   controlling software projects",
+        "label": 1
+    },
+    {
+        "venue1": "russian journal of physical chemistry a",
+        "venue2": "russian journal of physical chemistry",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of educational thought",
+        "venue2": "journal of xianmen educational college",
+        "label": 0
+    },
+    {
+        "venue1": "healthcare",
+        "venue2": "e healthcare",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of law and information science",
+        "venue2": "science of law journal of northwest university of political science and law ",
+        "label": 0
+    },
+    {
+        "venue1": "on optical information systems",
+        "venue2": "on optical information systems '86",
+        "label": 1
+    },
+    {
+        "venue1": "management   economic information",
+        "venue2": "contemporary economic management",
+        "label": 0
+    },
+    {
+        "venue1": "public works",
+        "venue2": "public utilites",
+        "label": 0
+    },
+    {
+        "venue1": "journal of industrial hygiene",
+        "venue2": "chinese journal of industrial hygiene and occupational diseases",
+        "label": 0
+    },
+    {
+        "venue1": "medicine and law",
+        "venue2": "the journal of law and medicine",
+        "label": 1
+    },
+    {
+        "venue1": "journal of chongqing university of science and technology",
+        "venue2": "journal of chongqing university of technology natural science",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of intelligent systems and applications",
+        "venue2": "international journal of knowledge based and intelligent engineering systems   advanced intelligent techniques in engineering applications",
+        "label": 0
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "world chinese medicine",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of neuroscience",
+        "venue2": "journal of neuroscience",
+        "label": 1
+    },
+    {
+        "venue1": "journal of southwest university",
+        "venue2": "journal of southwest university social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yangzhou university",
+        "venue2": "journal of yangzhou university higher education study edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of clinical trials",
+        "venue2": "american journal of clinical oncology cancer clinical trials",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "supply chain management an international journal",
+        "label": 0
+    },
+    {
+        "venue1": "problems of quality",
+        "venue2": "shanghai quality",
+        "label": 0
+    },
+    {
+        "venue1": "journal of artificial societies and social simulation",
+        "venue2": "the journal of artificial societies and social simulation",
+        "label": 1
+    },
+    {
+        "venue1": "journal of shihezi university",
+        "venue2": "journal of shihezi university philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of computing",
+        "venue2": "international journal of optical computing",
+        "label": 0
+    },
+    {
+        "venue1": "journal of huazhong normal university",
+        "venue2": "journal of huazhong normal university humanities and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "trends in food science and technology",
+        "venue2": "trends in food science   technology",
+        "label": 1
+    },
+    {
+        "venue1": "public law",
+        "venue2": "public administration   law",
+        "label": 1
+    },
+    {
+        "venue1": "the german quarterly",
+        "venue2": "german quarterly",
+        "label": 1
+    },
+    {
+        "venue1": "world cement",
+        "venue2": "cement",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of theological studies",
+        "venue2": "journal of theological studies",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of sensor networks",
+        "venue2": "international journal of distributed sensor networks   advances on heterogeneous wireless sensor networks",
+        "label": 0
+    },
+    {
+        "venue1": "ludong university journal",
+        "venue2": "ludong  university journal natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "international journal of human computer studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of liaocheng university",
+        "venue2": "journal of liaocheng university social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "world culture",
+        "label": 0
+    },
+    {
+        "venue1": "journal of fuzhou university",
+        "venue2": "journal of fuzhou university philosophy and social science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of soochow university",
+        "venue2": "journal of soochow university engineering science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of higher criticism",
+        "venue2": "journal of aesthetics and art criticism",
+        "label": 0
+    },
+    {
+        "venue1": "the observatory",
+        "venue2": "observatory",
+        "label": 1
+    },
+    {
+        "venue1": "modern medicine",
+        "venue2": "modern medicine journal of china",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the university of shanghai for science and technology",
+        "venue2": "journal of university of shanghai for science and technology",
+        "label": 1
+    },
+    {
+        "venue1": "iron and steel technology",
+        "venue2": "journal of baotou university fo iron and steel technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of university of jinan",
+        "venue2": "journal of jinan university science and technology ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of molecular medicine",
+        "venue2": "journal of molecular medicine jmm",
+        "label": 1
+    },
+    {
+        "venue1": "group analysis",
+        "venue2": "proceedings of the analysis conference on analysis conference",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of statistics",
+        "venue2": "chinese journal of health statistics",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of experimental biology",
+        "venue2": "journal of experimental biology",
+        "label": 1
+    },
+    {
+        "venue1": "studies in literature",
+        "venue2": "theoretical studies in literature and art",
+        "label": 0
+    },
+    {
+        "venue1": "problems of quality",
+        "venue2": "china quality",
+        "label": 0
+    },
+    {
+        "venue1": "journal of materials science   engineering",
+        "venue2": "journal of materials science and engineering",
+        "label": 1
+    },
+    {
+        "venue1": "journal of education science",
+        "venue2": "journal of inner mongolia normal university education science ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of south central university for nationalities",
+        "venue2": "journal of south central university for nationalities natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "research journal of science and technology",
+        "venue2": "journal of the american society for information science and technology   research articles",
+        "label": 0
+    },
+    {
+        "venue1": "safety and health at work",
+        "venue2": "safety   health at work",
+        "label": 1
+    },
+    {
+        "venue1": "plastics world",
+        "venue2": "world plastics",
+        "label": 1
+    },
+    {
+        "venue1": "discrete and computational geometry",
+        "venue2": "jcdcg'04 proceedings of the 2004 japanese conference on discrete and computational geometry",
+        "label": 1
+    },
+    {
+        "venue1": "home health journal",
+        "venue2": "chinese journal of health inspection",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hubei university for nationalities",
+        "venue2": "journal of hubei university for nationalities medical edition ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of design",
+        "venue2": "international journal of online pedagogy and course design",
+        "label": 0
+    },
+    {
+        "venue1": "computer graphics and image processing",
+        "venue2": "graphical models  graphical models and image processing  computer vision  graphics  and image processing",
+        "label": 0
+    },
+    {
+        "venue1": "world journal of dentistry",
+        "venue2": "european journal of paediatric dentistry",
+        "label": 0
+    },
+    {
+        "venue1": "mobile networks and applications",
+        "venue2": "mobile networks   applications",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of intelligent systems and applications",
+        "venue2": "international journal of intelligent systems   granular computing: models and applications",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of intelligent systems and applications",
+        "venue2": "international journal of intelligent systems   decision sciences: foundations and applications",
+        "label": 1
+    },
+    {
+        "venue1": "arts and social sciences journal",
+        "venue2": "journal of xiamen university arts   social sciences ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing normal university",
+        "venue2": "journal of chongqing normal university edition of social sciences",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of architecture",
+        "venue2": "journal of guangdong landscape architecture",
+        "label": 0
+    },
+    {
+        "venue1": "energy science and technology",
+        "venue2": "journal of nuclear energy  parts a b  reactor science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of guizhou university of technology",
+        "venue2": "journal of guizhou university of technology natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "results in physics",
+        "venue2": "nuclear physics b",
+        "label": 0
+    },
+    {
+        "venue1": "fine arts journal",
+        "venue2": "journal of nanjing arts institute fine arts   design",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of pathology",
+        "venue2": "journal of audiology and speech pathology",
+        "label": 0
+    },
+    {
+        "venue1": "russian and east european studies",
+        "venue2": "russian central asian   east european studies",
+        "label": 1
+    },
+    {
+        "venue1": "journal of north university of china",
+        "venue2": "journal of north university of china natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "economics and business",
+        "venue2": "journal of business economics",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of urology",
+        "venue2": "journal of minimally invasive urology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the canadian dietetic association",
+        "venue2": "journal of the canadian dietetic association revue de l association canadienne des dietetistes",
+        "label": 1
+    },
+    {
+        "venue1": "journal of jilin normal university",
+        "venue2": "journal of jilin normal university humanities   social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of arts and social sciences",
+        "venue2": "journal of baoji university of arts and sciences social sciences ",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of science and engineering",
+        "venue2": "international journal of computer mathematics   distributed algorithms in science and engineering",
+        "label": 0
+    },
+    {
+        "venue1": "sequence",
+        "venue2": "sequence learning",
+        "label": 0
+    },
+    {
+        "venue1": "today s or nurse",
+        "venue2": "family nurse",
+        "label": 0
+    },
+    {
+        "venue1": "journal of guangzhou university",
+        "venue2": "journal of guangzhou university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "fine arts journal",
+        "venue2": "journal of hubei institute of fine arts",
+        "label": 0
+    },
+    {
+        "venue1": "world poultry",
+        "venue2": "shandong poultry",
+        "label": 0
+    },
+    {
+        "venue1": "journal of physics b",
+        "venue2": "journal of atmospheric and terrestrial physics",
+        "label": 0
+    },
+    {
+        "venue1": "journal of nanjing institute of physical education",
+        "venue2": "journal of nanjing institute of physical education natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "world studies in education",
+        "venue2": "studies in preschool education",
+        "label": 0
+    },
+    {
+        "venue1": "paradigms",
+        "venue2": "new security paradigms and workshop",
+        "label": 1
+    },
+    {
+        "venue1": "advances in biochemical engineering biotechnology",
+        "venue2": "advances in biochemical engineering   biotechnology",
+        "label": 1
+    },
+    {
+        "venue1": "infectious diseases",
+        "venue2": "journal of infectious diseases",
+        "label": 1
+    },
+    {
+        "venue1": "psychiatry information in brief",
+        "venue2": "psychiatry",
+        "label": 0
+    },
+    {
+        "venue1": "journal of guizhou university of technology",
+        "venue2": "journal of guizhou university of technology social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of philosophy",
+        "venue2": "phronesis a journal for ancient philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "journal of jiangsu normal university",
+        "venue2": "journal of jiangsu normal university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the northwest normal university",
+        "venue2": "journal of northwest normal university normal university ",
+        "label": 1
+    },
+    {
+        "venue1": "discrete and computational geometry",
+        "venue2": "discrete   computational geometry   acm symposium on computational geometry  waterloo",
+        "label": 1
+    },
+    {
+        "venue1": "journal of nature and science",
+        "venue2": "journal of qinghai university nature science ",
+        "label": 0
+    },
+    {
+        "venue1": "pacing and clinical electrophysiology",
+        "venue2": "pace pacing and clinical electrophysiology",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of research",
+        "venue2": "international journal of information and library research",
+        "label": 0
+    },
+    {
+        "venue1": "the canadian journal of linguistics la revue canadienne de linguistique",
+        "venue2": "the canadian journal of linguistics   la revue canadienne de linguistique",
+        "label": 1
+    },
+    {
+        "venue1": "latest thinking",
+        "venue2": "c thinking",
+        "label": 0
+    },
+    {
+        "venue1": "world water",
+        "venue2": "water technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of clinical medicine",
+        "venue2": "clinical medicine and subhealth journal",
+        "label": 0
+    },
+    {
+        "venue1": "psychological thought",
+        "venue2": "psychological research",
+        "label": 0
+    },
+    {
+        "venue1": "logos",
+        "venue2": "logos vilnius",
+        "label": 1
+    },
+    {
+        "venue1": "public works",
+        "venue2": "public art",
+        "label": 0
+    },
+    {
+        "venue1": "philosophy and history",
+        "venue2": "history of chinese philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "law and humanities",
+        "venue2": "law  culture and the humanities",
+        "label": 1
+    },
+    {
+        "venue1": "journal of higher criticism",
+        "venue2": "the yale journal of criticism",
+        "label": 0
+    },
+    {
+        "venue1": "world studies in education",
+        "venue2": "studies in foreign education",
+        "label": 0
+    },
+    {
+        "venue1": "medical science and technology",
+        "venue2": "journal of henan university of science and technology medical science ",
+        "label": 0
+    },
+    {
+        "venue1": "group analysis",
+        "venue2": "network analysis",
+        "label": 0
+    },
+    {
+        "venue1": "safety and health at work",
+        "venue2": "safety and health",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of educational thought",
+        "venue2": "journal of shanxi educational college",
+        "label": 0
+    },
+    {
+        "venue1": "cambridge law journal",
+        "venue2": "the cambridge law journal",
+        "label": 1
+    },
+    {
+        "venue1": "medical record",
+        "venue2": "chinese medical record",
+        "label": 0
+    },
+    {
+        "venue1": "journal of mathematics research",
+        "venue2": "ibm journal of research and development   mathematics and computing",
+        "label": 0
+    },
+    {
+        "venue1": "energy science and technology",
+        "venue2": "atomic energy science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "the philosophical review",
+        "venue2": "dialogue canadian philosophical review",
+        "label": 0
+    },
+    {
+        "venue1": "journal of soochow university",
+        "venue2": "journal of soochow university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the institute of electrical and electronics engineers",
+        "venue2": "institute of electrical and electronics engineers on fifth international phoenix conference on computers and communications",
+        "label": 1
+    },
+    {
+        "venue1": "journal of henan education institute",
+        "venue2": "journal of henan institute of education philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of open information technologies",
+        "venue2": "international journal of systems biology and biomedical technologies",
+        "label": 0
+    },
+    {
+        "venue1": "politics and policy",
+        "venue2": "politics   policy",
+        "label": 1
+    },
+    {
+        "venue1": "journal of inner mongolia normal university",
+        "venue2": "journal of inner mongolia normal university educational science ",
+        "label": 1
+    },
+    {
+        "venue1": "discrete and computational geometry",
+        "venue2": "discrete  computational geometry",
+        "label": 1
+    },
+    {
+        "venue1": "russian and east european studies",
+        "venue2": "russian  central asian   east european studies",
+        "label": 1
+    },
+    {
+        "venue1": "journal of slavic military studies",
+        "venue2": "the journal of slavic military studies",
+        "label": 1
+    },
+    {
+        "venue1": "world health",
+        "venue2": "wireless health",
+        "label": 0
+    },
+    {
+        "venue1": "safety and health at work",
+        "venue2": "safety health   environment",
+        "label": 0
+    },
+    {
+        "venue1": "the spine journal",
+        "venue2": "journal of neurosurgery spine",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the second northwest university for nationalities",
+        "venue2": "journal of northwest minorities university for nationalities natural science ",
+        "label": 0
+    },
+    {
+        "venue1": "management international",
+        "venue2": "international journal of knowledge management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing normal university",
+        "venue2": "journal of chongqing normal university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of computing",
+        "venue2": "international journal of cloud applications and computing",
+        "label": 0
+    },
+    {
+        "venue1": "the electronic journal",
+        "venue2": "the electronic journal of combinatorics",
+        "label": 0
+    },
+    {
+        "venue1": "african development review",
+        "venue2": "african development review revue africaine de developpement",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of molecular diagnostics",
+        "venue2": "journal of molecular diagnostics",
+        "label": 1
+    },
+    {
+        "venue1": "building to last",
+        "venue2": "intelligent building",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of vascular surgery",
+        "venue2": "chinese journal of vascular surgery electronic version ",
+        "label": 1
+    },
+    {
+        "venue1": "plastics world",
+        "venue2": "plastics packaging",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of artificial intelligence",
+        "venue2": "international journal of artificial intelligence in education   best of aied 2011",
+        "label": 0
+    },
+    {
+        "venue1": "gynecology   obstetrics",
+        "venue2": "digest of the world core medical journals obstetrics gynecology ",
+        "label": 0
+    },
+    {
+        "venue1": "protection from corrosion",
+        "venue2": "corrosion   protection",
+        "label": 1
+    },
+    {
+        "venue1": "people and place",
+        "venue2": "computers and people",
+        "label": 0
+    },
+    {
+        "venue1": "the medical bulletin",
+        "venue2": "bulletin of medical research",
+        "label": 1
+    },
+    {
+        "venue1": "science and research",
+        "venue2": "textile science research",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of food science education",
+        "venue2": "journal of food science education",
+        "label": 1
+    },
+    {
+        "venue1": "psychological thought",
+        "venue2": "psychological exploration",
+        "label": 0
+    },
+    {
+        "venue1": "nature climate change",
+        "venue2": "nature reports climate change",
+        "label": 1
+    },
+    {
+        "venue1": "management international",
+        "venue2": "proceedings of the international symposium on memory management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of industrial hygiene",
+        "venue2": "chinese journal of urban and industrial hygiene",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of pathology",
+        "venue2": "european journal of forest pathology",
+        "label": 0
+    },
+    {
+        "venue1": "building to last",
+        "venue2": "building construction",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yunnan university of nationalities",
+        "venue2": "journal of yunnan nationalities university natural sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "water supply",
+        "venue2": "city and town water supply",
+        "label": 0
+    },
+    {
+        "venue1": "journal of software engineering",
+        "venue2": "international journal on software engineering and knowledge engineering",
+        "label": 0
+    },
+    {
+        "venue1": "sports medicine open",
+        "venue2": "chinese journal of sports medicine",
+        "label": 0
+    },
+    {
+        "venue1": "academic journal of suzhou university",
+        "venue2": "academic journal of suzhou university philosophy and social science ",
+        "label": 1
+    },
+    {
+        "venue1": "fine arts journal",
+        "venue2": "journal of tianjin academy of fine arts",
+        "label": 0
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of jimei university education science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "noise   health",
+        "venue2": "noise and health",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of pain",
+        "venue2": "clinical journal of pain",
+        "label": 0
+    },
+    {
+        "venue1": "arts and social sciences journal",
+        "venue2": "journal of xi'an university of arts and science social sciences edition ",
+        "label": 0
+    },
+    {
+        "venue1": "materials in engineering",
+        "venue2": "raremetal materials and engineering",
+        "label": 0
+    },
+    {
+        "venue1": "electronics and power",
+        "venue2": "j  low power electronics",
+        "label": 0
+    },
+    {
+        "venue1": "mathematical sciences",
+        "venue2": "proceedings of the indian academy of sciences mathematical sciences",
+        "label": 1
+    },
+    {
+        "venue1": "journal of baoji university of arts and sciences",
+        "venue2": "journal of baoji university of arts and sciences natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the art of music journal of shanghai conservatory of music",
+        "venue2": "art of music journal of the shanghai conservatory of music ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of pediatrics",
+        "venue2": "journal of clinical pediatrics",
+        "label": 0
+    },
+    {
+        "venue1": "journal of tsinghua university",
+        "venue2": "journal of tsinghua university philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of minzu university of china",
+        "venue2": "journal of minzu university of china philosophy and social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the new doctor",
+        "venue2": "plant doctor",
+        "label": 0
+    },
+    {
+        "venue1": "studies in literature",
+        "venue2": "modern chinese literature studies",
+        "label": 0
+    },
+    {
+        "venue1": "e journal of cultural studies",
+        "venue2": "continuum journal of media   cultural studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of science educational science",
+        "venue2": "journal of hebei normal university educational science edition",
+        "label": 0
+    },
+    {
+        "venue1": "tropical parasitology",
+        "venue2": "journal of tropical diseases and parasitology",
+        "label": 0
+    },
+    {
+        "venue1": "comparative biochemistry and physiology b",
+        "venue2": "comparative biochemistry and physiology part b: biochemistry and molecular biology",
+        "label": 1
+    },
+    {
+        "venue1": "china finance review international",
+        "venue2": "2011 china finance review international conference",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of civil engineering",
+        "venue2": "journal of beijing institute of civil engineering and architecture",
+        "label": 0
+    },
+    {
+        "venue1": "journal of pediatric orthopaedics b",
+        "venue2": "journal of pediatric orthopaedics part b",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of research",
+        "venue2": "international journal of robotic research",
+        "label": 0
+    },
+    {
+        "venue1": "home health journal",
+        "venue2": "american journal of mens health",
+        "label": 0
+    },
+    {
+        "venue1": "results in physics",
+        "venue2": "nuclear physics a",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the second northwest university for nationalities",
+        "venue2": "journal of northwest university for nationalities philosophy and social science ",
+        "label": 0
+    },
+    {
+        "venue1": "analysis and optimization of systems",
+        "venue2": "proceedings of the 7th international conference on analysis and optimization for systems",
+        "label": 1
+    },
+    {
+        "venue1": "medical equipment journal",
+        "venue2": "medical journal of central equipment headquarters",
+        "label": 0
+    },
+    {
+        "venue1": "childhood and education journal",
+        "venue2": "journal of computing in childhood education",
+        "label": 0
+    },
+    {
+        "venue1": "journal of law   politics",
+        "venue2": "journal of henan administrative institute of politics and law",
+        "label": 0
+    },
+    {
+        "venue1": "arts and social sciences journal",
+        "venue2": "journal of baoji university of arts and sciences social sciences ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of science and technology of the arts",
+        "venue2": "journal of hunan university of arts and science science and technology ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of signal and information processing",
+        "venue2": "eurasip journal on applied signal processing",
+        "label": 0
+    },
+    {
+        "venue1": "the neurologist",
+        "venue2": "neurologist",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the university of electronic science and technology of china",
+        "venue2": "journal of university of electronic science and technology of china social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of literary and cultural disability studies",
+        "venue2": "journal of literary   cultural disability studies",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of artificial intelligence",
+        "venue2": "international journal of artificial intelligence in education   special issue on best of its 2010",
+        "label": 0
+    },
+    {
+        "venue1": "modern diagnosis and treatment",
+        "venue2": "modern diagnosis   treatment",
+        "label": 1
+    },
+    {
+        "venue1": "antibiotics",
+        "venue2": "world notes on antibiotics",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural sciences",
+        "venue2": "jiangsu agricultural sciences",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing normal university",
+        "venue2": "journal of chongqing normal university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "public law",
+        "venue2": "public admininstration   law",
+        "label": 1
+    },
+    {
+        "venue1": "practice nursing",
+        "venue2": "chinese general practice nursing",
+        "label": 0
+    },
+    {
+        "venue1": "integration",
+        "venue2": "workshop on information integration on the web",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of pain",
+        "venue2": "journal of pain",
+        "label": 1
+    },
+    {
+        "venue1": "itl international journal of applied linguistics",
+        "venue2": "itl   international journal of applied linguistics",
+        "label": 1
+    },
+    {
+        "venue1": "plastics world",
+        "venue2": "plastics industry",
+        "label": 0
+    },
+    {
+        "venue1": "journal of nature and science",
+        "venue2": "journal of yulin normal university nature science ",
+        "label": 0
+    },
+    {
+        "venue1": "clinical neurosurgery",
+        "venue2": "journal of clinical neurosurgery",
+        "label": 1
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of jiangsu institute of education social science ",
+        "label": 0
+    },
+    {
+        "venue1": "world journal of clinical oncology",
+        "venue2": "american journal of clinical oncology cancer clinical trials",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing university of science and technology",
+        "venue2": "journal of chongqing technology and business university social science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yunnan university of nationalities",
+        "venue2": "journal of yunnan university for nationalities social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "mutation research mutation research genomics",
+        "venue2": "mutation research genomics",
+        "label": 1
+    },
+    {
+        "venue1": "materials in engineering",
+        "venue2": "synthesis lectures on materials engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of communication university of china",
+        "venue2": "modern communication journal of communication university of china",
+        "label": 1
+    },
+    {
+        "venue1": "infectious disorders drug targets",
+        "venue2": "infectious disorders   drug targets formerly current drug targets   infectious disorders ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of xiangtan normal university",
+        "venue2": "journal of xiangtan normal university social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "electronic engineering",
+        "venue2": "ship electronic engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of physics b",
+        "venue2": "journal of physics d applied physics",
+        "label": 1
+    },
+    {
+        "venue1": "chinese journal of stomatological research",
+        "venue2": "chinese journal of stomatological research electronic version ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of economic history",
+        "venue2": "the journal of chinese social and economic history",
+        "label": 0
+    },
+    {
+        "venue1": "genomics proteomics   bioinformatics",
+        "venue2": "genomics  proteomics  bioinformatics",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the chinese society of corrosion and protection",
+        "venue2": "journal of chinese society for corrosion and protection",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the chemical society faraday transactions",
+        "venue2": "journal of the chemical society  faraday transactions",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of spinal surgery",
+        "venue2": "journal of spinal surgery",
+        "label": 1
+    },
+    {
+        "venue1": "the musical quarterly",
+        "venue2": "musical quarterly",
+        "label": 1
+    },
+    {
+        "venue1": "integration",
+        "venue2": "intelligent information integration",
+        "label": 0
+    },
+    {
+        "venue1": "journal of science educational science",
+        "venue2": "journal of tianjin academy of educational science",
+        "label": 0
+    },
+    {
+        "venue1": "astronomy and astrophysics",
+        "venue2": "astronomy   astrophysics",
+        "label": 1
+    },
+    {
+        "venue1": "problems of quality",
+        "venue2": "the merchandise and quality",
+        "label": 0
+    },
+    {
+        "venue1": "journal of jilin normal university",
+        "venue2": "jilin normal university journal humanities   social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "structural equation modeling",
+        "venue2": "structural equation modeling a multidisciplinary journal",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of portfolio management",
+        "venue2": "journal of portfolio management",
+        "label": 1
+    },
+    {
+        "venue1": "problems of quality",
+        "venue2": "quality and standardization",
+        "label": 0
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "data communications",
+        "label": 0
+    },
+    {
+        "venue1": "journal of henan education institute",
+        "venue2": "journal of henan institute of education  philosophy and social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "chemical engineering world",
+        "venue2": "computers  chemical engineering",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of technology",
+        "venue2": "international journal of computer applications in technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of physics b",
+        "venue2": "pramana journal of physics",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of intelligent systems and applications",
+        "venue2": "international journal of knowledge based and intelligent engineering systems   soft computing and its applications to e business",
+        "label": 0
+    },
+    {
+        "venue1": "arts and social sciences journal",
+        "venue2": "journal of baoji university of arts and sciences social science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "the american interest",
+        "venue2": "american naturalist",
+        "label": 0
+    },
+    {
+        "venue1": "mobile networks and applications",
+        "venue2": "mobile networks and applications   security in mobile computing environments",
+        "label": 1
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "science   culture review",
+        "label": 0
+    },
+    {
+        "venue1": "the american statistician",
+        "venue2": "american statistician",
+        "label": 1
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "data engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of spine",
+        "venue2": "journal of neurosurgery spine",
+        "label": 0
+    },
+    {
+        "venue1": "recent research in science and technology",
+        "venue2": "xinjiang farm research of science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "resources and industries",
+        "venue2": "resources   industries",
+        "label": 1
+    },
+    {
+        "venue1": "economics and human biology",
+        "venue2": "economics   human biology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of ningbo university",
+        "venue2": "journal of ningbo university liberal arts edition ",
+        "label": 1
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "data warehousing",
+        "label": 0
+    },
+    {
+        "venue1": "journal of jiamusi university",
+        "venue2": "journal of jiamusi university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of speculative philosophy",
+        "venue2": "the journal of speculative philosophy",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of general medicine",
+        "venue2": "international journal of traditional chinese medicine",
+        "label": 0
+    },
+    {
+        "venue1": "discrete and computational geometry",
+        "venue2": "discrete   computational geometry",
+        "label": 1
+    },
+    {
+        "venue1": "the new philosophy",
+        "venue2": "african philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of hand surgery",
+        "venue2": "journal of hand surgery european volume",
+        "label": 1
+    },
+    {
+        "venue1": "medical science and technology",
+        "venue2": "journal of henan university of science   technology medical science ",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of pain",
+        "venue2": "pain clinlc journal",
+        "label": 0
+    },
+    {
+        "venue1": "journal of education science",
+        "venue2": "journal of jiangsu institute of education natural science ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of university of jinan",
+        "venue2": "journal of university of jinan social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of nuclear energy parts a b reactor science and technology",
+        "venue2": "journal of nuclear energy  parts a b  reactor science and technology",
+        "label": 1
+    },
+    {
+        "venue1": "power and energy systems",
+        "venue2": "iasted european conference on power and energy systems",
+        "label": 1
+    },
+    {
+        "venue1": "evaluation   the health professions",
+        "venue2": "evaluation   the health professions",
+        "label": 1
+    },
+    {
+        "venue1": "computer graphics and image processing",
+        "venue2": "computer vision  graphics  and image processing",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of technology",
+        "venue2": "international journal of technology policy and law",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of psychology",
+        "venue2": "british journal of developmental psychology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of economic dynamics and control",
+        "venue2": "journal of economic dynamics   control",
+        "label": 1
+    },
+    {
+        "venue1": "journal of sichuan normal university",
+        "venue2": "journal of sichuan normal university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural sciences",
+        "venue2": "beijing agricultural sciences",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the chemical society faraday transactions",
+        "venue2": "journal of the chemical society  faraday transactions 2",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of forestry",
+        "venue2": "journal of inner mongolia forestry",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of pathology",
+        "venue2": "journal of pathology",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of science and engineering",
+        "venue2": "international journal of computer mathematics   innovative algorithms in science and engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of physics b",
+        "venue2": "journal of physics a mathematical and theoretical",
+        "label": 1
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "media culture   society",
+        "label": 0
+    },
+    {
+        "venue1": "the electrician",
+        "venue2": "rural electrician",
+        "label": 0
+    },
+    {
+        "venue1": "journal of xiangtan normal university",
+        "venue2": "journal of xiangtan normal university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of educational thought",
+        "venue2": "shanghai journal of educational evaluation",
+        "label": 0
+    },
+    {
+        "venue1": "the cambridge quarterly",
+        "venue2": "cambridge quarterly",
+        "label": 1
+    },
+    {
+        "venue1": "biology and philosophy",
+        "venue2": "biology   philosophy",
+        "label": 1
+    },
+    {
+        "venue1": "gynecology   obstetrics",
+        "venue2": "obstetrics and gynecology",
+        "label": 1
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "capital medicine",
+        "label": 0
+    },
+    {
+        "venue1": "journal of communication university of china",
+        "venue2": "journal of communication university of china science and technology ",
+        "label": 1
+    },
+    {
+        "venue1": "t   t international",
+        "venue2": "international workshop on logic   synthesis",
+        "label": 0
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "laboratory medicine",
+        "label": 0
+    },
+    {
+        "venue1": "journal of general practice",
+        "venue2": "journal of information science: principles and practice",
+        "label": 0
+    },
+    {
+        "venue1": "veterinary sciences",
+        "venue2": "gansu animal and veterinary sciences",
+        "label": 0
+    },
+    {
+        "venue1": "safety and health at work",
+        "venue2": "safety   health",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the university of shanghai for science and technology",
+        "venue2": "journal of university of shanghai for science and technology social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "organic and biomolecular chemistry",
+        "venue2": "organic   biomolecular chemistry",
+        "label": 1
+    },
+    {
+        "venue1": "journal of southwest university",
+        "venue2": "journal of southwest university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "integration",
+        "venue2": "very large scale integration",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hunan normal university",
+        "venue2": "journal of hunan normal university medical sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of arts and social sciences",
+        "venue2": "journal of baoji university of arts and sciences social sciences edition ",
+        "label": 0
+    },
+    {
+        "venue1": "notes and records",
+        "venue2": "notes and records of the royal society",
+        "label": 0
+    },
+    {
+        "venue1": "journal of common market studies",
+        "venue2": "jcms: journal of common market studies",
+        "label": 1
+    },
+    {
+        "venue1": "problems of legality",
+        "venue2": "legality vision",
+        "label": 0
+    },
+    {
+        "venue1": "nuclear electronics and detection technology",
+        "venue2": "nuclear electronics   detection technology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of jilin institute of architectural and civil",
+        "venue2": "journal of jilin institute of architectural   civil engineering",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yanbian university",
+        "venue2": "journal of yanbian university  natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of endocrinology and metabolism",
+        "venue2": "journal of pediatric endocrinology   metabolism",
+        "label": 1
+    },
+    {
+        "venue1": "building to last",
+        "venue2": "building block and block building",
+        "label": 0
+    },
+    {
+        "venue1": "journal of physics b",
+        "venue2": "journal of polymer science part b polymer physics",
+        "label": 0
+    },
+    {
+        "venue1": "journal of gay and lesbian social services",
+        "venue2": "journal of gay   lesbian social services",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "international journal of intelligent systems in accounting and finance management",
+        "label": 0
+    },
+    {
+        "venue1": "multimedia information   technology",
+        "venue2": "multimedia technology and applications",
+        "label": 0
+    },
+    {
+        "venue1": "computer graphics and image processing",
+        "venue2": "seventh indian conference on computer vision  graphics and image processing",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chemical industry and engineering",
+        "venue2": "journal of chemical industry and engineering china ",
+        "label": 1
+    },
+    {
+        "venue1": "chinese journal of transplantation",
+        "venue2": "chinese journal of transplantation electronic edition ",
+        "label": 1
+    },
+    {
+        "venue1": "nitric oxide",
+        "venue2": "nitric oxide biology and chemistry",
+        "label": 1
+    },
+    {
+        "venue1": "elementary english",
+        "venue2": "elementary english teaching journal",
+        "label": 1
+    },
+    {
+        "venue1": "electronics and power",
+        "venue2": "power electronics",
+        "label": 1
+    },
+    {
+        "venue1": "technological horizons in education",
+        "venue2": "t h e  journal  technological horizons in education ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of intelligent systems and applications",
+        "venue2": "international journal of hybrid intelligent systems   recent advances in intelligent paradigms fusion and their applications",
+        "label": 0
+    },
+    {
+        "venue1": "russian and east european studies",
+        "venue2": "russian central asian   east european studies",
+        "label": 1
+    },
+    {
+        "venue1": "journal of medical technology",
+        "venue2": "journal of henan university of science   technology medical science ",
+        "label": 0
+    },
+    {
+        "venue1": "vocational education",
+        "venue2": "guangzhou vocational education forum",
+        "label": 0
+    },
+    {
+        "venue1": "education and society",
+        "venue2": "journal of the chinese society of education",
+        "label": 0
+    },
+    {
+        "venue1": "studies in literature",
+        "venue2": "theoretical studies in literature and art",
+        "label": 0
+    },
+    {
+        "venue1": "transactions of j w r i",
+        "venue2": "cmg transactions",
+        "label": 0
+    },
+    {
+        "venue1": "the modern schoolman",
+        "venue2": "modern schoolman",
+        "label": 1
+    },
+    {
+        "venue1": "the philosophical quarterly",
+        "venue2": "philosophical quarterly",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of open information technologies",
+        "venue2": "international journal of wireless networks and broadband technologies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of arts and social sciences",
+        "venue2": "journal of xi'an university of arts and science social sciences edition ",
+        "label": 0
+    },
+    {
+        "venue1": "electronic journal of combinatorics",
+        "venue2": "the electronic journal of combinatorics",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of pathology",
+        "venue2": "american journal of surgical pathology",
+        "label": 0
+    },
+    {
+        "venue1": "management international",
+        "venue2": "international association for management of technology",
+        "label": 0
+    },
+    {
+        "venue1": "world cement",
+        "venue2": "china cement",
+        "label": 0
+    },
+    {
+        "venue1": "journal of agricultural research",
+        "venue2": "australian journal of agricultural research",
+        "label": 0
+    },
+    {
+        "venue1": "computational and theoretical chemistry",
+        "venue2": "international conference on theoretical and high performance computational chemistry 2012",
+        "label": 0
+    },
+    {
+        "venue1": "modern medicine",
+        "venue2": "modern traditional chinese medicine",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yanan university",
+        "venue2": "journal of yanan university  social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of statistics",
+        "venue2": "chinaese journal of hospital statistics",
+        "label": 0
+    },
+    {
+        "venue1": "automotive engineering international",
+        "venue2": "aure '06 proceedings of the international automotive requirements engineering workshop",
+        "label": 0
+    },
+    {
+        "venue1": "journal of baoji college of arts and science",
+        "venue2": "journal of baoji college of arts and science natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of law   politics",
+        "venue2": "law science  journal of northwest university of politics and law ",
+        "label": 0
+    },
+    {
+        "venue1": "economic analysis and policy",
+        "venue2": "frontiers in economic analysis   policy",
+        "label": 1
+    },
+    {
+        "venue1": "applied computer science",
+        "venue2": "applied mathematics and computer science",
+        "label": 0
+    },
+    {
+        "venue1": "journal of jiangsu normal university",
+        "venue2": "journal of jiangsu normal university philosophy and social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "education and health",
+        "venue2": "health education on tuberculosis",
+        "label": 0
+    },
+    {
+        "venue1": "science and research",
+        "venue2": "atmospheric science research and application",
+        "label": 0
+    },
+    {
+        "venue1": "the economic journal",
+        "venue2": "economic journal",
+        "label": 1
+    },
+    {
+        "venue1": "clinical engineering",
+        "venue2": "clinical medical   engineering",
+        "label": 1
+    },
+    {
+        "venue1": "fine arts journal",
+        "venue2": "hubei institute of fine arts journal",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of engineering",
+        "venue2": "international journal of supercomputer applications and high performance engineering",
+        "label": 0
+    },
+    {
+        "venue1": "chemical engineering world",
+        "venue2": "journal of chemical and engineering data",
+        "label": 0
+    },
+    {
+        "venue1": "pointer",
+        "venue2": "advertising pointer",
+        "label": 0
+    },
+    {
+        "venue1": "transactions of j w r i",
+        "venue2": "roars transactions",
+        "label": 0
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "international data information",
+        "label": 0
+    },
+    {
+        "venue1": "b c journal of special education",
+        "venue2": "a journal of modern special education",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of engineering",
+        "venue2": "international journal of chemoinformatics and chemical engineering",
+        "label": 0
+    },
+    {
+        "venue1": "computer graphics and image processing",
+        "venue2": "proceedings of the eighth indian conference on computer vision  graphics and image processing",
+        "label": 0
+    },
+    {
+        "venue1": "gynecology   obstetrics",
+        "venue2": "progress in obstetrics and gynecology",
+        "label": 0
+    },
+    {
+        "venue1": "ancient philosophy",
+        "venue2": "phronesis a journal for ancient philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "journal of nature and science",
+        "venue2": "journal of qinghai university nature science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "international journal of human computer studies   international journal of man machine studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of physics b",
+        "venue2": "journal of physics g nuclear and particle physics",
+        "label": 1
+    },
+    {
+        "venue1": "journal of life sciences",
+        "venue2": "journal of chromatography b analytical technologies in the biomedical and life sciences",
+        "label": 0
+    },
+    {
+        "venue1": "journal of guizhou university of technology",
+        "venue2": "journal of guizhou university of technology social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "e journal of cultural studies",
+        "venue2": "journal of literary   cultural disability studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yanan university",
+        "venue2": "journal of yanan university medical science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of education science",
+        "venue2": "journal of beijing institute of education natural science ",
+        "label": 0
+    },
+    {
+        "venue1": "ids bulletin",
+        "venue2": "the ids bulletin",
+        "label": 1
+    },
+    {
+        "venue1": "the business review",
+        "venue2": "business review ",
+        "label": 1
+    },
+    {
+        "venue1": "management international",
+        "venue2": "proceedings of the first international workshop on cloud data management",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of law and information science",
+        "venue2": "journal of southwest university of political science   law",
+        "label": 0
+    },
+    {
+        "venue1": "paradigms",
+        "venue2": "workshop on new security paradigms",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural research",
+        "venue2": "yunnan agricultural education research",
+        "label": 0
+    },
+    {
+        "venue1": "home health journal",
+        "venue2": "journal of environment and health",
+        "label": 0
+    },
+    {
+        "venue1": "journal of guangxi university for nationlities",
+        "venue2": "journal of guangxi university for nationlities philosophy and social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "rural china",
+        "venue2": "china rural finance",
+        "label": 0
+    },
+    {
+        "venue1": "group analysis",
+        "venue2": "defense analysis",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of artificial intelligence",
+        "venue2": "information processing and management: an international journal   artificial intelligence and information retrieval",
+        "label": 0
+    },
+    {
+        "venue1": "journal of tsinghua university",
+        "venue2": "journal of tsinghua university science and technology ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of inner mongolia polytechnic university",
+        "venue2": "journal of inner mongolia polytechnic university social science ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of web information systems",
+        "venue2": "international journal on semantic web   information systems",
+        "label": 1
+    },
+    {
+        "venue1": "world health",
+        "venue2": "noise and health",
+        "label": 0
+    },
+    {
+        "venue1": "studies in literature",
+        "venue2": "literature and culture studies",
+        "label": 0
+    },
+    {
+        "venue1": "world of obstetrics and gynecology",
+        "venue2": "progress in obstetrics and gynecology",
+        "label": 1
+    },
+    {
+        "venue1": "chinese journal of stomatological research",
+        "venue2": "chinese journal of stomatological research electronic edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of educational thought",
+        "venue2": "journal of educational studies",
+        "label": 0
+    },
+    {
+        "venue1": "men in nursing",
+        "venue2": "shanghai nursing",
+        "label": 0
+    },
+    {
+        "venue1": "journal of microscopy",
+        "venue2": "journal of microscopy oxford",
+        "label": 1
+    },
+    {
+        "venue1": "concurrent engineering",
+        "venue2": "manufacturing in the era of concurrent engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of clinical toxicology",
+        "venue2": "journal of toxicology clinical toxicology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of plastic film and sheeting",
+        "venue2": "journal of plastic film   sheeting",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "journal of international security studies",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of risk management",
+        "venue2": "international journal of risk and contingency management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of nanchang hangkong university",
+        "venue2": "journal of nanchang hangkong university natural sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of research",
+        "venue2": "international journal of robotics research",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of forestry",
+        "venue2": "journal of zhejiang forestry college",
+        "label": 0
+    },
+    {
+        "venue1": "hematology   transfusion international journal",
+        "venue2": "international journal of blood transfusion and hematology",
+        "label": 0
+    },
+    {
+        "venue1": "the art of music journal of shanghai conservatory of music",
+        "venue2": "art of music journal of the shanghai conservatory of music",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the university of shanghai for science and technology",
+        "venue2": "journal of university of shanghai for science and technology social science ",
+        "label": 1
+    },
+    {
+        "venue1": "plastics world",
+        "venue2": "plastics",
+        "label": 0
+    },
+    {
+        "venue1": "the imaging science journal",
+        "venue2": "imaging science journal",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of design",
+        "venue2": "international journal of art   design education",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural science",
+        "venue2": "liaoning agricultural science",
+        "label": 0
+    },
+    {
+        "venue1": "psychology today",
+        "venue2": "psychology exploration",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of educational thought",
+        "venue2": "magnetic resonance: an educational journal",
+        "label": 0
+    },
+    {
+        "venue1": "journal of ecological engineering",
+        "venue2": "journal of heilongjiang vocational institute of ecological engineering",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of american science",
+        "venue2": "journal of the american society for information science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "research journal of science and technology",
+        "venue2": "journal of the american society for information science and technology   part i: information seeking research",
+        "label": 0
+    },
+    {
+        "venue1": "journal of soochow university",
+        "venue2": "journal of soochow university medical science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "energy science and technology",
+        "venue2": "energy education science and technology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of hefei university of technolog",
+        "venue2": "journal of hefei university of technolog social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of beijing institute of education natural science ",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of operative procedures of general surgery",
+        "venue2": "chinese journal of operative procedures of general surgery electronic edition ",
+        "label": 1
+    },
+    {
+        "venue1": "world cultures",
+        "venue2": "the religious cultures in the world",
+        "label": 0
+    },
+    {
+        "venue1": "concurrent engineering",
+        "venue2": "ispe conference on concurrent engineering",
+        "label": 1
+    },
+    {
+        "venue1": "journal of nanchang hangkong university",
+        "venue2": "journal of nanchang hangkong university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of obstetrics and gynecology",
+        "venue2": "chinese journal of obstetrics   gynecology and pediatrics",
+        "label": 0
+    },
+    {
+        "venue1": "innovations in systems and software engineering",
+        "venue2": "radical innovations of software and systems engineering in the future",
+        "label": 0
+    },
+    {
+        "venue1": "computer graphics and image processing",
+        "venue2": "proceedings of the seventh indian conference on computer vision  graphics and image processing",
+        "label": 0
+    },
+    {
+        "venue1": "the new philosophy",
+        "venue2": "modern philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "the first resource",
+        "venue2": "resource recycling",
+        "label": 0
+    },
+    {
+        "venue1": "journal of nature and science",
+        "venue2": "journal of jiangsu institute of education nature science ",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural science",
+        "venue2": "management of agricultural science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing university of science and technology",
+        "venue2": "journal of chongqing university of technology natural science ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of sichuan normal university",
+        "venue2": "journal of sichuan normal university philosophy and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "the business review",
+        "venue2": "nankai business review",
+        "label": 0
+    },
+    {
+        "venue1": "journal of science educational science",
+        "venue2": "journal of ningbo univeristy educational science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of shaanxi normal university",
+        "venue2": "journal of shaanxi normal university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of inner mongolia normal university",
+        "venue2": "journal of inner mongolia normal university philosophy   social science ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of library science",
+        "venue2": "information processing and management: an international journal   expert systems and library information science",
+        "label": 0
+    },
+    {
+        "venue1": "the practitioner",
+        "venue2": "practitioner",
+        "label": 1
+    },
+    {
+        "venue1": "the review of economic studies",
+        "venue2": "review of economic studies",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of psychology",
+        "venue2": "journal of psychology",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of shanxi teachers university",
+        "venue2": "journal of shanxi teachers university social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "chinese journal of transplantation",
+        "venue2": "chinese journal of nephrology  dialysis  transplantation",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of open information technologies",
+        "venue2": "convergence: the international journal of research into new media technologies",
+        "label": 0
+    },
+    {
+        "venue1": "adult learning",
+        "venue2": "innovative adult learning with innovative technologies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of university of jinan",
+        "venue2": "journal of university of jinan science and technology ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of shanghai normal university",
+        "venue2": "journal of shanghai normal university philosophy   social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "studies in literature",
+        "venue2": "literature   art studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of shenyang jianzhu university",
+        "venue2": "journal of shenyang jianzhu university social science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of hehai university",
+        "venue2": "journal of hehai university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "the sociological review",
+        "venue2": "sociological review",
+        "label": 1
+    },
+    {
+        "venue1": "journal of inner mongolia normal university",
+        "venue2": "journal of inner mongolia normal university education science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of qiqihar university",
+        "venue2": "journal of qiqihar university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the cleft palate journal",
+        "venue2": "cleft palate craniofacial journal",
+        "label": 1
+    },
+    {
+        "venue1": "oil and gas geology",
+        "venue2": "oil   gas geology",
+        "label": 1
+    },
+    {
+        "venue1": "public works",
+        "venue2": "public utilities",
+        "label": 0
+    },
+    {
+        "venue1": "journal of rtv university",
+        "venue2": "journal of chongqing rtv university",
+        "label": 1
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of food science education",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural science",
+        "venue2": "wenzhou agricultural science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of design and science",
+        "venue2": "journal of integrated design   process science   manufacturing and design",
+        "label": 0
+    },
+    {
+        "venue1": "journal of rtv university",
+        "venue2": "journal of jiangxi rtv university",
+        "label": 1
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "data structures",
+        "label": 0
+    },
+    {
+        "venue1": "journal of shihezi university",
+        "venue2": "journal of shihezi university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of southwest university",
+        "venue2": "journal of southwest jiaotong university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of southwest university",
+        "venue2": "journal of southwest university of political science   law",
+        "label": 1
+    },
+    {
+        "venue1": "journal of communication university of china",
+        "venue2": "modern communication journal of communication university of china ",
+        "label": 1
+    },
+    {
+        "venue1": "world poultry",
+        "venue2": "pigs and poultry",
+        "label": 0
+    },
+    {
+        "venue1": "acm transactions on computing education",
+        "venue2": "acm transactions on computing education  toce ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of xinjiang normal university",
+        "venue2": "journal of xinjiang normal university natural sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "ieee transactions on control systems and technology",
+        "venue2": "ieee transactions on control systems technology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of nanjing sport institute",
+        "venue2": "journal of nanjing sport institute social science ",
+        "label": 1
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "data",
+        "label": 0
+    },
+    {
+        "venue1": "traffic management",
+        "venue2": "air traffic management",
+        "label": 0
+    },
+    {
+        "venue1": "drugs and clinic",
+        "venue2": "drugs   clinic",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of forestry",
+        "venue2": "journal of chinese urban forestry",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of pediatrics",
+        "venue2": "journal of pediatrics",
+        "label": 1
+    },
+    {
+        "venue1": "psychiatry information in brief",
+        "venue2": "psychiatry research",
+        "label": 0
+    },
+    {
+        "venue1": "journal of henan polytechnic university",
+        "venue2": "journal of henan polytechnic university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "world journal of psychiatry",
+        "venue2": "journal of clinical psychiatry",
+        "label": 0
+    },
+    {
+        "venue1": "journal of laboratory automation",
+        "venue2": "journal of the association for laboratory automation",
+        "label": 1
+    },
+    {
+        "venue1": "canadian journal of political science",
+        "venue2": "canadian journal of political science revue canadienne de science politique",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural sciences",
+        "venue2": "journal of jilin agricultural sciences",
+        "label": 0
+    },
+    {
+        "venue1": "journal of science educational science",
+        "venue2": "journal of wuhan institute of educational science",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of endourology",
+        "venue2": "chinese journal of endourology electronic edition ",
+        "label": 1
+    },
+    {
+        "venue1": "science and research",
+        "venue2": "educational science research",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of computing",
+        "venue2": "international journal of green computing",
+        "label": 0
+    },
+    {
+        "venue1": "the economic journal",
+        "venue2": "economic research journal",
+        "label": 0
+    },
+    {
+        "venue1": "american journal of hospice and palliative medicine",
+        "venue2": "american journal of hospice   palliative medicine",
+        "label": 1
+    },
+    {
+        "venue1": "journal of chemistry",
+        "venue2": "russian journal of physical chemistry",
+        "label": 0
+    },
+    {
+        "venue1": "veterinary sciences",
+        "venue2": "sichuan animal and veterinary sciences",
+        "label": 0
+    },
+    {
+        "venue1": "research in review",
+        "venue2": "crime and justice a review of research",
+        "label": 0
+    },
+    {
+        "venue1": "clinical neurosurgery",
+        "venue2": "chinese journal of clinical neurosurgery",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hangzhou normal university",
+        "venue2": "journal of hangzhou normal university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "modern medicine",
+        "venue2": "journal of modern lboratory medicine",
+        "label": 0
+    },
+    {
+        "venue1": "journal of pla university of science and technology",
+        "venue2": "journal of pla university of science and technology natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of baoji university of arts and sciences",
+        "venue2": "journal of baoji university of arts and sciences social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of applied biology",
+        "venue2": "chinese journal of applied   environmental biology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the chinese society of corrosion and protection",
+        "venue2": "journal of chinese society for corrosion and protection",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of computing",
+        "venue2": "international journal of reconfigurable computing   current trends on reconfigurable computing",
+        "label": 0
+    },
+    {
+        "venue1": "the accounting review",
+        "venue2": "accounting review",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of home science",
+        "venue2": "international journal of geographical information science   spatial ecology",
+        "label": 0
+    },
+    {
+        "venue1": "the consultant",
+        "venue2": "the farmers consultant",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of interactive learning research",
+        "venue2": "journal of interactive learning research",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yunnan university of nationalities",
+        "venue2": "journal of yunnan university of nationalities social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "materials in engineering",
+        "venue2": "journal of materials science and engineering",
+        "label": 0
+    },
+    {
+        "venue1": "gynecology   obstetrics",
+        "venue2": "chinese journal of obstetrics   gynecology and pediatrics",
+        "label": 0
+    },
+    {
+        "venue1": "management international",
+        "venue2": "proceedings of the third international workshop on cloud data management",
+        "label": 0
+    },
+    {
+        "venue1": "english teaching",
+        "venue2": "college english teaching and research",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yangtze university medicine",
+        "venue2": "journal of yangtze university natural science edition medicine v",
+        "label": 1
+    },
+    {
+        "venue1": "the east and the west",
+        "venue2": "east west database workshops",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of pathology",
+        "venue2": "indian journal of pathology and microbiology",
+        "label": 0
+    },
+    {
+        "venue1": "latest thinking",
+        "venue2": "thinking",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of hand surgery",
+        "venue2": "journal of hand surgery british and european volume",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of infectious diseases",
+        "venue2": "journal of infectious diseases",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural science",
+        "venue2": "guangdong agricultural science",
+        "label": 0
+    },
+    {
+        "venue1": "studies in literature",
+        "venue2": "biblical literature studies",
+        "label": 0
+    },
+    {
+        "venue1": "social network analysis and mining",
+        "venue2": "proceedings of the 7th workshop on social network mining and analysis",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of asian studies",
+        "venue2": "journal of asian studies",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "international journal of management in education",
+        "label": 0
+    },
+    {
+        "venue1": "rural china",
+        "venue2": "china rural credit cooperative of china",
+        "label": 0
+    },
+    {
+        "venue1": "journal materials",
+        "venue2": "journal of materials protection",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yanan university",
+        "venue2": "journal of yanan university  med sci ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of hand surgery",
+        "venue2": "journal of hand surgery american volume",
+        "label": 1
+    },
+    {
+        "venue1": "vocational education",
+        "venue2": "vocational education research",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of research",
+        "venue2": "convergence: the international journal of research into new media technologies",
+        "label": 0
+    },
+    {
+        "venue1": "world of obstetrics and gynecology",
+        "venue2": "journal of psychosomatic obstetrics and gynecology",
+        "label": 1
+    },
+    {
+        "venue1": "materials science and engineering r",
+        "venue2": "polymeric materials science   engineering",
+        "label": 0
+    },
+    {
+        "venue1": "the practitioner",
+        "venue2": "the nurse practitioner",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "international journal of productivity management and assessment technologies",
+        "label": 0
+    },
+    {
+        "venue1": "information systems management",
+        "venue2": "proceedings of the 2012 workshop on management of big data systems",
+        "label": 0
+    },
+    {
+        "venue1": "journal of romance studies",
+        "venue2": "the journal of romance studies",
+        "label": 1
+    },
+    {
+        "venue1": "journal of xinjiang normal university",
+        "venue2": "journal of xinjiang normal university  social science ",
+        "label": 1
+    },
+    {
+        "venue1": "research in review",
+        "venue2": "review of economic research",
+        "label": 0
+    },
+    {
+        "venue1": "journal of spine",
+        "venue2": "spine journal",
+        "label": 1
+    },
+    {
+        "venue1": "the international journal of biochemistry   cell biology",
+        "venue2": "international journal of biochemistry   cell biology",
+        "label": 1
+    },
+    {
+        "venue1": "applied statistics",
+        "venue2": "annals of applied statistics",
+        "label": 1
+    },
+    {
+        "venue1": "the chemical engineer",
+        "venue2": "chemical engineer",
+        "label": 1
+    },
+    {
+        "venue1": "the prostate",
+        "venue2": "prostate",
+        "label": 1
+    },
+    {
+        "venue1": "journal of nanjing institute of physical education",
+        "venue2": "journal of nanjing institute of physical education social science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of northwest minorities university",
+        "venue2": "journal of northwest minorities university philosophy and social science ",
+        "label": 1
+    },
+    {
+        "venue1": "the international journal of psychoanalysis",
+        "venue2": "international journal of psychoanalysis",
+        "label": 1
+    },
+    {
+        "venue1": "chemical engineering world",
+        "venue2": "chemical engineering design",
+        "label": 0
+    },
+    {
+        "venue1": "journal of technology and information education",
+        "venue2": "journal of continue education of hebei university of technology",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of intelligent systems and applications",
+        "venue2": "international journal of knowledge based and intelligent engineering systems   intelligent information processing: techniques and applications",
+        "label": 0
+    },
+    {
+        "venue1": "language and literacy",
+        "venue2": "written language   literacy",
+        "label": 1
+    },
+    {
+        "venue1": "journal of beijing normal university",
+        "venue2": "journal of beijing normal university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "biomedical journal",
+        "venue2": "chinese journal of biomedical engineering",
+        "label": 0
+    },
+    {
+        "venue1": "protection from corrosion",
+        "venue2": "corrosion @ protection",
+        "label": 1
+    },
+    {
+        "venue1": "china population today",
+        "venue2": "population science of china",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the ministry of agriculture",
+        "venue2": "journal of agricultural management institute of ministry of agriculture",
+        "label": 0
+    },
+    {
+        "venue1": "information systems management",
+        "venue2": "conference on information systems and management of data",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "international journal of internet and enterprise management",
+        "label": 0
+    },
+    {
+        "venue1": "ludong university journal",
+        "venue2": "ludong university journal philosophy and social sciences edition",
+        "label": 1
+    },
+    {
+        "venue1": "journal of rtv university",
+        "venue2": "journal of rtv university philosophy   social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "analysis and optimization of systems",
+        "venue2": "analysis and optimization of differential systems",
+        "label": 1
+    },
+    {
+        "venue1": "science and research",
+        "venue2": "science research management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of chongqing university of science and technology",
+        "venue2": "journal of chongqing university of technology social science ",
+        "label": 0
+    },
+    {
+        "venue1": "revista colombiana de computacion colombian journal of computation",
+        "venue2": "revista colombiana de computacion   colombian journal of computation",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yanbian university",
+        "venue2": "journal of yanbian university social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of philosophy",
+        "venue2": "the journal of speculative philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "data base",
+        "label": 0
+    },
+    {
+        "venue1": "human technology",
+        "venue2": "new technology in the human services",
+        "label": 0
+    },
+    {
+        "venue1": "journal of applied biology",
+        "venue2": "chinese journal of applied and environmental biology",
+        "label": 1
+    },
+    {
+        "venue1": "applied computer science",
+        "venue2": "world congress in computer science  computer engineering  and applied computing",
+        "label": 0
+    },
+    {
+        "venue1": "biomedical journal",
+        "venue2": "journal of biomedical engineering research",
+        "label": 0
+    },
+    {
+        "venue1": "journal of toxicology and environmental health",
+        "venue2": "journal of toxicology and environmental health part a current issues",
+        "label": 1
+    },
+    {
+        "venue1": "the technology teacher",
+        "venue2": "proceedings of the conference on technology and teacher education",
+        "label": 0
+    },
+    {
+        "venue1": "open journal of geology",
+        "venue2": "journal of engineering geology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of education science",
+        "venue2": "journal of food science education",
+        "label": 0
+    },
+    {
+        "venue1": "european journal of dentistry",
+        "venue2": "european journal of paediatric dentistry",
+        "label": 1
+    },
+    {
+        "venue1": "vocational education",
+        "venue2": "mechanical vocational education",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yangzhou university",
+        "venue2": "journal of yangzhou university higher education study edition",
+        "label": 1
+    },
+    {
+        "venue1": "sequence",
+        "venue2": "sequence learning",
+        "label": 0
+    },
+    {
+        "venue1": "journal of education science",
+        "venue2": "journal of jiangsu institute of education social science ",
+        "label": 0
+    },
+    {
+        "venue1": "the business review",
+        "venue2": "21s+ century business review",
+        "label": 0
+    },
+    {
+        "venue1": "world studies in education",
+        "venue2": "studies in ideological education",
+        "label": 0
+    },
+    {
+        "venue1": "philosophical transactions of the royal society a",
+        "venue2": "philosophical transactions of the royal society of london",
+        "label": 1
+    },
+    {
+        "venue1": "world health",
+        "venue2": "e health",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of law and information science",
+        "venue2": "journal of shanghai institute of political science   law",
+        "label": 0
+    },
+    {
+        "venue1": "electronic engineering",
+        "venue2": "electronic engineering   product world",
+        "label": 0
+    },
+    {
+        "venue1": "the new physician",
+        "venue2": "physician and sportsmedicine",
+        "label": 0
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "medicine industry information",
+        "label": 0
+    },
+    {
+        "venue1": "journal of the northwest normal university",
+        "venue2": "journal of northwest normal university natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "multimedia information   technology",
+        "venue2": "multimedia technology and management",
+        "label": 0
+    },
+    {
+        "venue1": "journal of north university of china",
+        "venue2": "journal of north china electric power university social sciences ",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of information quality",
+        "venue2": "international journal of reliable and quality e healthcare",
+        "label": 0
+    },
+    {
+        "venue1": "comparative biochemistry and physiology b",
+        "venue2": "comparative biochemistry and physiology b biochemistry   molecular biology",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the northwest normal university",
+        "venue2": "journal of northwest normal university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of psychosomatic obstetrics   gynecology",
+        "venue2": "journal of psychosomatic obstetrics and gynecology",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of law and information science",
+        "venue2": "journal of fujian college of political science   law",
+        "label": 0
+    },
+    {
+        "venue1": "journal of early modern studies",
+        "venue2": "the journal of modern periodical studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of huaibei normal university",
+        "venue2": "journal of huaibei normal university natural science edition  ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of economic history",
+        "venue2": "journal of economic history",
+        "label": 1
+    },
+    {
+        "venue1": "results in physics",
+        "venue2": "physics of guangxi",
+        "label": 0
+    },
+    {
+        "venue1": "problems of quality",
+        "venue2": "quality and reliability",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international information management",
+        "venue2": "international journal of multimedia data engineering   management",
+        "label": 0
+    },
+    {
+        "venue1": "astronomy and astrophysics",
+        "venue2": "astronomy and astrophysics review",
+        "label": 1
+    },
+    {
+        "venue1": "the east and the west",
+        "venue2": "east west database workshop",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of home science",
+        "venue2": "international journal of computer science   information technology",
+        "label": 0
+    },
+    {
+        "venue1": "asian man an international journal",
+        "venue2": "the international journal of asian studies",
+        "label": 1
+    },
+    {
+        "venue1": "the american interest",
+        "venue2": "american zoologist",
+        "label": 0
+    },
+    {
+        "venue1": "journal materials",
+        "venue2": "journal of materials science and engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of baoji university of arts and sciences",
+        "venue2": "journal of baoji university of arts and sciences social science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "polymeric materials science and engineering",
+        "venue2": "polymeric materials science   engineering",
+        "label": 1
+    },
+    {
+        "venue1": "contemporary sociology",
+        "venue2": "contemporary sociology a journal of reviews",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of linguistics",
+        "venue2": "itl   international journal of applied linguistics",
+        "label": 0
+    },
+    {
+        "venue1": "the slavonic and east european review",
+        "venue2": "slavonic and east european review",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural engineering today",
+        "venue2": "agricultural engineering",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of psychology",
+        "venue2": "the journal of abnormal psychology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of jilin normal university",
+        "venue2": "jilin normal university journal natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "ecological chemistry and engineering a",
+        "venue2": "ecological chemistry and engineering chemia i inzynieria ekologiczna",
+        "label": 1
+    },
+    {
+        "venue1": "governance",
+        "venue2": "journal of e governance",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yanan university",
+        "venue2": "journal of yanan university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "world studies in education",
+        "venue2": "studies in early childhood education",
+        "label": 0
+    },
+    {
+        "venue1": "today s or nurse",
+        "venue2": "the nurse practitioner",
+        "label": 0
+    },
+    {
+        "venue1": "the business review",
+        "venue2": "nanjing business review",
+        "label": 0
+    },
+    {
+        "venue1": "international review of law",
+        "venue2": "international review of law  computers and technology   law shaping technology  technology shaping the law",
+        "label": 0
+    },
+    {
+        "venue1": "journal of grid computing",
+        "venue2": "the journal of grid computing",
+        "label": 1
+    },
+    {
+        "venue1": "journal of shaanxi normal university",
+        "venue2": "journal of shaanxi normal university philosophy and social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the library quarterly",
+        "venue2": "shan dong library quarterly",
+        "label": 0
+    },
+    {
+        "venue1": "t   t international",
+        "venue2": "international conference in it   application",
+        "label": 0
+    },
+    {
+        "venue1": "journal of nanjing sport institute",
+        "venue2": "journal of nanjing sport institute natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "management international",
+        "venue2": "proceedings of the international workshop on semantic web information management",
+        "label": 0
+    },
+    {
+        "venue1": "the rand journal of economics",
+        "venue2": "rand journal of economics",
+        "label": 1
+    },
+    {
+        "venue1": "education and health",
+        "venue2": "health vocational education",
+        "label": 0
+    },
+    {
+        "venue1": "journal of northwest minorities university",
+        "venue2": "journal of northwest minorities university for nationalities natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of minzu university of china",
+        "venue2": "journal of minzu university of china natural sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "international journal of man machine studies",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of research",
+        "venue2": "international journal of monitoring and surveillance technologies research",
+        "label": 0
+    },
+    {
+        "venue1": "journal of education science",
+        "venue2": "journal of jiangsu institute of education nature science ",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of engineering",
+        "venue2": "international journal of measurement technologies and instrumentation engineering",
+        "label": 0
+    },
+    {
+        "venue1": "the new philosophy",
+        "venue2": "journal of philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of multimedia information retrieval",
+        "venue2": "international journal of imaging systems and technology   multimedia information retrieval",
+        "label": 0
+    },
+    {
+        "venue1": "vocational education",
+        "venue2": "contemporary vocational education",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yangtze university agricultural science volume",
+        "venue2": "journal of yangtze university natural science edition agricultural science volume",
+        "label": 1
+    },
+    {
+        "venue1": "journal of clinical medicine",
+        "venue2": "journal of infernational pathology and clinical medicine",
+        "label": 0
+    },
+    {
+        "venue1": "transactions of j w r i",
+        "venue2": "ieice transactions",
+        "label": 0
+    },
+    {
+        "venue1": "acm transactions on computing education",
+        "venue2": "acm transactions on computing education   acm journal of educational resources in computing",
+        "label": 1
+    },
+    {
+        "venue1": "social network analysis and mining",
+        "venue2": "advances in social network analysis and mining",
+        "label": 1
+    },
+    {
+        "venue1": "journal of nanjing institute of physical education",
+        "venue2": "journal of nanjing institute of physical education  natural science ",
+        "label": 1
+    },
+    {
+        "venue1": "chemical engineering world",
+        "venue2": "the chemical engineering journal",
+        "label": 0
+    },
+    {
+        "venue1": "journal of higher education and science",
+        "venue2": "journal of chifeng university science   education ",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of engineering",
+        "venue2": "international journal of engineering intelligent systems",
+        "label": 0
+    },
+    {
+        "venue1": "the wordsworth circle",
+        "venue2": "wordsworth circle",
+        "label": 1
+    },
+    {
+        "venue1": "the business review",
+        "venue2": "business china business review ",
+        "label": 0
+    },
+    {
+        "venue1": "open medicine",
+        "venue2": "china medicine",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "the international journal of asian studies",
+        "label": 0
+    },
+    {
+        "venue1": "people and place",
+        "venue2": "it   people",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural science",
+        "venue2": "yunnan agricultural science and technology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of communication and computer",
+        "venue2": "journal of computer security   advances in security for communication networks",
+        "label": 0
+    },
+    {
+        "venue1": "world cement",
+        "venue2": "sichuan cement",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hiv aids prevention in children   youth",
+        "venue2": "journal of hiv aids prevention in children   youth",
+        "label": 1
+    },
+    {
+        "venue1": "the business review",
+        "venue2": "review on western business",
+        "label": 0
+    },
+    {
+        "venue1": "journal of liaocheng university",
+        "venue2": "journal of liaocheng university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "fine arts journal",
+        "venue2": "journal of nanjing arts institute fine arts   design ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of ningbo university",
+        "venue2": "journal of ningbo university educational science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of education science",
+        "venue2": "journal of jimei university education science edition ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of shanxi radio   tv university",
+        "venue2": "journal of shanxi radio   tv university",
+        "label": 1
+    },
+    {
+        "venue1": "group analysis",
+        "venue2": "philosophical analysis",
+        "label": 0
+    },
+    {
+        "venue1": "journal of fujian agriculture and forestry university",
+        "venue2": "journal of fujian agriculture and forestry university  philosophy and science ",
+        "label": 1
+    },
+    {
+        "venue1": "international journal of philosophy",
+        "venue2": "cultura international journal of philosophy of culture and axiology",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of law and information science",
+        "venue2": "law science  journal of northwest university of politics and law ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of fuzhou university",
+        "venue2": "journal of fuzhou university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "studies in literature",
+        "venue2": "foreign language and literature studies",
+        "label": 0
+    },
+    {
+        "venue1": "international review of law",
+        "venue2": "international review of law  computers and technology",
+        "label": 0
+    },
+    {
+        "venue1": "the new philosophy",
+        "venue2": "world philosophy",
+        "label": 0
+    },
+    {
+        "venue1": "vocational education",
+        "venue2": "higher vocational education forum",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of american science",
+        "venue2": "journal of the american society for information science and technology   xml",
+        "label": 0
+    },
+    {
+        "venue1": "international review of law",
+        "venue2": "international law review of wuhan university",
+        "label": 0
+    },
+    {
+        "venue1": "china finance review international",
+        "venue2": "2010 china finance review international conference",
+        "label": 1
+    },
+    {
+        "venue1": "world journal of clinical oncology",
+        "venue2": "journal of basic and clinical oncology",
+        "label": 0
+    },
+    {
+        "venue1": "research in higher education journal",
+        "venue2": "journal of shaoxing university education   teaching research ",
+        "label": 0
+    },
+    {
+        "venue1": "the library quarterly",
+        "venue2": "shandong library quarterly",
+        "label": 0
+    },
+    {
+        "venue1": "chemical engineering world",
+        "venue2": "chemical engineering construction",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of injury repair and wound healing",
+        "venue2": "chinese journal of injury repair and wound healing electronic edition ",
+        "label": 1
+    },
+    {
+        "venue1": "agricultural sciences",
+        "venue2": "journal of zhejiang agricultural sciences",
+        "label": 0
+    },
+    {
+        "venue1": "journal of infection in developing countries",
+        "venue2": "the journal of infection in developing countries",
+        "label": 1
+    },
+    {
+        "venue1": "journal of online marketing",
+        "venue2": "international journal of online marketing",
+        "label": 1
+    },
+    {
+        "venue1": "the british journal for the philosophy of science",
+        "venue2": "british journal for the philosophy of science",
+        "label": 1
+    },
+    {
+        "venue1": "rural areas and development",
+        "venue2": "urban and rural development",
+        "label": 0
+    },
+    {
+        "venue1": "the vldb journal",
+        "venue2": "vldb journal",
+        "label": 1
+    },
+    {
+        "venue1": "today s nursing home",
+        "venue2": "chinese general nursing",
+        "label": 0
+    },
+    {
+        "venue1": "the technology teacher",
+        "venue2": "journal of technology and teacher education",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yunnan university of nationalities",
+        "venue2": "journal of yunnan nationalities university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of anesthesiology",
+        "venue2": "journal of clinical anesthesiology",
+        "label": 0
+    },
+    {
+        "venue1": "world health",
+        "venue2": "animal health",
+        "label": 0
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "culture   psychology",
+        "label": 0
+    },
+    {
+        "venue1": "early american studies",
+        "venue2": "english and american literary studies",
+        "label": 0
+    },
+    {
+        "venue1": "journal of north university of china",
+        "venue2": "journal of north china university of technology beijing china",
+        "label": 0
+    },
+    {
+        "venue1": "building to last",
+        "venue2": "green building",
+        "label": 0
+    },
+    {
+        "venue1": "chinese journal of endourology",
+        "venue2": "chinese journal of endourology  electronic version ",
+        "label": 1
+    },
+    {
+        "venue1": "chinese journal of transplantation",
+        "venue2": "chinese journal of transplantation electronic version ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of pla university of science and technology",
+        "venue2": "journal of pla university of science and technology natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the new doctor",
+        "venue2": "liver doctor",
+        "label": 0
+    },
+    {
+        "venue1": "information   culture",
+        "venue2": "chinese classics   culture",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of home science",
+        "venue2": "international social science journal chinese edition ",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "journal of xi'an international studies university",
+        "label": 0
+    },
+    {
+        "venue1": "rural china",
+        "venue2": "china rural health",
+        "label": 0
+    },
+    {
+        "venue1": "systems science   control engineering",
+        "venue2": "international journal of systems science   intelligent control of high performance engineering systems",
+        "label": 0
+    },
+    {
+        "venue1": "the electronic journal",
+        "venue2": "ssrn electronic journal",
+        "label": 0
+    },
+    {
+        "venue1": "journal of liaocheng university",
+        "venue2": "journal of liaocheng university scial sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of international studies",
+        "venue2": "journal of beijing international studies university",
+        "label": 0
+    },
+    {
+        "venue1": "agricultural research",
+        "venue2": "agricultural education research",
+        "label": 0
+    },
+    {
+        "venue1": "journal of urology for clinicians",
+        "venue2": "journal of urology for clinicians electronic version ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of inner mongolia normal university",
+        "venue2": "journal of inner mongolia normal university philosophy and social sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of inner mongolia normal university",
+        "venue2": "journal of inner mongolia normal university  philosophy   social science ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of pathology",
+        "venue2": "american journal of surgical pathology",
+        "label": 0
+    },
+    {
+        "venue1": "journal of physics b",
+        "venue2": "journal of physics a mathematical and general",
+        "label": 1
+    },
+    {
+        "venue1": "data in brief",
+        "venue2": "proceedings of the first international workshop on open data",
+        "label": 0
+    },
+    {
+        "venue1": "journal of jiangsu normal university",
+        "venue2": "journal of jiangsu normal university educational sciences edition ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of fuzhou university",
+        "venue2": "journal of fuzhou university natural sciences edtion ",
+        "label": 1
+    },
+    {
+        "venue1": "the canadian journal of psychiatry",
+        "venue2": "canadian journal of psychiatry revue canadienne de psychiatrie",
+        "label": 1
+    },
+    {
+        "venue1": "biomedical journal",
+        "venue2": "shanghai journal of biomedical engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of yanbian university",
+        "venue2": "journal of yanbian university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "mobile networks and applications",
+        "venue2": "mobile networks and applications   mobile networking through ip",
+        "label": 1
+    },
+    {
+        "venue1": "journal of general practice",
+        "venue2": "journal of pharmaceutical practice",
+        "label": 0
+    },
+    {
+        "venue1": "journal of software",
+        "venue2": "journal of computer and software engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of medical technology",
+        "venue2": "journal of henan university of science and technology medical science ",
+        "label": 0
+    },
+    {
+        "venue1": "hydraulic engineering",
+        "venue2": "journal of hydraulic engineering asce",
+        "label": 1
+    },
+    {
+        "venue1": "journal of the second northwest university for nationalities",
+        "venue2": "journal of northwest university for nationalities natural science ",
+        "label": 0
+    },
+    {
+        "venue1": "journal of hebei polytechnic university",
+        "venue2": "journal of hebei polytechnic university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "distribution and utilization",
+        "venue2": "distribution   utilization",
+        "label": 1
+    },
+    {
+        "venue1": "the monist",
+        "venue2": "monist",
+        "label": 1
+    },
+    {
+        "venue1": "the journal of law and information science",
+        "venue2": "the journal of fujian institute of political science   law",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of architecture",
+        "venue2": "journal of architecture",
+        "label": 1
+    },
+    {
+        "venue1": "journal of yangzhou university",
+        "venue2": "journal of yangzhou university natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "computational and theoretical chemistry",
+        "venue2": "journal of theoretical   computational chemistry",
+        "label": 1
+    },
+    {
+        "venue1": "analysis and optimization of systems",
+        "venue2": "analysis and optimization of differential systems",
+        "label": 1
+    },
+    {
+        "venue1": "nursing in general practice",
+        "venue2": "chinese general practice nursing",
+        "label": 0
+    },
+    {
+        "venue1": "international journal of science and engineering",
+        "venue2": "international journal of computer mathematics   applications of computational mathematics in science and engineering",
+        "label": 0
+    },
+    {
+        "venue1": "journal of open research software",
+        "venue2": "journal of software maintenance: research and practice",
+        "label": 0
+    },
+    {
+        "venue1": "journal of xiangtan normal university",
+        "venue2": "journal of xiangtan normal university  natural science edition ",
+        "label": 1
+    },
+    {
+        "venue1": "open journal of pathology",
+        "venue2": "european journal of forest pathology",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of psychology",
+        "venue2": "international journal of aviation psychology",
+        "label": 0
+    },
+    {
+        "venue1": "e journal of new world sciences academy",
+        "venue2": "journal of graduate school of chinese academy of social sciences",
+        "label": 0
+    },
+    {
+        "venue1": "the journal of psychology",
+        "venue2": "china journal of health psychology",
+        "label": 0
+    },
+    {
+        "venue1": "protection from corrosion",
+        "venue2": "petrochemical corrosion and protection",
+        "label": 0
+    },
+    {
+        "venue1": "experimental biology",
+        "venue2": "proceedings of the society for experimental biology and medicine",
+        "label": 0
+    },
+    {
+        "venue1": "journal of central china normal university",
+        "venue2": "journal of central china normal university humanities and social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "journal of beijing normal university",
+        "venue2": "journal of beijing normal university social sciences ",
+        "label": 1
+    },
+    {
+        "venue1": "artificial cells blood substitutes and biotechnology",
+        "venue2": "artificial cells  blood substitutes and biotechnology",
+        "label": 1
+    }
+]

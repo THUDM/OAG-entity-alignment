@@ -1,0 +1,800 @@
+COL name VAL data brief COL keyword VAL data	COL name VAL data warehousing COL keyword VAL data	0
+COL name VAL world journal psychiatry COL keyword VAL journal psychiatry	COL name VAL journal clinical psychiatry COL keyword VAL journal psychiatry	0
+COL name VAL agricultural sciences COL keyword VAL agricultural sciences	COL name VAL journal jilin agricultural sciences COL keyword VAL agricultural sciences	0
+COL name VAL journal nanchang hangkong university COL keyword VAL journal nanchang hangkong university	COL name VAL journal nanchang hangkong university natural sciences COL keyword VAL journal nanchang hangkong university	1
+COL name VAL international journal artificial intelligence COL keyword VAL international journal artificial intelligence	COL name VAL international journal artificial intelligence education best aied 2011 COL keyword VAL international journal artificial intelligence	0
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal beijing institute education natural science COL keyword VAL journal education science	0
+COL name VAL journal nature science COL keyword VAL journal nature science	COL name VAL journal qinghai university nature science edition COL keyword VAL journal nature science	0
+COL name VAL information culture COL keyword VAL culture	COL name VAL science culture review COL keyword VAL culture	0
+COL name VAL american interest COL keyword VAL american	COL name VAL american zoologist COL keyword VAL american	0
+COL name VAL journal nuclear particle physics COL keyword VAL journal nuclear particle physics	COL name VAL journal physics g nuclear particle physics COL keyword VAL journal physics nuclear particle physics	1
+COL name VAL ludong university journal COL keyword VAL ludong university journal	COL name VAL ludong university journal philosophy social sciences edition COL keyword VAL ludong university journal	1
+COL name VAL management international COL keyword VAL management international	COL name VAL proceedings fifth international workshop data management new hardware COL keyword VAL international management	0
+COL name VAL management international COL keyword VAL management international	COL name VAL proceedings first international workshop cloud data management COL keyword VAL international management	0
+COL name VAL mobile networks applications COL keyword VAL mobile networks applications	COL name VAL mobile networks applications mobile networking through ip COL keyword VAL mobile networks applications mobile	1
+COL name VAL rural areas development COL keyword VAL rural development	COL name VAL urban rural development COL keyword VAL rural development	0
+COL name VAL chemical engineering world COL keyword VAL chemical engineering	COL name VAL chemical engineering journal COL keyword VAL chemical engineering	0
+COL name VAL medicine law COL keyword VAL medicine law	COL name VAL journal law medicine COL keyword VAL law medicine	1
+COL name VAL education health COL keyword VAL education health	COL name VAL health vocational education COL keyword VAL health education	0
+COL name VAL journal interactive learning research COL keyword VAL journal interactive learning research	COL name VAL journal interactive learning research COL keyword VAL journal interactive learning research	1
+COL name VAL journal education science COL keyword VAL journal education science	COL name VAL journal inner mongolia normal university education science COL keyword VAL journal education science	0
+COL name VAL journal educational thought COL keyword VAL journal educational	COL name VAL shanghai journal educational evaluation COL keyword VAL journal educational	0
+COL name VAL european journal general medicine COL keyword VAL european journal medicine	COL name VAL european journal nuclear medicine COL keyword VAL european journal medicine	0
+COL name VAL world water COL keyword VAL water	COL name VAL water technology COL keyword VAL water	0
+COL name VAL journal hand surgery COL keyword VAL journal hand surgery	COL name VAL journal hand surgery european volume COL keyword VAL journal hand surgery	1
+COL name VAL information culture COL keyword VAL culture	COL name VAL culture communication COL keyword VAL culture	0
+COL name VAL international journal information technology COL keyword VAL international journal technology	COL name VAL international journal computer applications technology COL keyword VAL international journal technology	0
+COL name VAL journal food safety quality COL keyword VAL journal food safety quality	COL name VAL journal food safety quality COL keyword VAL journal food safety quality	1
+COL name VAL analysis optimization systems COL keyword VAL analysis optimization systems	COL name VAL analysis optimization differential systems COL keyword VAL analysis optimization systems	1
+COL name VAL wordsworth circle COL keyword VAL wordsworth circle	COL name VAL wordsworth circle COL keyword VAL wordsworth circle	1
+COL name VAL journal north university china COL keyword VAL journal north university china	COL name VAL journal north china university technology beijing china COL keyword VAL journal north china university china	0
+COL name VAL journal jilin normal university COL keyword VAL journal jilin normal university	COL name VAL journal jilin normal university humanities social science edition COL keyword VAL journal jilin normal university	1
+COL name VAL international journal open information technologies COL keyword VAL international journal technologies	COL name VAL international journal measurement technologies instrumentation engineering COL keyword VAL international journal technologies	0
+COL name VAL b c journal special education COL keyword VAL journal special education	COL name VAL a journal modern special education COL keyword VAL journal special education	0
+COL name VAL problems quality COL keyword VAL quality	COL name VAL merchandise quality COL keyword VAL quality	0
+COL name VAL latest thinking COL keyword VAL thinking	COL name VAL c thinking COL keyword VAL thinking	0
+COL name VAL fluids COL keyword VAL fluids	COL name VAL computers fluids COL keyword VAL fluids	0
+COL name VAL first resource COL keyword VAL resource	COL name VAL resource recycling COL keyword VAL resource	0
+COL name VAL technological horizons education COL keyword VAL technological horizons education	COL name VAL t h e journal technological horizons education COL keyword VAL technological horizons education	1
+COL name VAL international journal engineering COL keyword VAL international journal engineering	COL name VAL international journal engineering intelligent systems COL keyword VAL international journal engineering	0
+COL name VAL international journal information technology COL keyword VAL international journal technology	COL name VAL international journal advanced manufacturing technology COL keyword VAL international journal technology	0
+COL name VAL computer graphics image processing COL keyword VAL computer graphics image processing	COL name VAL graphical models graphical models image processing computer vision graphics image processing COL keyword VAL image processing computer graphics image processing	0
+COL name VAL journal arts social sciences COL keyword VAL journal arts social sciences	COL name VAL journal xiamen university arts social sciences COL keyword VAL journal arts social sciences	0
+COL name VAL journal molecular medicine COL keyword VAL journal molecular medicine	COL name VAL journal molecular medicine jmm COL keyword VAL journal molecular medicine	1
+COL name VAL journal general practice COL keyword VAL journal practice	COL name VAL journal pharmaceutical practice COL keyword VAL journal practice	0
+COL name VAL international journal sensor networks COL keyword VAL international journal sensor networks	COL name VAL international journal distributed sensor networks advances heterogeneous wireless sensor networks COL keyword VAL international journal sensor networks sensor networks	0
+COL name VAL management economic information COL keyword VAL management economic	COL name VAL contemporary economic management COL keyword VAL economic management	0
+COL name VAL new philosophy COL keyword VAL philosophy	COL name VAL world philosophy COL keyword VAL philosophy	0
+COL name VAL computational theoretical chemistry COL keyword VAL computational theoretical chemistry	COL name VAL international conference theoretical high performance computational chemistry 2012 COL keyword VAL theoretical computational chemistry	0
+COL name VAL open journal pediatrics COL keyword VAL journal pediatrics	COL name VAL journal clinical pediatrics COL keyword VAL journal pediatrics	0
+COL name VAL journal law information science COL keyword VAL journal law science	COL name VAL journal shanghai institute political science law COL keyword VAL journal science law	0
+COL name VAL journal jilin institute architectural civil COL keyword VAL journal jilin institute architectural civil	COL name VAL journal jilin institute architectural civil engineering COL keyword VAL journal jilin institute architectural civil	1
+COL name VAL t t international COL keyword VAL international	COL name VAL international conference it application COL keyword VAL international	0
+COL name VAL journal henan education institute COL keyword VAL journal henan education institute	COL name VAL journal henan institute education natural science edition COL keyword VAL journal henan institute education	1
+COL name VAL computer graphics image processing COL keyword VAL computer graphics image processing	COL name VAL seventh indian conference computer vision graphics image processing COL keyword VAL computer graphics image processing	0
+COL name VAL networks spatial economics COL keyword VAL networks spatial economics	COL name VAL networks spatial economics COL keyword VAL networks spatial economics	1
+COL name VAL medical equipment COL keyword VAL medical equipment	COL name VAL modern medical equipment application COL keyword VAL medical equipment	0
+COL name VAL chemical engineering world COL keyword VAL chemical engineering	COL name VAL journal chemical engineering data COL keyword VAL chemical engineering	0
+COL name VAL journal north university china COL keyword VAL journal north university china	COL name VAL journal north china university technology COL keyword VAL journal north china university	0
+COL name VAL computer graphics image processing COL keyword VAL computer graphics image processing	COL name VAL computer vision graphics image processing COL keyword VAL computer graphics image processing	0
+COL name VAL human technology COL keyword VAL human technology	COL name VAL new technology human services COL keyword VAL technology human	0
+COL name VAL german quarterly COL keyword VAL german quarterly	COL name VAL german quarterly COL keyword VAL german quarterly	1
+COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	COL name VAL japanese conference discrete computational geometry COL keyword VAL discrete computational geometry	0
+COL name VAL open journal forestry COL keyword VAL journal forestry	COL name VAL journal inner mongolia forestry COL keyword VAL journal forestry	0
+COL name VAL agricultural sciences COL keyword VAL agricultural sciences	COL name VAL shaanxi journal agricultural sciences COL keyword VAL agricultural sciences	0
+COL name VAL open journal statistics COL keyword VAL journal statistics	COL name VAL chinaese journal hospital statistics COL keyword VAL journal statistics	0
+COL name VAL business review COL keyword VAL business review	COL name VAL nankai business review COL keyword VAL business review	0
+COL name VAL open journal forestry COL keyword VAL journal forestry	COL name VAL journal zhejiang forestry college COL keyword VAL journal forestry	0
+COL name VAL agricultural engineering today COL keyword VAL agricultural engineering	COL name VAL agricultural engineering COL keyword VAL agricultural engineering	0
+COL name VAL public works COL keyword VAL public	COL name VAL public historian COL keyword VAL public	0
+COL name VAL journal pathology COL keyword VAL journal pathology	COL name VAL journal pathology COL keyword VAL journal pathology	1
+COL name VAL journal hangzhou normal university COL keyword VAL journal hangzhou normal university	COL name VAL journal hangzhou normal university medical edition COL keyword VAL journal hangzhou normal university	1
+COL name VAL journal chemical society faraday transactions COL keyword VAL journal chemical society faraday transactions	COL name VAL journal chemical society faraday transactions COL keyword VAL journal chemical society faraday transactions	1
+COL name VAL studies literature COL keyword VAL studies literature	COL name VAL theoretical studies literature art COL keyword VAL studies literature	0
+COL name VAL journal science educational science COL keyword VAL journal science educational science	COL name VAL journal wuhan institute educational science COL keyword VAL journal educational science	0
+COL name VAL international journal computing COL keyword VAL international journal computing	COL name VAL international journal optical computing COL keyword VAL international journal computing	0
+COL name VAL problems quality COL keyword VAL quality	COL name VAL shanghai quality COL keyword VAL quality	0
+COL name VAL journal educational thought COL keyword VAL journal educational	COL name VAL journal educational studies COL keyword VAL journal educational	0
+COL name VAL journal yangzhou university COL keyword VAL journal yangzhou university	COL name VAL journal taxation college yangzhou university COL keyword VAL journal yangzhou university	0
+COL name VAL education society COL keyword VAL education society	COL name VAL journal chinese society education COL keyword VAL society education	0
+COL name VAL observatory COL keyword VAL observatory	COL name VAL observatory COL keyword VAL observatory	1
+COL name VAL chinese journal operative procedures general surgery COL keyword VAL chinese journal operative procedures general surgery	COL name VAL chinese journal operative procedures general surgery electronic edition COL keyword VAL chinese journal operative procedures general surgery	1
+COL name VAL biomedical journal COL keyword VAL biomedical journal	COL name VAL journal biomedical imaging COL keyword VAL journal biomedical	0
+COL name VAL journal law information science COL keyword VAL journal law science	COL name VAL science law journal northwest university political science law COL keyword VAL science law journal science law	0
+COL name VAL public historian COL keyword VAL public historian	COL name VAL public historian COL keyword VAL public historian	1
+COL name VAL journal materials science engineering COL keyword VAL journal materials science engineering	COL name VAL journal materials science engineering COL keyword VAL journal materials science engineering	1
+COL name VAL journal xiangtan normal university COL keyword VAL journal xiangtan normal university	COL name VAL journal xiangtan normal university natural science edition COL keyword VAL journal xiangtan normal university	1
+COL name VAL journal beijing normal university COL keyword VAL journal beijing normal university	COL name VAL journal beijing normal university social sciences COL keyword VAL journal beijing normal university	1
+COL name VAL public works COL keyword VAL public	COL name VAL public utilities COL keyword VAL public	0
+COL name VAL journal pla university science technology COL keyword VAL journal pla university science technology	COL name VAL journal pla university science technology natural science COL keyword VAL journal pla university science technology science	1
+COL name VAL international journal design COL keyword VAL international journal design	COL name VAL international journal online pedagogy course design COL keyword VAL international journal design	0
+COL name VAL safety health work COL keyword VAL safety health	COL name VAL safety health COL keyword VAL safety health	0
+COL name VAL international journal research COL keyword VAL international journal research	COL name VAL international journal robotic research COL keyword VAL international journal research	0
+COL name VAL journal jiamusi university COL keyword VAL journal jiamusi university	COL name VAL journal jiamusi university natural science edition COL keyword VAL journal jiamusi university	1
+COL name VAL world health COL keyword VAL health	COL name VAL wireless health COL keyword VAL health	0
+COL name VAL journal international information management COL keyword VAL journal international management	COL name VAL international journal productivity management assessment technologies COL keyword VAL international journal management	0
+COL name VAL mathematical sciences COL keyword VAL mathematical sciences	COL name VAL proceedings indian academy sciences mathematical sciences COL keyword VAL sciences mathematical sciences	1
+COL name VAL gynecology obstetrics COL keyword VAL gynecology obstetrics	COL name VAL chinese journal obstetrics gynecology pediatrics COL keyword VAL obstetrics gynecology	0
+COL name VAL journal law politics COL keyword VAL journal law politics	COL name VAL beijing management college politics law journal COL keyword VAL politics law journal	0
+COL name VAL journal shenyang institute engineering COL keyword VAL journal shenyang institute engineering	COL name VAL journal shenyang institute engineering natural science COL keyword VAL journal shenyang institute engineering	1
+COL name VAL open journal geology COL keyword VAL journal geology	COL name VAL journal engineering geology COL keyword VAL journal geology	0
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal food science education COL keyword VAL journal science education	0
+COL name VAL journal guangzhou university COL keyword VAL journal guangzhou university	COL name VAL journal guangzhou university natural science edition COL keyword VAL journal guangzhou university	1
+COL name VAL journal online marketing COL keyword VAL journal online marketing	COL name VAL international journal online marketing COL keyword VAL journal online marketing	1
+COL name VAL journal liaocheng university COL keyword VAL journal liaocheng university	COL name VAL journal liaocheng university social science edition COL keyword VAL journal liaocheng university	1
+COL name VAL business review COL keyword VAL business review	COL name VAL business review COL keyword VAL business review	1
+COL name VAL international journal artificial intelligence COL keyword VAL international journal artificial intelligence	COL name VAL information processing management: international journal artificial intelligence information retrieval COL keyword VAL international journal artificial intelligence	0
+COL name VAL journal communication university china COL keyword VAL journal communication university china	COL name VAL journal communication university china science technology COL keyword VAL journal communication university china	1
+COL name VAL journal liaocheng university COL keyword VAL journal liaocheng university	COL name VAL journal liaocheng university scial sciences edition COL keyword VAL journal liaocheng university	1
+COL name VAL journal north university china COL keyword VAL journal north university china	COL name VAL journal north university china social science edition COL keyword VAL journal north university china	1
+COL name VAL group analysis COL keyword VAL analysis	COL name VAL philosophical analysis COL keyword VAL analysis	0
+COL name VAL medical science technology COL keyword VAL medical science technology	COL name VAL journal henan university science technology medical science COL keyword VAL science technology medical science	0
+COL name VAL biomedical journal COL keyword VAL biomedical journal	COL name VAL journal biomedical engineering research COL keyword VAL journal biomedical	0
+COL name VAL computational theoretical chemistry COL keyword VAL computational theoretical chemistry	COL name VAL journal theoretical computational chemistry COL keyword VAL theoretical computational chemistry	1
+COL name VAL revista colombiana de computacion colombian journal computation COL keyword VAL revista colombiana de computacion colombian journal computation	COL name VAL revista colombiana de computacion colombian journal computation COL keyword VAL revista colombiana de computacion colombian journal computation	1
+COL name VAL american journal surgical pathology COL keyword VAL american journal surgical pathology	COL name VAL american journal surgical pathology COL keyword VAL american journal surgical pathology	1
+COL name VAL journal pain COL keyword VAL journal pain	COL name VAL clinical journal pain COL keyword VAL journal pain	0
+COL name VAL journal central china normal university COL keyword VAL journal central china normal university	COL name VAL journal central china normal university natural sciences COL keyword VAL journal central china normal university	1
+COL name VAL journal second northwest university nationalities COL keyword VAL journal northwest university nationalities	COL name VAL journal northwest university nationalities natural science COL keyword VAL journal northwest university nationalities	0
+COL name VAL evaluation health professions COL keyword VAL evaluation health professions	COL name VAL evaluation health professions COL keyword VAL evaluation health professions	1
+COL name VAL trends food science technology COL keyword VAL trends food science technology	COL name VAL trends food science technology COL keyword VAL trends food science technology	1
+COL name VAL vocational education COL keyword VAL vocational education	COL name VAL contemporary vocational education COL keyword VAL vocational education	0
+COL name VAL water supply COL keyword VAL water supply	COL name VAL city town water supply COL keyword VAL water supply	0
+COL name VAL oil gas geology COL keyword VAL oil gas geology	COL name VAL oil gas geology COL keyword VAL oil gas geology	1
+COL name VAL east west COL keyword VAL east west	COL name VAL philosophy east west COL keyword VAL east west	1
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal inner mongolia normal university education science COL keyword VAL journal education science	0
+COL name VAL safety health work COL keyword VAL safety health	COL name VAL safety health COL keyword VAL safety health	0
+COL name VAL electronics power COL keyword VAL electronics power	COL name VAL power electronics COL keyword VAL power electronics	1
+COL name VAL journal science educational science COL keyword VAL journal science educational science	COL name VAL journal hebei normal university educational science edition COL keyword VAL journal educational science	0
+COL name VAL journal psychology COL keyword VAL journal psychology	COL name VAL journal abnormal psychology COL keyword VAL journal psychology	0
+COL name VAL chemical engineering world COL keyword VAL chemical engineering	COL name VAL chemical engineering design COL keyword VAL chemical engineering	0
+COL name VAL world cement COL keyword VAL cement	COL name VAL china cement COL keyword VAL cement	0
+COL name VAL journal early modern studies COL keyword VAL journal modern studies	COL name VAL journal modern periodical studies COL keyword VAL journal modern studies	0
+COL name VAL international journal computer network information security COL keyword VAL international journal computer network security	COL name VAL computer networks: international journal computer telecommunications networking special issue computer network security COL keyword VAL computer international journal computer computer network security	0
+COL name VAL protection from corrosion COL keyword VAL protection corrosion	COL name VAL petrochemical corrosion protection COL keyword VAL corrosion protection	0
+COL name VAL journal pain COL keyword VAL journal pain	COL name VAL pain clinlc journal COL keyword VAL pain journal	0
+COL name VAL journal civil engineering architecture COL keyword VAL journal civil engineering architecture	COL name VAL journal beijing institute civil engineering architecture COL keyword VAL journal civil engineering architecture	0
+COL name VAL journal arts social sciences COL keyword VAL journal arts social sciences	COL name VAL journal chongqing university arts sciences social sciences edition COL keyword VAL journal arts sciences social sciences	0
+COL name VAL computers education COL keyword VAL computers education	COL name VAL world conference computers education COL keyword VAL computers education	1
+COL name VAL psychology today COL keyword VAL psychology	COL name VAL informatics psychology workshop COL keyword VAL psychology	0
+COL name VAL information culture COL keyword VAL culture	COL name VAL theory culture society COL keyword VAL culture	0
+COL name VAL land COL keyword VAL land	COL name VAL land greening COL keyword VAL land	0
+COL name VAL research review COL keyword VAL research review	COL name VAL new review information behaviour research COL keyword VAL review research	0
+COL name VAL journal shihezi university COL keyword VAL journal shihezi university	COL name VAL journal shihezi university natural science COL keyword VAL journal shihezi university	1
+COL name VAL journal chongqing university science technology COL keyword VAL journal chongqing university science technology	COL name VAL journal chongqing university technology natural science COL keyword VAL journal chongqing university technology science	0
+COL name VAL journal yangtze university agricultural science volume COL keyword VAL journal yangtze university agricultural science volume	COL name VAL journal yangtze university natural science edition agricultural science volume COL keyword VAL journal yangtze university science agricultural science volume	1
+COL name VAL journal ningbo university COL keyword VAL journal ningbo university	COL name VAL journal ningbo university educational science edition COL keyword VAL journal ningbo university	1
+COL name VAL journal international information management COL keyword VAL journal international management	COL name VAL international journal internet enterprise management COL keyword VAL international journal management	0
+COL name VAL journal membrane biology COL keyword VAL journal membrane biology	COL name VAL journal membrane biology COL keyword VAL journal membrane biology	1
+COL name VAL applied computer science COL keyword VAL applied computer science	COL name VAL world congress computer science computer engineering applied computing COL keyword VAL computer science computer applied	0
+COL name VAL research journal science technology COL keyword VAL research journal science technology	COL name VAL journal american society information science technology research articles COL keyword VAL journal science technology research	0
+COL name VAL group analysis COL keyword VAL analysis	COL name VAL defense analysis COL keyword VAL analysis	0
+COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	COL name VAL discrete computational geometry 23rd annual symposium computational geometry COL keyword VAL discrete computational geometry computational geometry	1
+COL name VAL hydraulic engineering COL keyword VAL hydraulic engineering	COL name VAL journal hydraulic engineering asce COL keyword VAL hydraulic engineering	1
+COL name VAL fine arts journal COL keyword VAL fine arts journal	COL name VAL journal tianjin academy fine arts COL keyword VAL journal fine arts	0
+COL name VAL technology teacher COL keyword VAL technology teacher	COL name VAL journal technology teacher education COL keyword VAL technology teacher	0
+COL name VAL neurologist COL keyword VAL neurologist	COL name VAL neurologist COL keyword VAL neurologist	1
+COL name VAL journal university shanghai science technology COL keyword VAL journal university shanghai science technology	COL name VAL journal university shanghai science technology COL keyword VAL journal university shanghai science technology	1
+COL name VAL practitioner COL keyword VAL practitioner	COL name VAL practitioner COL keyword VAL practitioner	1
+COL name VAL arts social sciences journal COL keyword VAL arts social sciences journal	COL name VAL journal chongqing university arts sciences social sciences edition COL keyword VAL journal arts sciences social sciences	0
+COL name VAL journal northwest minorities university COL keyword VAL journal northwest minorities university	COL name VAL journal northwest minorities university nationalities natural science COL keyword VAL journal northwest minorities university	1
+COL name VAL journal arts social sciences COL keyword VAL journal arts social sciences	COL name VAL journal xi'an university arts science social sciences edition COL keyword VAL journal arts social sciences	0
+COL name VAL journal yangtze university medicine COL keyword VAL journal yangtze university medicine	COL name VAL journal yangtze university natural science edition medicine v COL keyword VAL journal yangtze university medicine	1
+COL name VAL studies literature COL keyword VAL studies literature	COL name VAL literature culture studies COL keyword VAL literature studies	0
+COL name VAL world obstetrics gynecology COL keyword VAL obstetrics gynecology	COL name VAL progress obstetrics gynecology COL keyword VAL obstetrics gynecology	1
+COL name VAL slavonic east european review COL keyword VAL slavonic east european review	COL name VAL slavonic east european review COL keyword VAL slavonic east european review	1
+COL name VAL international journal design COL keyword VAL international journal design	COL name VAL international journal art design education COL keyword VAL international journal design	0
+COL name VAL journal theological studies COL keyword VAL journal theological studies	COL name VAL journal theological studies COL keyword VAL journal theological studies	1
+COL name VAL agricultural science COL keyword VAL agricultural science	COL name VAL management agricultural science technology COL keyword VAL agricultural science	0
+COL name VAL open journal statistics COL keyword VAL journal statistics	COL name VAL chinese journal health statistics COL keyword VAL journal statistics	0
+COL name VAL iron steel technology COL keyword VAL iron steel technology	COL name VAL journal baotou university fo iron steel technology COL keyword VAL iron steel technology	0
+COL name VAL journal guizhou university technology COL keyword VAL journal guizhou university technology	COL name VAL journal guizhou university technology social science edition COL keyword VAL journal guizhou university technology	1
+COL name VAL world journal clinical oncology COL keyword VAL journal clinical oncology	COL name VAL american journal clinical oncology cancer clinical trials COL keyword VAL journal clinical oncology clinical	0
+COL name VAL new philosophy COL keyword VAL philosophy	COL name VAL international philosophy today COL keyword VAL philosophy	0
+COL name VAL journal open research software COL keyword VAL journal research software	COL name VAL journal software maintenance: research practice COL keyword VAL journal software research	0
+COL name VAL journal xiangtan normal university COL keyword VAL journal xiangtan normal university	COL name VAL journal xiangtan normal university social science edition COL keyword VAL journal xiangtan normal university	1
+COL name VAL journal jiangsu normal university COL keyword VAL journal jiangsu normal university	COL name VAL journal jiangsu normal university natural science edition COL keyword VAL journal jiangsu normal university	1
+COL name VAL journal american science COL keyword VAL journal american science	COL name VAL journal american society information science technology COL keyword VAL journal american science	0
+COL name VAL journal huazhong normal university COL keyword VAL journal huazhong normal university	COL name VAL journal huazhong normal university natural sciences COL keyword VAL journal huazhong normal university	1
+COL name VAL international journal intelligent systems applications COL keyword VAL international journal intelligent systems applications	COL name VAL international journal knowledge intelligent engineering systems intelligent information processing: techniques applications COL keyword VAL international journal intelligent systems intelligent applications	0
+COL name VAL journal hefei university technolog COL keyword VAL journal hefei university technolog	COL name VAL journal hefei university technolog social sciences COL keyword VAL journal hefei university technolog	1
+COL name VAL journal spinal surgery COL keyword VAL journal spinal surgery	COL name VAL journal spinal surgery COL keyword VAL journal spinal surgery	1
+COL name VAL psychology today COL keyword VAL psychology	COL name VAL psychology exploration COL keyword VAL psychology	0
+COL name VAL law humanities COL keyword VAL law humanities	COL name VAL law culture humanities COL keyword VAL law humanities	1
+COL name VAL new philosophy COL keyword VAL philosophy	COL name VAL african philosophy COL keyword VAL philosophy	0
+COL name VAL comparative biochemistry physiology b COL keyword VAL comparative biochemistry physiology b	COL name VAL comparative biochemistry physiology b biochemistry molecular biology COL keyword VAL comparative biochemistry physiology b biochemistry	1
+COL name VAL spine journal COL keyword VAL spine journal	COL name VAL spine journal COL keyword VAL spine journal	1
+COL name VAL journal nanjing institute physical education COL keyword VAL journal nanjing institute physical education	COL name VAL journal nanjing institute physical education natural science COL keyword VAL journal nanjing institute physical education	1
+COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	COL name VAL discrete computational geometry acm symposium computational geometry waterloo COL keyword VAL discrete computational geometry computational geometry	1
+COL name VAL journal yunnan university nationalities COL keyword VAL journal yunnan university nationalities	COL name VAL journal yunnan nationalities university social sciences COL keyword VAL journal yunnan nationalities university	1
+COL name VAL research review COL keyword VAL research review	COL name VAL crime justice a review research COL keyword VAL review research	0
+COL name VAL building last COL keyword VAL building	COL name VAL green building COL keyword VAL building	0
+COL name VAL vocational education COL keyword VAL vocational education	COL name VAL mechanical vocational education COL keyword VAL vocational education	0
+COL name VAL journal clinical toxicology COL keyword VAL journal clinical toxicology	COL name VAL journal toxicology clinical toxicology COL keyword VAL journal toxicology clinical toxicology	1
+COL name VAL psychology today COL keyword VAL psychology	COL name VAL informatics psychology workshop COL keyword VAL psychology	0
+COL name VAL world cultures COL keyword VAL world cultures	COL name VAL religions cultures world COL keyword VAL cultures world	0
+COL name VAL building last COL keyword VAL building	COL name VAL intelligent building COL keyword VAL building	0
+COL name VAL international journal intelligent systems applications COL keyword VAL international journal intelligent systems applications	COL name VAL international journal intelligent systems decision sciences: foundations applications COL keyword VAL international journal intelligent systems applications	1
+COL name VAL american journal clinical oncology COL keyword VAL american journal clinical oncology	COL name VAL american journal clinical oncology cancer clinical trials COL keyword VAL american journal clinical oncology clinical	1
+COL name VAL economic journal COL keyword VAL economic journal	COL name VAL economic journal COL keyword VAL economic journal	1
+COL name VAL business review COL keyword VAL business review	COL name VAL 21st century business review COL keyword VAL business review	0
+COL name VAL plastics world COL keyword VAL plastics	COL name VAL guangdong plastics COL keyword VAL plastics	0
+COL name VAL computer graphics image processing COL keyword VAL computer graphics image processing	COL name VAL computer vision graphics image processing COL keyword VAL computer graphics image processing	0
+COL name VAL journal inner mongolia normal university COL keyword VAL journal inner mongolia normal university	COL name VAL journal inner mongolia normal university philosophy social science COL keyword VAL journal inner mongolia normal university	1
+COL name VAL journal general practice COL keyword VAL journal practice	COL name VAL journal information science: principles practice COL keyword VAL journal practice	0
+COL name VAL world health COL keyword VAL health	COL name VAL e health COL keyword VAL health	0
+COL name VAL electronic journal combinatorics COL keyword VAL electronic journal combinatorics	COL name VAL electronic journal combinatorics COL keyword VAL electronic journal combinatorics	1
+COL name VAL journal new technology materials COL keyword VAL journal technology materials	COL name VAL journal electronic materials alternative substrate technology COL keyword VAL journal materials technology	0
+COL name VAL journal fujian agriculture forestry university COL keyword VAL journal fujian agriculture forestry university	COL name VAL journal fujian agriculture forestry university philosophy science COL keyword VAL journal fujian agriculture forestry university	1
+COL name VAL musical quarterly COL keyword VAL musical quarterly	COL name VAL musical quarterly COL keyword VAL musical quarterly	1
+COL name VAL journal toxicology environmental health COL keyword VAL journal toxicology environmental health	COL name VAL journal toxicology environmental health part a current issues COL keyword VAL journal toxicology environmental health	1
+COL name VAL world obstetrics gynecology COL keyword VAL obstetrics gynecology	COL name VAL progress obstetrics gynecology COL keyword VAL obstetrics gynecology	1
+COL name VAL open journal urology COL keyword VAL journal urology	COL name VAL journal urology COL keyword VAL journal urology	1
+COL name VAL vocational education COL keyword VAL vocational education	COL name VAL higher vocational education forum COL keyword VAL vocational education	0
+COL name VAL journal education science COL keyword VAL journal education science	COL name VAL journal food science education COL keyword VAL journal science education	0
+COL name VAL concurrent engineering COL keyword VAL concurrent engineering	COL name VAL manufacturing era concurrent engineering COL keyword VAL concurrent engineering	0
+COL name VAL international journal intelligent systems applications COL keyword VAL international journal intelligent systems applications	COL name VAL international journal intelligent systems granular computing: models applications COL keyword VAL international journal intelligent systems applications	1
+COL name VAL art music journal shanghai conservatory music COL keyword VAL art music journal shanghai conservatory music	COL name VAL art music journal shanghai conservatory music COL keyword VAL art music journal shanghai conservatory music	1
+COL name VAL journal shandong institute mining technology COL keyword VAL journal shandong institute mining technology	COL name VAL journal shandong institute mining technology social science COL keyword VAL journal shandong institute mining technology	1
+COL name VAL agricultural science COL keyword VAL agricultural science	COL name VAL yunnan agricultural science technology COL keyword VAL agricultural science	0
+COL name VAL journal hehai university COL keyword VAL journal hehai university	COL name VAL journal hehai university social sciences COL keyword VAL journal hehai university	1
+COL name VAL journal soochow university COL keyword VAL journal soochow university	COL name VAL journal soochow university engineering science edition COL keyword VAL journal soochow university	1
+COL name VAL open journal pediatrics COL keyword VAL journal pediatrics	COL name VAL journal pediatrics COL keyword VAL journal pediatrics	1
+COL name VAL journal software COL keyword VAL journal software	COL name VAL journal computer software engineering COL keyword VAL journal software	0
+COL name VAL journal huaibei normal university COL keyword VAL journal huaibei normal university	COL name VAL journal huaibei normal university natural science edition COL keyword VAL journal huaibei normal university	1
+COL name VAL acm transactions computing education COL keyword VAL acm transactions computing education	COL name VAL acm transactions computing education acm journal educational resources computing COL keyword VAL acm transactions computing education acm computing	1
+COL name VAL journal technology information education COL keyword VAL journal technology education	COL name VAL journal technology teacher education COL keyword VAL journal technology education	0
+COL name VAL international journal science engineering COL keyword VAL international journal science engineering	COL name VAL international journal computer mathematics innovative algorithms science engineering COL keyword VAL international journal science engineering	0
+COL name VAL today s or nurse COL keyword VAL nurse	COL name VAL family nurse COL keyword VAL nurse	0
+COL name VAL open medicine COL keyword VAL medicine	COL name VAL china medicine COL keyword VAL medicine	0
+COL name VAL international journal technology COL keyword VAL international journal technology	COL name VAL international journal technology policy law COL keyword VAL international journal technology	0
+COL name VAL open journal urology COL keyword VAL journal urology	COL name VAL journal minimally invasive urology COL keyword VAL journal urology	0
+COL name VAL journal psychology COL keyword VAL journal psychology	COL name VAL china journal health psychology COL keyword VAL journal psychology	0
+COL name VAL journal yunnan university nationalities COL keyword VAL journal yunnan university nationalities	COL name VAL journal yunnan university nationalities social sciences COL keyword VAL journal yunnan university nationalities	1
+COL name VAL journal gay lesbian social services COL keyword VAL journal gay lesbian social services	COL name VAL journal gay lesbian social services COL keyword VAL journal gay lesbian social services	1
+COL name VAL polymer materials science engineering COL keyword VAL polymer materials science engineering	COL name VAL polymer materials science engineering COL keyword VAL polymer materials science engineering	1
+COL name VAL canadian psychology COL keyword VAL canadian psychology	COL name VAL canadian psychology psychologie canadienne COL keyword VAL canadian psychology	1
+COL name VAL journal yanan university COL keyword VAL journal yanan university	COL name VAL journal yanan university medical sciences COL keyword VAL journal yanan university	1
+COL name VAL journal inner mongolia normal university COL keyword VAL journal inner mongolia normal university	COL name VAL journal inner mongolia normal university philosophy social sciences edition COL keyword VAL journal inner mongolia normal university	1
+COL name VAL journal university jinan COL keyword VAL journal university jinan	COL name VAL journal jinan university natural science edition COL keyword VAL journal jinan university	1
+COL name VAL arts social sciences journal COL keyword VAL arts social sciences journal	COL name VAL journal xiamen university arts social sciences COL keyword VAL journal arts social sciences	0
+COL name VAL american journal managed care COL keyword VAL american journal managed care	COL name VAL american journal managed care COL keyword VAL american journal managed care	1
+COL name VAL journal american science COL keyword VAL journal american science	COL name VAL journal american society information science technology bioinformatics COL keyword VAL journal american science	0
+COL name VAL american statistician COL keyword VAL american statistician	COL name VAL american statistician COL keyword VAL american statistician	1
+COL name VAL international journal psychoanalysis COL keyword VAL international journal psychoanalysis	COL name VAL international journal psychoanalysis COL keyword VAL international journal psychoanalysis	1
+COL name VAL journal higher criticism COL keyword VAL journal criticism	COL name VAL journal aesthetics art criticism COL keyword VAL journal criticism	0
+COL name VAL us neurology COL keyword VAL neurology	COL name VAL archives neurology COL keyword VAL neurology	1
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal jimei university education science edition COL keyword VAL journal education science	0
+COL name VAL materials science engineering r COL keyword VAL materials science engineering	COL name VAL polymer materials science engineering COL keyword VAL materials science engineering	0
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal jiangsu institute education natural science COL keyword VAL journal education science	0
+COL name VAL journal yangzhou university COL keyword VAL journal yangzhou university	COL name VAL journal yangzhou university higher education study edition COL keyword VAL journal yangzhou university	1
+COL name VAL ludong university journal COL keyword VAL ludong university journal	COL name VAL ludong university journal natural science edition COL keyword VAL ludong university journal	1
+COL name VAL open journal pathology COL keyword VAL journal pathology	COL name VAL european journal forest pathology COL keyword VAL journal pathology	0
+COL name VAL journal romance studies COL keyword VAL journal romance studies	COL name VAL journal romance studies COL keyword VAL journal romance studies	1
+COL name VAL journal clinical medicine COL keyword VAL journal clinical medicine	COL name VAL journal infernational pathology clinical medicine COL keyword VAL journal clinical medicine	0
+COL name VAL world health COL keyword VAL health	COL name VAL wireless health COL keyword VAL health	0
+COL name VAL plastics world COL keyword VAL plastics world	COL name VAL world plastics COL keyword VAL world plastics	1
+COL name VAL economics human biology COL keyword VAL economics human biology	COL name VAL economics human biology COL keyword VAL economics human biology	1
+COL name VAL journal shanxi radio tv university COL keyword VAL journal shanxi radio tv university	COL name VAL journal shanxi radio tv university COL keyword VAL journal shanxi radio tv university	1
+COL name VAL studies literature COL keyword VAL studies literature	COL name VAL foreign language literature studies COL keyword VAL literature studies	0
+COL name VAL agricultural science COL keyword VAL agricultural science	COL name VAL bulletin agricultural science technology COL keyword VAL agricultural science	0
+COL name VAL traffic management COL keyword VAL traffic management	COL name VAL air traffic management COL keyword VAL traffic management	0
+COL name VAL international journal artificial intelligence COL keyword VAL international journal artificial intelligence	COL name VAL international journal artificial intelligence education special issue best its 2010 COL keyword VAL international journal artificial intelligence	0
+COL name VAL journal hangzhou normal university COL keyword VAL journal hangzhou normal university	COL name VAL journal hangzhou normal university natural sciences edition COL keyword VAL journal hangzhou normal university	1
+COL name VAL cognition COL keyword VAL cognition	COL name VAL spatial cognition COL keyword VAL cognition	0
+COL name VAL paradigms COL keyword VAL paradigms	COL name VAL new security paradigms workshop COL keyword VAL paradigms	1
+COL name VAL journal jilin normal university COL keyword VAL journal jilin normal university	COL name VAL jilin normal university journal natural science edition COL keyword VAL jilin normal university journal	1
+COL name VAL journal northwest minorities university COL keyword VAL journal northwest minorities university	COL name VAL journal northwest minorities university philosophy social science COL keyword VAL journal northwest minorities university	1
+COL name VAL medical science technology COL keyword VAL medical science technology	COL name VAL journal henan university science technology medical science COL keyword VAL science technology medical science	0
+COL name VAL e journal cultural studies COL keyword VAL journal cultural studies	COL name VAL journal literary cultural disability studies COL keyword VAL journal cultural studies	0
+COL name VAL group analysis COL keyword VAL analysis	COL name VAL network analysis COL keyword VAL analysis	0
+COL name VAL journal economic history COL keyword VAL journal economic history	COL name VAL journal chinese social economic history COL keyword VAL journal economic history	0
+COL name VAL international journal research COL keyword VAL international journal research	COL name VAL international journal pharmaceutical research COL keyword VAL international journal research	0
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal chifeng university science education COL keyword VAL journal science education	0
+COL name VAL journal natural sciences engineering technology COL keyword VAL journal natural sciences engineering technology	COL name VAL journal jilin teachers institute engineering technology natural sciences edition COL keyword VAL journal engineering technology natural sciences	0
+COL name VAL journal speculative philosophy COL keyword VAL journal speculative philosophy	COL name VAL journal speculative philosophy COL keyword VAL journal speculative philosophy	1
+COL name VAL structural engineering earthquake engineering COL keyword VAL structural engineering earthquake engineering	COL name VAL structural engineering earthquake engineering COL keyword VAL structural engineering earthquake engineering	1
+COL name VAL materials science engineering r COL keyword VAL materials science engineering	COL name VAL journal materials science engineering COL keyword VAL materials science engineering	1
+COL name VAL journal yanan university COL keyword VAL journal yanan university	COL name VAL journal yanan university social science edition COL keyword VAL journal yanan university	1
+COL name VAL international journal one health COL keyword VAL international journal health	COL name VAL journal international reproductive health family planning COL keyword VAL journal international health	0
+COL name VAL international journal research COL keyword VAL international journal research	COL name VAL convergence: international journal research into new media technologies COL keyword VAL international journal research	0
+COL name VAL journal medical technology COL keyword VAL journal medical technology	COL name VAL journal henan university science technology medical science COL keyword VAL journal technology medical	0
+COL name VAL journal nanjing institute physical education COL keyword VAL journal nanjing institute physical education	COL name VAL journal nanjing institute physical education social science COL keyword VAL journal nanjing institute physical education	1
+COL name VAL journal logistics university capf COL keyword VAL journal logistics university capf	COL name VAL journal logistics university capf medical sciences COL keyword VAL journal logistics university capf	1
+COL name VAL journal artificial societies social simulation COL keyword VAL journal artificial societies social simulation	COL name VAL journal artificial societies social simulation COL keyword VAL journal artificial societies social simulation	1
+COL name VAL traffic management COL keyword VAL traffic management	COL name VAL road traffic management COL keyword VAL traffic management	0
+COL name VAL agricultural science COL keyword VAL agricultural science	COL name VAL wenzhou agricultural science technology COL keyword VAL agricultural science	0
+COL name VAL infectious diseases COL keyword VAL infectious diseases	COL name VAL journal infectious diseases COL keyword VAL infectious diseases	1
+COL name VAL open journal civil engineering COL keyword VAL journal civil engineering	COL name VAL journal beijing institute civil engineering architecture COL keyword VAL journal civil engineering	0
+COL name VAL canadian journal zoology COL keyword VAL canadian journal zoology	COL name VAL canadian journal zoology revue canadienne de zoologie COL keyword VAL canadian journal zoology	1
+COL name VAL chinese journal transplantation COL keyword VAL chinese journal transplantation	COL name VAL chinese journal transplantation electronic version COL keyword VAL chinese journal transplantation	1
+COL name VAL early american studies COL keyword VAL american studies	COL name VAL english american literary studies COL keyword VAL american studies	0
+COL name VAL prostate COL keyword VAL prostate	COL name VAL prostate COL keyword VAL prostate	1
+COL name VAL structural equation modeling COL keyword VAL structural equation modeling	COL name VAL structural equation modeling a multidisciplinary journal COL keyword VAL structural equation modeling	1
+COL name VAL journal literary cultural disability studies COL keyword VAL journal literary cultural disability studies	COL name VAL journal literary cultural disability studies COL keyword VAL journal literary cultural disability studies	1
+COL name VAL journal philosophy COL keyword VAL journal philosophy	COL name VAL phronesis a journal ancient philosophy COL keyword VAL journal philosophy	0
+COL name VAL agricultural sciences COL keyword VAL agricultural sciences	COL name VAL jiangsu agricultural sciences COL keyword VAL agricultural sciences	0
+COL name VAL journal infection developing countries COL keyword VAL journal infection developing countries	COL name VAL journal infection developing countries COL keyword VAL journal infection developing countries	1
+COL name VAL academic journal suzhou university COL keyword VAL academic journal suzhou university	COL name VAL academic journal suzhou university philosophy social science COL keyword VAL academic journal suzhou university	1
+COL name VAL information systems management COL keyword VAL information systems management	COL name VAL j management information systems COL keyword VAL management information systems	0
+COL name VAL international journal computing COL keyword VAL international journal computing	COL name VAL international journal reconfigurable computing regular issue COL keyword VAL international journal computing	0
+COL name VAL journal chemical society faraday transactions COL keyword VAL journal chemical society faraday transactions	COL name VAL journal chemical society faraday transactions 2 COL keyword VAL journal chemical society faraday transactions	1
+COL name VAL journal tsinghua university COL keyword VAL journal tsinghua university	COL name VAL journal tsinghua university philosophy social sciences COL keyword VAL journal tsinghua university	1
+COL name VAL mutation research mutation research genomics COL keyword VAL mutation research mutation research genomics	COL name VAL mutation research genomics COL keyword VAL mutation research genomics	1
+COL name VAL journal pathology COL keyword VAL journal pathology	COL name VAL european journal forest pathology COL keyword VAL journal pathology	0
+COL name VAL rural china COL keyword VAL rural china	COL name VAL china rural credit cooperative china COL keyword VAL china rural china	0
+COL name VAL chinese journal endourology COL keyword VAL chinese journal endourology	COL name VAL chinese journal endourology electronic version COL keyword VAL chinese journal endourology	1
+COL name VAL journal chongqing normal university COL keyword VAL journal chongqing normal university	COL name VAL journal chongqing normal university edition social sciences COL keyword VAL journal chongqing normal university	1
+COL name VAL journal international information management COL keyword VAL journal international management	COL name VAL international journal intelligent systems accounting finance management COL keyword VAL international journal management	0
+COL name VAL agricultural sciences COL keyword VAL agricultural sciences	COL name VAL journal zhejiang agricultural sciences COL keyword VAL agricultural sciences	0
+COL name VAL journal common market studies COL keyword VAL journal common market studies	COL name VAL jcms: journal common market studies COL keyword VAL journal common market studies	1
+COL name VAL international journal open information technologies COL keyword VAL international journal technologies	COL name VAL international journal wireless networks broadband technologies COL keyword VAL international journal technologies	0
+COL name VAL journal education science COL keyword VAL journal education science	COL name VAL journal jiangsu institute education natural science COL keyword VAL journal education science	0
+COL name VAL nitric oxide COL keyword VAL nitric oxide	COL name VAL nitric oxide biology chemistry COL keyword VAL nitric oxide	1
+COL name VAL journal shenyang jianzhu university COL keyword VAL journal shenyang jianzhu university	COL name VAL journal shenyang jianzhu university social science COL keyword VAL journal shenyang jianzhu university	1
+COL name VAL china finance review international COL keyword VAL china finance review international	COL name VAL 2011 china finance review international conference COL keyword VAL china finance review international	1
+COL name VAL results physics COL keyword VAL physics	COL name VAL nuclear physics a COL keyword VAL physics	0
+COL name VAL journal hebei polytechnic university COL keyword VAL journal hebei polytechnic university	COL name VAL journal hebei polytechnic university social science edition COL keyword VAL journal hebei polytechnic university	1
+COL name VAL fine arts journal COL keyword VAL fine arts journal	COL name VAL journal hubei institute fine arts COL keyword VAL journal fine arts	0
+COL name VAL ieee transactions control systems technology COL keyword VAL ieee transactions control systems technology	COL name VAL ieee transactions control systems technology COL keyword VAL ieee transactions control systems technology	1
+COL name VAL journal inner mongolia normal university COL keyword VAL journal inner mongolia normal university	COL name VAL journal inner mongolia normal university natural science edition COL keyword VAL journal inner mongolia normal university	1
+COL name VAL agricultural research COL keyword VAL agricultural research	COL name VAL australian journal agricultural research COL keyword VAL agricultural research	0
+COL name VAL plastics world COL keyword VAL plastics	COL name VAL shanghai plastics COL keyword VAL plastics	0
+COL name VAL journal liaocheng university COL keyword VAL journal liaocheng university	COL name VAL journal liaocheng university social sciences edition COL keyword VAL journal liaocheng university	1
+COL name VAL journal physics b COL keyword VAL journal physics	COL name VAL journal physics g nuclear particle physics COL keyword VAL journal physics physics	1
+COL name VAL journal international information management COL keyword VAL journal international management	COL name VAL international journal management education COL keyword VAL international journal management	0
+COL name VAL chemical engineering world COL keyword VAL chemical engineering	COL name VAL computers chemical engineering COL keyword VAL chemical engineering	0
+COL name VAL journal north university china COL keyword VAL journal north university china	COL name VAL journal north university china natural science edition COL keyword VAL journal north university china	1
+COL name VAL infectious disorders drug targets COL keyword VAL infectious disorders drug targets	COL name VAL infectious disorders drug targets formerly current drug targets infectious disorders COL keyword VAL infectious disorders drug targets drug targets infectious disorders	1
+COL name VAL journal qiqihar university COL keyword VAL journal qiqihar university	COL name VAL journal qiqihar university natural science edition COL keyword VAL journal qiqihar university	1
+COL name VAL journal life sciences COL keyword VAL journal life sciences	COL name VAL journal zhejiang university agriculture life sciences COL keyword VAL journal life sciences	0
+COL name VAL adult learning COL keyword VAL adult learning	COL name VAL innovative adult learning innovative technologies COL keyword VAL adult learning	0
+COL name VAL journal university jinan COL keyword VAL journal university jinan	COL name VAL journal jinan university science technology COL keyword VAL journal jinan university	1
+COL name VAL journal southwest university COL keyword VAL journal southwest university	COL name VAL journal southwest jiaotong university social sciences COL keyword VAL journal southwest university	1
+COL name VAL journal life sciences COL keyword VAL journal life sciences	COL name VAL journal chromatography b analytical technologies biomedical life sciences COL keyword VAL journal life sciences	0
+COL name VAL journal shihezi university COL keyword VAL journal shihezi university	COL name VAL journal shihezi university philosophy social science COL keyword VAL journal shihezi university	1
+COL name VAL studies literature COL keyword VAL studies literature	COL name VAL theoretical studies literature art COL keyword VAL studies literature	0
+COL name VAL studies literature COL keyword VAL studies literature	COL name VAL literature art studies COL keyword VAL literature studies	0
+COL name VAL electrician COL keyword VAL electrician	COL name VAL rural electrician COL keyword VAL electrician	0
+COL name VAL world studies education COL keyword VAL studies education	COL name VAL studies early childhood education COL keyword VAL studies education	0
+COL name VAL journal nuclear energy parts a b reactor science technology COL keyword VAL journal nuclear energy parts a b reactor science technology	COL name VAL journal nuclear energy parts a b reactor science technology COL keyword VAL journal nuclear energy parts a b reactor science technology	1
+COL name VAL clinical neurosurgery COL keyword VAL clinical neurosurgery	COL name VAL journal clinical neurosurgery COL keyword VAL clinical neurosurgery	1
+COL name VAL international journal computing COL keyword VAL international journal computing	COL name VAL international journal cloud applications computing COL keyword VAL international journal computing	0
+COL name VAL world studies education COL keyword VAL studies education	COL name VAL studies foreign education COL keyword VAL studies education	0
+COL name VAL chinese journal entomology COL keyword VAL chinese journal entomology	COL name VAL chinese journal applied entomology COL keyword VAL chinese journal entomology	0
+COL name VAL journal inner mongolia normal university COL keyword VAL journal inner mongolia normal university	COL name VAL journal inner mongolia normal university educational science COL keyword VAL journal inner mongolia normal university	1
+COL name VAL management international COL keyword VAL management international	COL name VAL proceedings international symposium memory management COL keyword VAL international management	0
+COL name VAL gynecology obstetrics COL keyword VAL gynecology obstetrics	COL name VAL obstetrics gynecology COL keyword VAL obstetrics gynecology	1
+COL name VAL business review COL keyword VAL business review	COL name VAL business china business review COL keyword VAL business business review	0
+COL name VAL social network analysis mining COL keyword VAL social network analysis mining	COL name VAL snakdd'08 proceedings second international conference advances social network mining analysis COL keyword VAL social network mining analysis	1
+COL name VAL vldb journal COL keyword VAL vldb journal	COL name VAL vldb journal COL keyword VAL vldb journal	1
+COL name VAL open medicine COL keyword VAL medicine	COL name VAL medicine world COL keyword VAL medicine	0
+COL name VAL healthcare COL keyword VAL healthcare	COL name VAL e healthcare COL keyword VAL healthcare	0
+COL name VAL transactions j w r i COL keyword VAL transactions	COL name VAL ieice transactions COL keyword VAL transactions	0
+COL name VAL open hematology journal COL keyword VAL open hematology journal	COL name VAL open hematology journal COL keyword VAL open hematology journal	1
+COL name VAL journal shihezi university COL keyword VAL journal shihezi university	COL name VAL journal shihezi university philosophy social sciences COL keyword VAL journal shihezi university	1
+COL name VAL journal psychology COL keyword VAL journal psychology	COL name VAL heath psychology journal COL keyword VAL psychology journal	0
+COL name VAL ludong university journal COL keyword VAL ludong university journal	COL name VAL ludong university journal natural science edition COL keyword VAL ludong university journal	1
+COL name VAL journal yunnan university nationalities COL keyword VAL journal yunnan university nationalities	COL name VAL journal yunnan nationalities university natural sciences edition COL keyword VAL journal yunnan nationalities university	1
+COL name VAL journal hubei university nationalities COL keyword VAL journal hubei university nationalities	COL name VAL journal hubei university nationalities medical edition COL keyword VAL journal hubei university nationalities	1
+COL name VAL journal software engineering COL keyword VAL journal software engineering	COL name VAL software engineering journal special section z COL keyword VAL software engineering journal	1
+COL name VAL building last COL keyword VAL building	COL name VAL building construction COL keyword VAL building	0
+COL name VAL chinese journal transplantation COL keyword VAL chinese journal transplantation	COL name VAL chinese journal transplantation electronic edition COL keyword VAL chinese journal transplantation	1
+COL name VAL open journal pathology COL keyword VAL journal pathology	COL name VAL indian journal pathology microbiology COL keyword VAL journal pathology	0
+COL name VAL journal pediatric orthopaedics b COL keyword VAL journal pediatric orthopaedics b	COL name VAL journal pediatric orthopaedics part b COL keyword VAL journal pediatric orthopaedics b	1
+COL name VAL journal guangzhou university COL keyword VAL journal guangzhou university	COL name VAL journal guangzhou university social science edition COL keyword VAL journal guangzhou university	1
+COL name VAL russian east european studies COL keyword VAL russian east european studies	COL name VAL east european russian central asian studies COL keyword VAL east european russian studies	1
+COL name VAL agricultural science COL keyword VAL agricultural science	COL name VAL guangdong agricultural science COL keyword VAL agricultural science	0
+COL name VAL biosensors bioelectronics COL keyword VAL biosensors bioelectronics	COL name VAL biosensors bioelectronics COL keyword VAL biosensors bioelectronics	1
+COL name VAL philosophical review COL keyword VAL philosophical review	COL name VAL dialogue canadian philosophical review COL keyword VAL philosophical review	0
+COL name VAL results physics COL keyword VAL physics	COL name VAL physics guangxi COL keyword VAL physics	0
+COL name VAL world journal clinical oncology COL keyword VAL journal clinical oncology	COL name VAL chinese journal clinical oncology COL keyword VAL journal clinical oncology	0
+COL name VAL journal shanghai normal university COL keyword VAL journal shanghai normal university	COL name VAL journal shanghai normal university philosophy social sciences edition COL keyword VAL journal shanghai normal university	1
+COL name VAL journal second northwest university nationalities COL keyword VAL journal northwest university nationalities	COL name VAL journal northwest university nationalities philosophy social science COL keyword VAL journal northwest university nationalities	0
+COL name VAL modern nursing home COL keyword VAL modern nursing	COL name VAL modern clinical nursing COL keyword VAL modern nursing	0
+COL name VAL journal chemical thermodynamics COL keyword VAL journal chemical thermodynamics	COL name VAL journal chemical thermodynamics COL keyword VAL journal chemical thermodynamics	1
+COL name VAL economic journal COL keyword VAL economic journal	COL name VAL economic research journal COL keyword VAL economic journal	0
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal jiangsu institute education social science COL keyword VAL journal education science	0
+COL name VAL infectious diseases COL keyword VAL infectious diseases	COL name VAL workshop control emerging infectious diseases COL keyword VAL infectious diseases	0
+COL name VAL journal hiv aids prevention children youth COL keyword VAL journal hiv aids prevention children youth	COL name VAL journal hiv aids prevention children youth COL keyword VAL journal hiv aids prevention children youth	1
+COL name VAL analysis optimization systems COL keyword VAL analysis optimization systems	COL name VAL analysis optimization differential systems COL keyword VAL analysis optimization systems	1
+COL name VAL information culture COL keyword VAL culture	COL name VAL culture health sexuality COL keyword VAL culture	0
+COL name VAL journal arts social sciences COL keyword VAL journal arts social sciences	COL name VAL journal baoji university arts sciences social science edition COL keyword VAL journal arts sciences social	0
+COL name VAL journal spine COL keyword VAL journal spine	COL name VAL spine journal COL keyword VAL spine journal	1
+COL name VAL information systems management COL keyword VAL information systems management	COL name VAL information knowledge systems management COL keyword VAL information systems management	0
+COL name VAL integration COL keyword VAL integration	COL name VAL intelligent information integration COL keyword VAL integration	0
+COL name VAL international review law COL keyword VAL international review law	COL name VAL international review law computers technology COL keyword VAL international review law	0
+COL name VAL journal jilin normal university COL keyword VAL journal jilin normal university	COL name VAL jilin normal university journal humanities social science edition COL keyword VAL jilin normal university journal	1
+COL name VAL arts social sciences journal COL keyword VAL arts social sciences journal	COL name VAL journal baoji university arts sciences social sciences edition COL keyword VAL journal arts sciences social sciences	0
+COL name VAL journal xiangtan normal university COL keyword VAL journal xiangtan normal university	COL name VAL journal xiangtan normal university natural science edition COL keyword VAL journal xiangtan normal university	1
+COL name VAL studies literature COL keyword VAL studies literature	COL name VAL biblical literature studies COL keyword VAL literature studies	0
+COL name VAL adult learning COL keyword VAL adult learning	COL name VAL innovative adult learning innovative technologies COL keyword VAL adult learning	0
+COL name VAL paradigms COL keyword VAL paradigms	COL name VAL new security paradigms workshop COL keyword VAL paradigms	1
+COL name VAL international journal library science COL keyword VAL international journal library science	COL name VAL information processing management: international journal expert systems library information science COL keyword VAL international journal library science	0
+COL name VAL group analysis COL keyword VAL analysis	COL name VAL non linear analysis COL keyword VAL analysis	0
+COL name VAL vocational education COL keyword VAL vocational education	COL name VAL guangzhou vocational education forum COL keyword VAL vocational education	0
+COL name VAL chinese journal laparoscopic surgery COL keyword VAL chinese journal laparoscopic surgery	COL name VAL chinese journal laparoscopic surgery electronic edition COL keyword VAL chinese journal laparoscopic surgery	1
+COL name VAL electronic journal COL keyword VAL electronic journal	COL name VAL electronic journal combinatorics COL keyword VAL electronic journal	0
+COL name VAL new doctor COL keyword VAL doctor	COL name VAL plant doctor COL keyword VAL doctor	0
+COL name VAL international journal computing COL keyword VAL international journal computing	COL name VAL international journal reconfigurable computing current trends reconfigurable computing COL keyword VAL international journal computing computing	0
+COL name VAL journal central china normal university COL keyword VAL journal central china normal university	COL name VAL journal central china normal university humanities social sciences COL keyword VAL journal central china normal university	1
+COL name VAL journal information engineering applications COL keyword VAL journal engineering applications	COL name VAL international journal supercomputer applications high performance engineering COL keyword VAL journal applications engineering	0
+COL name VAL antibiotics COL keyword VAL antibiotics	COL name VAL world notes antibiotics COL keyword VAL antibiotics	0
+COL name VAL journal sichuan normal university COL keyword VAL journal sichuan normal university	COL name VAL journal sichuan normal university natural science COL keyword VAL journal sichuan normal university	1
+COL name VAL journal university jinan COL keyword VAL journal university jinan	COL name VAL journal university jinan social science edition COL keyword VAL journal university jinan	1
+COL name VAL pointer COL keyword VAL pointer	COL name VAL advertising pointer COL keyword VAL pointer	0
+COL name VAL journal shaanxi normal university COL keyword VAL journal shaanxi normal university	COL name VAL journal shaanxi normal university natural science edition COL keyword VAL journal shaanxi normal university	1
+COL name VAL journal american science COL keyword VAL journal american science	COL name VAL journal american society information science technology xml COL keyword VAL journal american science	0
+COL name VAL results physics COL keyword VAL physics	COL name VAL nuclear physics b COL keyword VAL physics	0
+COL name VAL vitro cellular developmental biology animal COL keyword VAL vitro cellular developmental biology animal	COL name VAL vitro cellular developmental biology animal COL keyword VAL vitro cellular developmental biology animal	1
+COL name VAL international journal technology COL keyword VAL international journal technology	COL name VAL international journal computer applications technology COL keyword VAL international journal technology	0
+COL name VAL journal spine COL keyword VAL journal spine	COL name VAL journal neurosurgery spine COL keyword VAL journal spine	0
+COL name VAL journal law information science COL keyword VAL journal law science	COL name VAL law science journal northwest university politics law COL keyword VAL law science journal law	0
+COL name VAL journal hand surgery COL keyword VAL journal hand surgery	COL name VAL journal hand surgery american volume COL keyword VAL journal hand surgery	1
+COL name VAL social science journal xiangtan university COL keyword VAL social science journal xiangtan university	COL name VAL journal xiangtan normal university social science edition COL keyword VAL journal xiangtan university social science	0
+COL name VAL journal yanbian university COL keyword VAL journal yanbian university	COL name VAL journal yanbian university social sciences edition COL keyword VAL journal yanbian university	1
+COL name VAL journal inner mongolia normal university COL keyword VAL journal inner mongolia normal university	COL name VAL journal inner mongolia normal university education science COL keyword VAL journal inner mongolia normal university	1
+COL name VAL journal nanchang hangkong university COL keyword VAL journal nanchang hangkong university	COL name VAL journal nanchang hangkong university natural science COL keyword VAL journal nanchang hangkong university	1
+COL name VAL journal education science COL keyword VAL journal education science	COL name VAL journal jiangsu institute education social science COL keyword VAL journal education science	0
+COL name VAL resources industries COL keyword VAL resources industries	COL name VAL resources industries COL keyword VAL resources industries	1
+COL name VAL comparative biochemistry physiology b COL keyword VAL comparative biochemistry physiology	COL name VAL comparative biochemistry physiology part b: biochemistry molecular biology COL keyword VAL comparative biochemistry physiology biochemistry	1
+COL name VAL journal educational thought COL keyword VAL journal educational	COL name VAL journal xiamen educational college COL keyword VAL journal educational	0
+COL name VAL journal rtv university COL keyword VAL journal rtv university	COL name VAL journal chongqing rtv university COL keyword VAL journal rtv university	1
+COL name VAL materials engineering COL keyword VAL materials engineering	COL name VAL synthesis lectures materials engineering COL keyword VAL materials engineering	0
+COL name VAL problems legality COL keyword VAL legality	COL name VAL legality vision COL keyword VAL legality	0
+COL name VAL arts social sciences journal COL keyword VAL arts social sciences journal	COL name VAL journal xi'an university arts science social sciences edition COL keyword VAL journal arts social sciences	0
+COL name VAL pacing clinical electrophysiology COL keyword VAL pacing clinical electrophysiology	COL name VAL pace pacing clinical electrophysiology COL keyword VAL pacing clinical electrophysiology	1
+COL name VAL journal shaanxi normal university COL keyword VAL journal shaanxi normal university	COL name VAL journal further education shaanxi normal university COL keyword VAL journal shaanxi normal university	0
+COL name VAL international journal home science COL keyword VAL international journal science	COL name VAL acis international journal computer information science COL keyword VAL international journal science	0
+COL name VAL paradigms COL keyword VAL paradigms	COL name VAL workshop new security paradigms COL keyword VAL paradigms	1
+COL name VAL russian journal physical chemistry a COL keyword VAL russian journal physical chemistry	COL name VAL russian journal physical chemistry COL keyword VAL russian journal physical chemistry	1
+COL name VAL journal southwest university COL keyword VAL journal southwest university	COL name VAL journal southwest university social sciences edition COL keyword VAL journal southwest university	1
+COL name VAL psychiatry information brief COL keyword VAL psychiatry	COL name VAL psychiatry COL keyword VAL psychiatry	0
+COL name VAL journal physics b COL keyword VAL journal physics	COL name VAL journal atmospheric terrestrial physics COL keyword VAL journal physics	0
+COL name VAL medical equipment journal COL keyword VAL medical equipment journal	COL name VAL medical journal central equipment headquarters COL keyword VAL medical journal equipment	0
+COL name VAL public works COL keyword VAL public	COL name VAL public utilites COL keyword VAL public	0
+COL name VAL chinese journal bone joint COL keyword VAL chinese journal bone joint	COL name VAL chinese journal bone joint surgery COL keyword VAL chinese journal bone joint	1
+COL name VAL journal software COL keyword VAL journal software	COL name VAL software law journal COL keyword VAL software journal	0
+COL name VAL international journal research COL keyword VAL international journal research	COL name VAL international journal information library research COL keyword VAL international journal research	0
+COL name VAL management international COL keyword VAL management international	COL name VAL proceedings international workshop semantic web information management COL keyword VAL international management	0
+COL name VAL fine arts journal COL keyword VAL fine arts journal	COL name VAL hubei institute fine arts journal COL keyword VAL fine arts journal	0
+COL name VAL journal international studies COL keyword VAL journal international studies	COL name VAL international journal man machine studies what programmers know COL keyword VAL international journal studies	0
+COL name VAL journal endocrinology metabolism COL keyword VAL journal endocrinology metabolism	COL name VAL journal pediatric endocrinology metabolism COL keyword VAL journal endocrinology metabolism	1
+COL name VAL canadian journal psychiatry COL keyword VAL canadian journal psychiatry	COL name VAL canadian journal psychiatry revue canadienne de psychiatrie COL keyword VAL canadian journal psychiatry	1
+COL name VAL men nursing COL keyword VAL nursing	COL name VAL shanghai nursing COL keyword VAL nursing	0
+COL name VAL journal physics b COL keyword VAL journal physics	COL name VAL journal physics a mathematical theoretical COL keyword VAL journal physics	1
+COL name VAL elementary english COL keyword VAL elementary english	COL name VAL elementary english teaching journal COL keyword VAL elementary english	1
+COL name VAL journal education science COL keyword VAL journal education science	COL name VAL journal beijing institute education natural science COL keyword VAL journal education science	0
+COL name VAL open journal forestry COL keyword VAL journal forestry	COL name VAL state academy forestry administration journal COL keyword VAL forestry journal	0
+COL name VAL journal university shanghai science technology COL keyword VAL journal university shanghai science technology	COL name VAL journal university shanghai science technology social science COL keyword VAL journal university shanghai science technology science	1
+COL name VAL journal american science COL keyword VAL journal american science	COL name VAL journal american society information science technology COL keyword VAL journal american science	0
+COL name VAL international journal intelligent systems applications COL keyword VAL international journal intelligent systems applications	COL name VAL international journal hybrid intelligent systems recent advances intelligent paradigms fusion their applications COL keyword VAL international journal intelligent systems intelligent applications	0
+COL name VAL today s or nurse COL keyword VAL nurse	COL name VAL nurse practitioner COL keyword VAL nurse	0
+COL name VAL politics policy COL keyword VAL politics policy	COL name VAL politics policy COL keyword VAL politics policy	1
+COL name VAL english teaching COL keyword VAL english teaching	COL name VAL elementary english teaching journal COL keyword VAL english teaching	0
+COL name VAL open journal civil engineering COL keyword VAL journal civil engineering	COL name VAL journal information technology civil engineering architecture COL keyword VAL journal civil engineering	0
+COL name VAL ids bulletin COL keyword VAL ids bulletin	COL name VAL ids bulletin COL keyword VAL ids bulletin	1
+COL name VAL journal minzu university china COL keyword VAL journal minzu university china	COL name VAL journal minzu university china natural sciences edition COL keyword VAL journal minzu university china	1
+COL name VAL agricultural science COL keyword VAL agricultural science	COL name VAL liaoning agricultural science COL keyword VAL agricultural science	0
+COL name VAL public works COL keyword VAL public	COL name VAL public art COL keyword VAL public	0
+COL name VAL gynecology obstetrics COL keyword VAL gynecology obstetrics	COL name VAL digest world core medical journals obstetrics gynecology COL keyword VAL obstetrics gynecology	0
+COL name VAL journal jilin institute architectural civil COL keyword VAL journal jilin institute architectural civil	COL name VAL journal jilin institute architectural civil COL keyword VAL journal jilin institute architectural civil	1
+COL name VAL journal beijing normal university COL keyword VAL journal beijing normal university	COL name VAL journal beijing normal university social science edition COL keyword VAL journal beijing normal university	1
+COL name VAL management international COL keyword VAL management international	COL name VAL international association management technology COL keyword VAL international management	0
+COL name VAL agricultural research COL keyword VAL agricultural research	COL name VAL agricultural education research COL keyword VAL agricultural research	0
+COL name VAL institute electrical electronics engineers COL keyword VAL institute electrical electronics engineers	COL name VAL institute electrical electronics engineers fifth international phoenix conference computers communications COL keyword VAL institute electrical electronics engineers	1
+COL name VAL journal american science COL keyword VAL journal american science	COL name VAL journal american society information science COL keyword VAL journal american science	0
+COL name VAL open journal pathology COL keyword VAL journal pathology	COL name VAL journal pathology COL keyword VAL journal pathology	1
+COL name VAL journal food science education COL keyword VAL journal food science education	COL name VAL journal food science education COL keyword VAL journal food science education	1
+COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	1
+COL name VAL childhood education journal COL keyword VAL childhood education journal	COL name VAL journal computing childhood education COL keyword VAL journal childhood education	0
+COL name VAL chinese journal vascular surgery COL keyword VAL chinese journal vascular surgery	COL name VAL chinese journal vascular surgery electronic version COL keyword VAL chinese journal vascular surgery	1
+COL name VAL journal baoji university arts sciences COL keyword VAL journal baoji university arts sciences	COL name VAL journal baoji university arts sciences social sciences COL keyword VAL journal baoji university arts sciences sciences	1
+COL name VAL research higher education journal COL keyword VAL research education journal	COL name VAL journal shaoxing university education teaching research COL keyword VAL journal education research	0
+COL name VAL journal science educational science COL keyword VAL journal science educational science	COL name VAL journal inner mongolia normal university educational science COL keyword VAL journal educational science	0
+COL name VAL energy science technology COL keyword VAL energy science technology	COL name VAL journal nuclear energy parts a b reactor science technology COL keyword VAL energy science technology	0
+COL name VAL international journal science engineering COL keyword VAL international journal science engineering	COL name VAL international journal computer mathematics applications computational mathematics science engineering COL keyword VAL international journal science engineering	0
+COL name VAL journal fuzhou university COL keyword VAL journal fuzhou university	COL name VAL journal fuzhou university natural science edition COL keyword VAL journal fuzhou university	1
+COL name VAL chinese journal injury repair wound healing COL keyword VAL chinese journal injury repair wound healing	COL name VAL chinese journal injury repair wound healing electronic edition COL keyword VAL chinese journal injury repair wound healing	1
+COL name VAL automotive engineering international COL keyword VAL automotive engineering international	COL name VAL aure '06 proceedings international automotive requirements engineering workshop COL keyword VAL international automotive engineering	0
+COL name VAL philosophical quarterly COL keyword VAL philosophical quarterly	COL name VAL philosophical quarterly COL keyword VAL philosophical quarterly	1
+COL name VAL education health COL keyword VAL education health	COL name VAL health education tuberculosis COL keyword VAL health education	0
+COL name VAL international economy COL keyword VAL international economy	COL name VAL studies international technology economy COL keyword VAL international economy	0
+COL name VAL journal mining metallurgy section a mining COL keyword VAL journal mining metallurgy section mining	COL name VAL journal mining metallurgy section b metallurgy COL keyword VAL journal mining metallurgy section metallurgy	1
+COL name VAL russian east european studies COL keyword VAL russian east european studies	COL name VAL russian central asian east european studies COL keyword VAL russian east european studies	1
+COL name VAL power energy systems COL keyword VAL power energy systems	COL name VAL iasted european conference power energy systems COL keyword VAL power energy systems	1
+COL name VAL open journal geology COL keyword VAL journal geology	COL name VAL chinese journal geology COL keyword VAL journal geology	0
+COL name VAL agricultural sciences COL keyword VAL agricultural sciences	COL name VAL tibetan journal agricultural sciences COL keyword VAL agricultural sciences	0
+COL name VAL world journal dentistry COL keyword VAL journal dentistry	COL name VAL european journal paediatric dentistry COL keyword VAL journal dentistry	0
+COL name VAL journal american science COL keyword VAL journal american science	COL name VAL journal american society information science technology COL keyword VAL journal american science	0
+COL name VAL journal science educational science COL keyword VAL journal science educational science	COL name VAL journal tianjin academy educational science COL keyword VAL journal educational science	0
+COL name VAL journal grid computing COL keyword VAL journal grid computing	COL name VAL journal grid computing COL keyword VAL journal grid computing	1
+COL name VAL journal pathology COL keyword VAL journal pathology	COL name VAL american journal surgical pathology COL keyword VAL journal pathology	0
+COL name VAL journal chinese society corrosion protection COL keyword VAL journal chinese society corrosion protection	COL name VAL journal chinese society corrosion protection COL keyword VAL journal chinese society corrosion protection	1
+COL name VAL journal ancient philosophy COL keyword VAL journal ancient philosophy	COL name VAL phronesis a journal ancient philosophy COL keyword VAL journal ancient philosophy	0
+COL name VAL journal software engineering COL keyword VAL journal software engineering	COL name VAL international journal software engineering knowledge engineering COL keyword VAL journal software engineering engineering	0
+COL name VAL journal shenyang institute engineering COL keyword VAL journal shenyang institute engineering	COL name VAL journal shenyang institute engineering social sciences COL keyword VAL journal shenyang institute engineering	1
+COL name VAL e journal cultural studies COL keyword VAL journal cultural studies	COL name VAL continuum journal media cultural studies COL keyword VAL journal cultural studies	0
+COL name VAL science research COL keyword VAL science research	COL name VAL textile science research COL keyword VAL science research	0
+COL name VAL governance COL keyword VAL governance	COL name VAL journal e governance COL keyword VAL governance	0
+COL name VAL rand journal economics COL keyword VAL rand journal economics	COL name VAL rand journal economics COL keyword VAL rand journal economics	1
+COL name VAL world cultures COL keyword VAL world cultures	COL name VAL religious cultures world COL keyword VAL cultures world	0
+COL name VAL automotive engineering international COL keyword VAL automotive engineering international	COL name VAL seas '05 proceedings second international workshop software engineering automotive systems COL keyword VAL international engineering automotive	0
+COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	1
+COL name VAL business review COL keyword VAL business review	COL name VAL review western business COL keyword VAL review business	0
+COL name VAL international journal biochemistry cell biology COL keyword VAL international journal biochemistry cell biology	COL name VAL international journal biochemistry cell biology COL keyword VAL international journal biochemistry cell biology	1
+COL name VAL journal international studies COL keyword VAL journal international studies	COL name VAL journal beijing international studies university COL keyword VAL journal international studies	0
+COL name VAL innovations systems software engineering COL keyword VAL innovations systems software engineering	COL name VAL radical innovations software systems engineering future COL keyword VAL innovations software systems engineering	0
+COL name VAL journal educational thought COL keyword VAL journal educational	COL name VAL journal shanxi educational college COL keyword VAL journal educational	0
+COL name VAL rural china COL keyword VAL rural china	COL name VAL china rural health COL keyword VAL china rural	0
+COL name VAL journal hangzhou normal university COL keyword VAL journal hangzhou normal university	COL name VAL journal hangzhou normal university natural science edition COL keyword VAL journal hangzhou normal university	1
+COL name VAL electronic colloquium computational complexity COL keyword VAL electronic colloquium computational complexity	COL name VAL electronic colloquium computational complexity eccc COL keyword VAL electronic colloquium computational complexity	1
+COL name VAL journal economic dynamics control COL keyword VAL journal economic dynamics control	COL name VAL journal economic dynamics control COL keyword VAL journal economic dynamics control	1
+COL name VAL journal architecture COL keyword VAL journal architecture	COL name VAL journal guangdong landscape architecture COL keyword VAL journal architecture	0
+COL name VAL transactions j w r i COL keyword VAL transactions	COL name VAL transactions sdps COL keyword VAL transactions	0
+COL name VAL discrete computational geometry COL keyword VAL discrete computational geometry	COL name VAL jcdcg'04 proceedings 2004 japanese conference discrete computational geometry COL keyword VAL discrete computational geometry	1
+COL name VAL accounting review COL keyword VAL accounting review	COL name VAL accounting review COL keyword VAL accounting review	1
+COL name VAL rural china COL keyword VAL rural china	COL name VAL china rural economy COL keyword VAL china rural	0
+COL name VAL journal international information management COL keyword VAL journal international management	COL name VAL international journal knowledge management COL keyword VAL international journal management	0
+COL name VAL journal architecture COL keyword VAL journal architecture	COL name VAL journal architecture COL keyword VAL journal architecture	1
+COL name VAL open journal obstetrics gynecology COL keyword VAL journal obstetrics gynecology	COL name VAL journal psychosomatic obstetrics gynecology COL keyword VAL journal obstetrics gynecology	0
+COL name VAL world studies education COL keyword VAL studies education	COL name VAL studies preschool education COL keyword VAL studies education	0
+COL name VAL plastics world COL keyword VAL plastics	COL name VAL plastics COL keyword VAL plastics	0
+COL name VAL journal baoji university arts sciences COL keyword VAL journal baoji university arts sciences	COL name VAL journal baoji university arts sciences social science edition COL keyword VAL journal baoji university arts sciences	1
+COL name VAL journal pathology COL keyword VAL journal pathology	COL name VAL journal audiology speech pathology COL keyword VAL journal pathology	0
+COL name VAL noise health COL keyword VAL noise health	COL name VAL noise health COL keyword VAL noise health	1
+COL name VAL biology philosophy COL keyword VAL biology philosophy	COL name VAL biology philosophy COL keyword VAL biology philosophy	1
+COL name VAL business review COL keyword VAL business review	COL name VAL 21s+ century business review COL keyword VAL business review	0
+COL name VAL world journal critical care medicine COL keyword VAL journal critical care medicine	COL name VAL chinese journal integrated traditional western medicine intentire critical care COL keyword VAL journal medicine critical care	0
+COL name VAL journal guizhou university technology COL keyword VAL journal guizhou university technology	COL name VAL journal guizhou university technology social science edition COL keyword VAL journal guizhou university technology	1
+COL name VAL international journal information technology COL keyword VAL international journal information technology	COL name VAL information sciences: international journal special issue: information technology COL keyword VAL information international journal information technology	0
+COL name VAL veterinary sciences COL keyword VAL veterinary sciences	COL name VAL gansu animal veterinary sciences COL keyword VAL veterinary sciences	0
+COL name VAL astronomy astrophysics review COL keyword VAL astronomy astrophysics review	COL name VAL astronomy astrophysics review COL keyword VAL astronomy astrophysics review	1
+COL name VAL international journal engineering COL keyword VAL international journal engineering	COL name VAL international journal chemoinformatics chemical engineering COL keyword VAL international journal engineering	0
+COL name VAL journal neuroscience COL keyword VAL journal neuroscience	COL name VAL journal neuroscience COL keyword VAL journal neuroscience	1
+COL name VAL international journal information quality COL keyword VAL international journal quality	COL name VAL international journal reliable quality e healthcare COL keyword VAL international journal quality	0
+COL name VAL materials engineering COL keyword VAL materials engineering	COL name VAL raremetal materials engineering COL keyword VAL materials engineering	0
+COL name VAL journal software COL keyword VAL journal software	COL name VAL journal software maintenance COL keyword VAL journal software	0
+COL name VAL public works COL keyword VAL public	COL name VAL public nelation world COL keyword VAL public	0
+COL name VAL data brief COL keyword VAL data	COL name VAL data COL keyword VAL data	0
+COL name VAL tropical parasitology COL keyword VAL tropical parasitology	COL name VAL journal tropical diseases parasitology COL keyword VAL tropical parasitology	0
+COL name VAL public works COL keyword VAL public	COL name VAL public relations world COL keyword VAL public	0
+COL name VAL journal software engineering COL keyword VAL journal software engineering	COL name VAL software engineering journal controlling software projects COL keyword VAL software engineering journal software	1
+COL name VAL journal chongqing university science technology COL keyword VAL journal chongqing university science technology	COL name VAL journal chongqing university science technology natural sciences edition COL keyword VAL journal chongqing university science technology	1
+COL name VAL electronic engineering COL keyword VAL electronic engineering	COL name VAL ship electronic engineering COL keyword VAL electronic engineering	0
+COL name VAL journal yangtze university agricultural science volume COL keyword VAL journal yangtze university agricultural science volume	COL name VAL journal yangtze university natural science edition agricultural science volume COL keyword VAL journal yangtze university science agricultural science volume	1
+COL name VAL open journal anesthesiology COL keyword VAL journal anesthesiology	COL name VAL journal clinical anesthesiology COL keyword VAL journal anesthesiology	0
+COL name VAL mobile networks applications COL keyword VAL mobile networks applications	COL name VAL mobile networks applications security mobile computing environments COL keyword VAL mobile networks applications mobile	1
+COL name VAL technology teacher COL keyword VAL technology teacher	COL name VAL proceedings conference technology teacher education COL keyword VAL technology teacher	0
+COL name VAL transactions j w r i COL keyword VAL transactions	COL name VAL cmg transactions COL keyword VAL transactions	0
+COL name VAL journal baoji college arts science COL keyword VAL journal baoji college arts science	COL name VAL journal baoji college arts science social science COL keyword VAL journal baoji college arts science science	1
+COL name VAL journal huaibei normal university COL keyword VAL journal huaibei normal university	COL name VAL journal huaibei normal university philosophy social sciences COL keyword VAL journal huaibei normal university	1
+COL name VAL journal pain COL keyword VAL journal pain	COL name VAL journal pain COL keyword VAL journal pain	1
+COL name VAL journal science educational science COL keyword VAL journal science educational science	COL name VAL journal ningbo univeristy educational science edition COL keyword VAL journal educational science	0
+COL name VAL journal shaanxi university science technology COL keyword VAL journal shaanxi university science technology	COL name VAL journal shaanxi university science technology natural science edition COL keyword VAL journal shaanxi university science technology science	1
+COL name VAL contemporary sociology COL keyword VAL contemporary sociology	COL name VAL contemporary sociology a journal reviews COL keyword VAL contemporary sociology	1
+COL name VAL journal liaocheng university COL keyword VAL journal liaocheng university	COL name VAL journal liaocheng university natural science edition COL keyword VAL journal liaocheng university	1
+COL name VAL canadian journal linguistics la revue canadienne de linguistique COL keyword VAL canadian journal linguistics la revue canadienne de linguistique	COL name VAL canadian journal linguistics la revue canadienne de linguistique COL keyword VAL canadian journal linguistics la revue canadienne de linguistique	1
+COL name VAL sulphuric acid industry COL keyword VAL sulphuric acid industry	COL name VAL sulphuric acid industry COL keyword VAL sulphuric acid industry	1
+COL name VAL open journal geology COL keyword VAL journal geology	COL name VAL journal geology COL keyword VAL journal geology	0
+COL name VAL sequence COL keyword VAL sequence	COL name VAL sequence learning COL keyword VAL sequence	0
+COL name VAL open journal stomatology COL keyword VAL journal stomatology	COL name VAL journal international stomatology COL keyword VAL journal stomatology	0
+COL name VAL artificial cells blood substitutes biotechnology COL keyword VAL artificial cells blood substitutes biotechnology	COL name VAL artificial cells blood substitutes biotechnology COL keyword VAL artificial cells blood substitutes biotechnology	1
+COL name VAL world studies education COL keyword VAL studies education	COL name VAL studies ideological education COL keyword VAL studies education	0
+COL name VAL journal henan polytechnic university COL keyword VAL journal henan polytechnic university	COL name VAL journal henan polytechnic university natural science COL keyword VAL journal henan polytechnic university	1
+COL name VAL institute electrical electronics engineers COL keyword VAL institute electrical electronics engineers	COL name VAL institute electrical electronics engineers inc conference software maintenance 1985 COL keyword VAL institute electrical electronics engineers	1
+COL name VAL studies literature COL keyword VAL studies literature	COL name VAL modern chinese literature studies COL keyword VAL literature studies	0
+COL name VAL journal soochow university COL keyword VAL journal soochow university	COL name VAL journal soochow university medical science edition COL keyword VAL journal soochow university	1
+COL name VAL journal fuzhou university COL keyword VAL journal fuzhou university	COL name VAL journal fuzhou university philosophy social science COL keyword VAL journal fuzhou university	1
+COL name VAL russian east european studies COL keyword VAL russian east european studies	COL name VAL russian central asian east european studies COL keyword VAL russian east european studies	1
+COL name VAL journal physics b COL keyword VAL journal physics	COL name VAL journal physics a mathematical general COL keyword VAL journal physics	1
+COL name VAL veterinary world COL keyword VAL veterinary	COL name VAL veterinary orientation COL keyword VAL veterinary	0
+COL name VAL first resource COL keyword VAL resource	COL name VAL x resource COL keyword VAL resource	0
+COL name VAL practitioner COL keyword VAL practitioner	COL name VAL nurse practitioner COL keyword VAL practitioner	0
+COL name VAL journal jilin normal university COL keyword VAL journal jilin normal university	COL name VAL jilin normal university journal humanities social science edition COL keyword VAL jilin normal university journal	1
+COL name VAL world poultry COL keyword VAL poultry	COL name VAL shandong poultry COL keyword VAL poultry	0
+COL name VAL international review law COL keyword VAL international review law	COL name VAL international law review wuhan university COL keyword VAL international law review	0
+COL name VAL journal nanchang hangkong university COL keyword VAL journal nanchang hangkong university	COL name VAL journal nanchang hangkong university social sciences COL keyword VAL journal nanchang hangkong university	1
+COL name VAL public law COL keyword VAL public law	COL name VAL public admininstration law COL keyword VAL public law	1
+COL name VAL safety health work COL keyword VAL safety health	COL name VAL safety health environment COL keyword VAL safety health	0
+COL name VAL ancient philosophy COL keyword VAL ancient philosophy	COL name VAL phronesis a journal ancient philosophy COL keyword VAL ancient philosophy	0
+COL name VAL journal south central university nationalities COL keyword VAL journal south central university nationalities	COL name VAL journal south central university nationalities natural science edition COL keyword VAL journal south central university nationalities	1
+COL name VAL innovative food science emerging technologies COL keyword VAL innovative food science emerging technologies	COL name VAL innovative food science emerging technologies COL keyword VAL innovative food science emerging technologies	1
+COL name VAL information systems management COL keyword VAL information systems management	COL name VAL conference information systems management data COL keyword VAL information systems management	0
+COL name VAL journal xinjiang normal university COL keyword VAL journal xinjiang normal university	COL name VAL journal xinjiang normal university social science COL keyword VAL journal xinjiang normal university	1
+COL name VAL journal ministry agriculture COL keyword VAL journal ministry agriculture	COL name VAL journal agricultural management institute ministry agriculture COL keyword VAL journal ministry agriculture	0
+COL name VAL journal molecular diagnostics COL keyword VAL journal molecular diagnostics	COL name VAL journal molecular diagnostics COL keyword VAL journal molecular diagnostics	1
+COL name VAL journal psychology COL keyword VAL journal psychology	COL name VAL british journal developmental psychology COL keyword VAL journal psychology	0
+COL name VAL data brief COL keyword VAL data	COL name VAL international data information COL keyword VAL data	0
+COL name VAL world studies education COL keyword VAL studies education	COL name VAL studies preschool education COL keyword VAL studies education	0
+COL name VAL latest thinking COL keyword VAL thinking	COL name VAL new thinking COL keyword VAL thinking	0
+COL name VAL journal higher education science COL keyword VAL journal education science	COL name VAL journal jiangsu institute education nature science COL keyword VAL journal education science	0
+COL name VAL european journal dentistry COL keyword VAL european journal dentistry	COL name VAL european journal paediatric dentistry COL keyword VAL european journal dentistry	1
+COL name VAL imaging science journal COL keyword VAL imaging science journal	COL name VAL imaging science journal COL keyword VAL imaging science journal	1
+COL name VAL journal baoji university arts sciences COL keyword VAL journal baoji university arts sciences	COL name VAL journal baoji university arts sciences social sciences edition COL keyword VAL journal baoji university arts sciences sciences	1
+COL name VAL asian man international journal COL keyword VAL asian international journal	COL name VAL international journal asian studies COL keyword VAL international journal asian	1
+COL name VAL reading teacher COL keyword VAL reading teacher	COL name VAL reading teacher COL keyword VAL reading teacher	1
+COL name VAL journal clinical trials COL keyword VAL journal clinical trials	COL name VAL american journal clinical oncology cancer clinical trials COL keyword VAL journal clinical clinical trials	0
+COL name VAL modern medicine COL keyword VAL modern medicine	COL name VAL modern traditional chinese medicine COL keyword VAL modern medicine	0
+COL name VAL nuclear electronics detection technology COL keyword VAL nuclear electronics detection technology	COL name VAL nuclear electronics detection technology COL keyword VAL nuclear electronics detection technology	1
+COL name VAL science research COL keyword VAL science research	COL name VAL educational science research COL keyword VAL science research	0
+COL name VAL journal software engineering COL keyword VAL journal software engineering	COL name VAL software engineering journal object oriented systems COL keyword VAL software engineering journal	1
+COL name VAL journal yanan university COL keyword VAL journal yanan university	COL name VAL journal yanan university medical sciences COL keyword VAL journal yanan university	1
+COL name VAL safety health work COL keyword VAL safety health work	COL name VAL safety health work COL keyword VAL safety health work	1
+COL name VAL problems legality COL keyword VAL legality	COL name VAL government legality COL keyword VAL legality	0
+COL name VAL journal plastic film sheeting COL keyword VAL journal plastic film sheeting	COL name VAL journal plastic film sheeting COL keyword VAL journal plastic film sheeting	1
+COL name VAL journal inner mongolia normal university COL keyword VAL journal inner mongolia normal university	COL name VAL journal inner mongolia normal university philosophy social science COL keyword VAL journal inner mongolia normal university	1
+COL name VAL open medicine COL keyword VAL medicine	COL name VAL new chinese medicine COL keyword VAL medicine	0
+COL name VAL nature today COL keyword VAL nature	COL name VAL nature magazine COL keyword VAL nature	0
+COL name VAL international journal engineering COL keyword VAL international journal engineering	COL name VAL international journal supercomputer applications high performance engineering COL keyword VAL international journal engineering	0
+COL name VAL journal baoji college arts science COL keyword VAL journal baoji college arts science	COL name VAL journal baoji college arts science natural science edition COL keyword VAL journal baoji college arts science science	1
+COL name VAL journal south central university nationalities COL keyword VAL journal south central university nationalities	COL name VAL journal south central university nationalities philosophy social science COL keyword VAL journal south central university nationalities	1
+COL name VAL journal international studies COL keyword VAL journal international studies	COL name VAL international journal human computer studies COL keyword VAL international journal studies	0
+COL name VAL international journal home science COL keyword VAL international journal science	COL name VAL international journal geographical information science spatial ecology COL keyword VAL international journal science	0
+COL name VAL cleft palate journal COL keyword VAL cleft palate journal	COL name VAL cleft palate craniofacial journal COL keyword VAL cleft palate journal	1
+COL name VAL journal southwest university COL keyword VAL journal southwest university	COL name VAL journal southwest university political science law COL keyword VAL journal southwest university	1
+COL name VAL computer graphics image processing COL keyword VAL computer graphics image processing	COL name VAL proceedings seventh indian conference computer vision graphics image processing COL keyword VAL computer graphics image processing	0
+COL name VAL journal hebei polytechnic university COL keyword VAL journal hebei polytechnic university	COL name VAL journal hebei polytechnic university natural science edition COL keyword VAL journal hebei polytechnic university	1
+COL name VAL recent research science technology COL keyword VAL research science technology	COL name VAL xinjiang farm research science technology COL keyword VAL research science technology	0
+COL name VAL journal yangzhou university COL keyword VAL journal yangzhou university	COL name VAL journal yangzhou university natural science edition COL keyword VAL journal yangzhou university	1
+COL name VAL science research COL keyword VAL science research	COL name VAL research library science COL keyword VAL research science	0
+COL name VAL world cement COL keyword VAL cement	COL name VAL sichuan cement COL keyword VAL cement	0
+COL name VAL botany COL keyword VAL botany	COL name VAL botany botanique COL keyword VAL botany	1
+COL name VAL journal economic history COL keyword VAL journal economic history	COL name VAL journal economic history COL keyword VAL journal economic history	1
+COL name VAL archaeological journal COL keyword VAL archaeological journal	COL name VAL archaeologies journal world archaeological congress COL keyword VAL journal archaeological	1
+COL name VAL journal henan institute engineering COL keyword VAL journal henan institute engineering	COL name VAL journal henan institute engineering natural science edition COL keyword VAL journal henan institute engineering	1
+COL name VAL american interest COL keyword VAL american	COL name VAL american naturalist COL keyword VAL american	0
+COL name VAL journal hehai university COL keyword VAL journal hehai university	COL name VAL journal hehai university natural sciences COL keyword VAL journal hehai university	1
+COL name VAL biomedical journal COL keyword VAL biomedical journal	COL name VAL shanghai journal biomedical engineering COL keyword VAL journal biomedical	0
+COL name VAL today s nursing home COL keyword VAL nursing	COL name VAL chinese general nursing COL keyword VAL nursing	0
+COL name VAL data brief COL keyword VAL data	COL name VAL data engineering COL keyword VAL data	0
+COL name VAL new doctor COL keyword VAL doctor	COL name VAL liver doctor COL keyword VAL doctor	0
+COL name VAL journal chongqing university science technology COL keyword VAL journal chongqing university science technology	COL name VAL journal chongqing technology business university social science edition COL keyword VAL journal chongqing technology university science	0
+COL name VAL open medicine COL keyword VAL medicine	COL name VAL world chinese medicine COL keyword VAL medicine	0
+COL name VAL journal design science COL keyword VAL journal design science	COL name VAL journal integrated design process science manufacturing design COL keyword VAL journal design science design	0
+COL name VAL journal shaanxi normal university COL keyword VAL journal shaanxi normal university	COL name VAL journal shaanxi normal university philosophy social sciences edition COL keyword VAL journal shaanxi normal university	1
+COL name VAL international journal engineering COL keyword VAL international journal engineering	COL name VAL international journal software engineering knowledge engineering COL keyword VAL international journal engineering engineering	0
+COL name VAL world health COL keyword VAL health	COL name VAL e health COL keyword VAL health	0
+COL name VAL international journal home science COL keyword VAL international journal science	COL name VAL international social science journal chinese edition COL keyword VAL international science journal	0
+COL name VAL journal baoji university arts sciences COL keyword VAL journal baoji university arts sciences	COL name VAL journal baoji university arts sciences natural science edition COL keyword VAL journal baoji university arts sciences	1
+COL name VAL journal pla university science technology COL keyword VAL journal pla university science technology	COL name VAL journal pla university science technology natural science edition COL keyword VAL journal pla university science technology science	1
+COL name VAL journal northwest normal university COL keyword VAL journal northwest normal university	COL name VAL journal northwest normal university normal university COL keyword VAL journal northwest normal university normal university	1
+COL name VAL open journal pathology COL keyword VAL journal pathology	COL name VAL journal audiology speech pathology COL keyword VAL journal pathology	0
+COL name VAL modern medicine COL keyword VAL modern medicine	COL name VAL modern medicine health COL keyword VAL modern medicine	0
+COL name VAL open journal pathology COL keyword VAL journal pathology	COL name VAL american journal surgical pathology COL keyword VAL journal pathology	0
+COL name VAL logos COL keyword VAL logos	COL name VAL logos vilnius COL keyword VAL logos	1
+COL name VAL journal chongqing normal university COL keyword VAL journal chongqing normal university	COL name VAL journal chongqing normal university natural science edition COL keyword VAL journal chongqing normal university	1
+COL name VAL data brief COL keyword VAL data	COL name VAL proceedings first international workshop open data COL keyword VAL data	0
+COL name VAL journal huaibei normal university COL keyword VAL journal huaibei normal university	COL name VAL journal huaibei normal university natural science edition COL keyword VAL journal huaibei normal university	1
+COL name VAL journal university jinan COL keyword VAL journal university jinan	COL name VAL journal university jinan science technology COL keyword VAL journal university jinan	1
+COL name VAL journal northwest normal university COL keyword VAL journal northwest normal university	COL name VAL journal northwest normal university natural science COL keyword VAL journal northwest normal university	1
+COL name VAL international journal technology COL keyword VAL international journal technology	COL name VAL international journal computer games technology networking computer games COL keyword VAL international journal technology	0
+COL name VAL journal international information management COL keyword VAL journal international management	COL name VAL international journal multimedia data engineering management COL keyword VAL international journal management	0
+COL name VAL international journal linguistics COL keyword VAL international journal linguistics	COL name VAL itl international journal applied linguistics COL keyword VAL international journal linguistics	0
+COL name VAL problems quality COL keyword VAL quality	COL name VAL quality standardization COL keyword VAL quality	0
+COL name VAL journal fuzhou university COL keyword VAL journal fuzhou university	COL name VAL journal fuzhou university natural sciences edtion COL keyword VAL journal fuzhou university	1
+COL name VAL journal yangzhou university COL keyword VAL journal yangzhou university	COL name VAL journal yangzhou university higher education study edition COL keyword VAL journal yangzhou university	1
+COL name VAL journal chemical industry engineering COL keyword VAL journal chemical industry engineering	COL name VAL journal chemical industry engineering china COL keyword VAL journal chemical industry engineering	1
+COL name VAL journal jiangsu normal university COL keyword VAL journal jiangsu normal university	COL name VAL journal jiangsu normal university educational sciences edition COL keyword VAL journal jiangsu normal university	1
+COL name VAL journal law politics COL keyword VAL journal law politics	COL name VAL journal east china university politics law COL keyword VAL journal politics law	0
+COL name VAL journal communication computer COL keyword VAL journal communication computer	COL name VAL journal computer security advances security communication networks COL keyword VAL journal computer communication	0
+COL name VAL journal hubei university nationalities COL keyword VAL journal hubei university nationalities	COL name VAL journal hubei university nationalities natural science edition COL keyword VAL journal hubei university nationalities	1
+COL name VAL journal technology information education COL keyword VAL journal technology education	COL name VAL journal continue education hebei university technology COL keyword VAL journal education technology	0
+COL name VAL e journal new world sciences academy COL keyword VAL journal sciences academy	COL name VAL journal graduate school chinese academy social sciences COL keyword VAL journal academy sciences	0
+COL name VAL journal applied biology COL keyword VAL journal applied biology	COL name VAL chinese journal applied environmental biology COL keyword VAL journal applied biology	1
+COL name VAL t t international COL keyword VAL international	COL name VAL international database conference workshop COL keyword VAL international	0
+COL name VAL journal shanxi teachers university COL keyword VAL journal shanxi teachers university	COL name VAL journal shanxi teachers university social science edition COL keyword VAL journal shanxi teachers university	1
+COL name VAL journal nature science COL keyword VAL journal nature science	COL name VAL journal jiangsu institute education nature science COL keyword VAL journal nature science	0
+COL name VAL diagnostic interventional imaging COL keyword VAL diagnostic interventional imaging	COL name VAL journal diagnostic imaging interventional radiology COL keyword VAL diagnostic imaging interventional	1
+COL name VAL journal industrial hygiene COL keyword VAL journal industrial hygiene	COL name VAL chinese journal urban industrial hygiene COL keyword VAL journal industrial hygiene	0
+COL name VAL nature climate change COL keyword VAL nature climate change	COL name VAL nature reports climate change COL keyword VAL nature climate change	1
+COL name VAL clinical neurosurgery COL keyword VAL clinical neurosurgery	COL name VAL chinese journal clinical neurosurgery COL keyword VAL clinical neurosurgery	0
+COL name VAL russian east european studies COL keyword VAL russian east european studies	COL name VAL russian central asian east european studies COL keyword VAL russian east european studies	1
+COL name VAL journal yanan university COL keyword VAL journal yanan university	COL name VAL journal yanan university med sci COL keyword VAL journal yanan university	1
+COL name VAL journal ecological engineering COL keyword VAL journal ecological engineering	COL name VAL journal heilongjiang vocational institute ecological engineering COL keyword VAL journal ecological engineering	0
+COL name VAL chemical engineering world COL keyword VAL chemical engineering	COL name VAL higher education chemical engineering COL keyword VAL chemical engineering	0
+COL name VAL early american studies COL keyword VAL american studies	COL name VAL american studies quarterly COL keyword VAL american studies	0
+COL name VAL journal imaging COL keyword VAL journal imaging	COL name VAL imaging science journal COL keyword VAL imaging journal	1
+COL name VAL journal chongqing normal university COL keyword VAL journal chongqing normal university	COL name VAL journal chongqing normal university natural science COL keyword VAL journal chongqing normal university	1
+COL name VAL information culture COL keyword VAL culture	COL name VAL culture psychology COL keyword VAL culture	0
+COL name VAL journal hohai university COL keyword VAL journal hohai university	COL name VAL journal hohai university natural sciences COL keyword VAL journal hohai university	1
+COL name VAL journal international studies COL keyword VAL journal international studies	COL name VAL journal international security studies COL keyword VAL journal international studies	0
+COL name VAL journal north university china COL keyword VAL journal north university china	COL name VAL journal north china electric power university social sciences COL keyword VAL journal north china university	0
+COL name VAL journal yunnan university nationalities COL keyword VAL journal yunnan university nationalities	COL name VAL journal yunnan university nationalities social sciences COL keyword VAL journal yunnan university nationalities	1
+COL name VAL scandinavian journal work environment health COL keyword VAL scandinavian journal work environment health	COL name VAL scandinavian journal work environment health COL keyword VAL scandinavian journal work environment health	1
+COL name VAL china population today COL keyword VAL china population	COL name VAL population science china COL keyword VAL population china	0
+COL name VAL public works COL keyword VAL public	COL name VAL public good COL keyword VAL public	0
+COL name VAL home health journal COL keyword VAL health journal	COL name VAL american journal mens health COL keyword VAL journal health	0
+COL name VAL chinese journal stomatological research COL keyword VAL chinese journal stomatological research	COL name VAL chinese journal stomatological research electronic edition COL keyword VAL chinese journal stomatological research	1
+COL name VAL manager journal COL keyword VAL manager journal	COL name VAL journal tianjin manager college COL keyword VAL journal manager	1
+COL name VAL information culture COL keyword VAL culture	COL name VAL world culture COL keyword VAL culture	0
+COL name VAL american journal hospice palliative medicine COL keyword VAL american journal hospice palliative medicine	COL name VAL american journal hospice palliative medicine COL keyword VAL american journal hospice palliative medicine	1
+COL name VAL journal yanbian university COL keyword VAL journal yanbian university	COL name VAL journal yanbian university natural science edition COL keyword VAL journal yanbian university	1
+COL name VAL computer graphics image processing COL keyword VAL computer graphics image processing	COL name VAL proceedings eighth indian conference computer vision graphics image processing COL keyword VAL computer graphics image processing	0
+COL name VAL drugs clinic COL keyword VAL drugs clinic	COL name VAL drugs clinic COL keyword VAL drugs clinic	1
+COL name VAL international journal multimedia information retrieval COL keyword VAL international journal multimedia information retrieval	COL name VAL international journal imaging systems technology multimedia information retrieval COL keyword VAL international journal multimedia information retrieval	0
+COL name VAL rural china COL keyword VAL rural china	COL name VAL rural credit cooperative china COL keyword VAL rural china	0
+COL name VAL journal jiangsu normal university COL keyword VAL journal jiangsu normal university	COL name VAL journal jiangsu normal university philosophy social sciences edition COL keyword VAL journal jiangsu normal university	1
+COL name VAL world cement COL keyword VAL cement	COL name VAL cement COL keyword VAL cement	0
+COL name VAL people place COL keyword VAL people	COL name VAL computers people COL keyword VAL people	0
+COL name VAL environmental resource economics COL keyword VAL environmental resource economics	COL name VAL environmental resource economics COL keyword VAL environmental resource economics	1
+COL name VAL information systems management COL keyword VAL systems management	COL name VAL proceedings 2012 workshop management big data systems COL keyword VAL management systems	0
+COL name VAL home health journal COL keyword VAL health journal	COL name VAL journal environment health COL keyword VAL journal health	0
+COL name VAL international journal engineering COL keyword VAL international journal engineering	COL name VAL international journal measurement technologies instrumentation engineering COL keyword VAL international journal engineering	0
+COL name VAL cambridge quarterly COL keyword VAL cambridge quarterly	COL name VAL cambridge quarterly COL keyword VAL cambridge quarterly	1
+COL name VAL journal international studies COL keyword VAL journal international studies	COL name VAL international journal man machine studies COL keyword VAL international journal studies	0
+COL name VAL journal physics b COL keyword VAL journal physics	COL name VAL journal physics d applied physics COL keyword VAL journal physics physics	1
+COL name VAL applied computer science COL keyword VAL applied computer science	COL name VAL theoretical computer science applied semantics COL keyword VAL computer science applied	0
+COL name VAL cognitive affective behavioral neuroscience COL keyword VAL cognitive affective behavioral neuroscience	COL name VAL cognitive affective behavioral neuroscience COL keyword VAL cognitive affective behavioral neuroscience	1
+COL name VAL data brief COL keyword VAL data	COL name VAL data structures COL keyword VAL data	0
+COL name VAL library quarterly COL keyword VAL library quarterly	COL name VAL shandong library quarterly COL keyword VAL library quarterly	0
+COL name VAL canadian journal political science COL keyword VAL canadian journal political science	COL name VAL canadian journal political science revue canadienne de science politique COL keyword VAL canadian journal political science science	1
+COL name VAL journal risk management COL keyword VAL journal risk management	COL name VAL international journal risk contingency management COL keyword VAL journal risk management	0
+COL name VAL international journal science engineering COL keyword VAL international journal science engineering	COL name VAL international journal computer mathematics distributed algorithms science engineering COL keyword VAL international journal science engineering	0
+COL name VAL journal university electronic science technology china COL keyword VAL journal university electronic science technology china	COL name VAL journal university electronic science technology china social sciences edition COL keyword VAL journal university electronic science technology china	1
+COL name VAL home health journal COL keyword VAL health journal	COL name VAL chinese journal health inspection COL keyword VAL journal health	0
+COL name VAL journal shanxi teachers university COL keyword VAL journal shanxi teachers university	COL name VAL journal shanxi teachers university natural science edition COL keyword VAL journal shanxi teachers university	1
+COL name VAL journal northwest normal university COL keyword VAL journal northwest normal university	COL name VAL journal northwest normal university social sciences COL keyword VAL journal northwest normal university	1
+COL name VAL problems quality COL keyword VAL quality	COL name VAL quality reliability COL keyword VAL quality	0
+COL name VAL economic analysis policy COL keyword VAL economic analysis policy	COL name VAL frontiers economic analysis policy COL keyword VAL economic analysis policy	1
+COL name VAL journal landscape architecture COL keyword VAL journal landscape architecture	COL name VAL journal guangdong landscape architecture COL keyword VAL journal landscape architecture	1
+COL name VAL electronic journal COL keyword VAL electronic journal	COL name VAL ssrn electronic journal COL keyword VAL electronic journal	0
+COL name VAL journal hangzhou normal university COL keyword VAL journal hangzhou normal university	COL name VAL journal hangzhou normal university humanities social sciences COL keyword VAL journal hangzhou normal university	1
+COL name VAL applied computer science COL keyword VAL applied computer science	COL name VAL applied mathematics computer science COL keyword VAL applied computer science	0
+COL name VAL journal industrial hygiene COL keyword VAL journal industrial hygiene	COL name VAL chinese journal industrial hygiene occupational diseases COL keyword VAL journal industrial hygiene	0
+COL name VAL journal huazhong normal university COL keyword VAL journal huazhong normal university	COL name VAL journal huazhong normal university humanities social sciences COL keyword VAL journal huazhong normal university	1
+COL name VAL spine journal COL keyword VAL spine journal	COL name VAL journal neurosurgery spine COL keyword VAL journal spine	0
+COL name VAL rural china COL keyword VAL rural china	COL name VAL china rural survey COL keyword VAL china rural	0
+COL name VAL scandinavian journal economics COL keyword VAL scandinavian journal economics	COL name VAL scandinavian journal economics COL keyword VAL scandinavian journal economics	1
+COL name VAL open journal immunology COL keyword VAL journal immunology	COL name VAL journal allergy clinical immunology COL keyword VAL journal immunology	0
+COL name VAL art music journal shanghai conservatory music COL keyword VAL art music journal shanghai conservatory music	COL name VAL art music journal shanghai conservatory music COL keyword VAL art music journal shanghai conservatory music	1
+COL name VAL journal design science COL keyword VAL journal design science	COL name VAL journal integrated design process science COL keyword VAL journal design science	0
+COL name VAL medical bulletin COL keyword VAL medical bulletin	COL name VAL bulletin medical research COL keyword VAL bulletin medical	1
+COL name VAL chemical engineering world COL keyword VAL chemical engineering	COL name VAL chemical engineering construction COL keyword VAL chemical engineering	0
+COL name VAL management international COL keyword VAL management international	COL name VAL proceedings third international workshop cloud data management COL keyword VAL international management	0
+COL name VAL people place COL keyword VAL people	COL name VAL it people COL keyword VAL people	0
+COL name VAL philosophical transactions royal society a COL keyword VAL philosophical transactions royal society	COL name VAL philosophical transactions royal society london COL keyword VAL philosophical transactions royal society	1
+COL name VAL international journal research COL keyword VAL international journal research	COL name VAL international journal monitoring surveillance technologies research COL keyword VAL international journal research	0
+COL name VAL inquiry COL keyword VAL inquiry	COL name VAL inquiry into economic problems COL keyword VAL inquiry	0
+COL name VAL journal law information science COL keyword VAL journal law science	COL name VAL journal southwest university political science law COL keyword VAL journal science law	0
+COL name VAL management international COL keyword VAL management international	COL name VAL international journal knowledge management COL keyword VAL international management	0
+COL name VAL world obstetrics gynecology COL keyword VAL obstetrics gynecology	COL name VAL journal psychosomatic obstetrics gynecology COL keyword VAL obstetrics gynecology	1
+COL name VAL latest thinking COL keyword VAL thinking	COL name VAL thinking COL keyword VAL thinking	0
+COL name VAL psychiatry information brief COL keyword VAL psychiatry	COL name VAL psychiatry research COL keyword VAL psychiatry	0
+COL name VAL fine arts journal COL keyword VAL fine arts journal	COL name VAL journal nanjing arts institute fine arts design COL keyword VAL journal arts fine arts	0
+COL name VAL latest thinking COL keyword VAL thinking	COL name VAL thinking wisdom COL keyword VAL thinking	0
+COL name VAL journal guangxi university nationlities COL keyword VAL journal guangxi university nationlities	COL name VAL journal guangxi university nationlities philosophy social science edition COL keyword VAL journal guangxi university nationlities	1
+COL name VAL journal education science COL keyword VAL journal education science	COL name VAL journal jimei university education science edition COL keyword VAL journal education science	0
+COL name VAL modern medicine COL keyword VAL modern medicine	COL name VAL journal modern lboratory medicine COL keyword VAL modern medicine	0
+COL name VAL protection from corrosion COL keyword VAL protection corrosion	COL name VAL corrosion @ protection COL keyword VAL corrosion protection	1
+COL name VAL international journal philosophy COL keyword VAL international journal philosophy	COL name VAL cultura international journal philosophy culture axiology COL keyword VAL international journal philosophy	0
+COL name VAL gynecology obstetrics COL keyword VAL gynecology obstetrics	COL name VAL progress obstetrics gynecology COL keyword VAL obstetrics gynecology	0
+COL name VAL business review COL keyword VAL business review	COL name VAL nanjing business review COL keyword VAL business review	0
+COL name VAL consultant COL keyword VAL consultant	COL name VAL farmers consultant COL keyword VAL consultant	0
+COL name VAL journal mathematics research COL keyword VAL journal mathematics research	COL name VAL ibm journal research development mathematics computing COL keyword VAL journal research mathematics	0
+COL name VAL journal yanbian university COL keyword VAL journal yanbian university	COL name VAL journal yanbian university social sciences COL keyword VAL journal yanbian university	1
+COL name VAL international journal intelligent systems applications COL keyword VAL international journal intelligent systems applications	COL name VAL international journal knowledge intelligent engineering systems soft computing its applications e business COL keyword VAL international journal intelligent systems applications	0
+COL name VAL ems world COL keyword VAL ems	COL name VAL ems insider COL keyword VAL ems	1
+COL name VAL data brief COL keyword VAL data	COL name VAL data base COL keyword VAL data	0
+COL name VAL journal minzu university china COL keyword VAL journal minzu university china	COL name VAL journal minzu university china philosophy social sciences edition COL keyword VAL journal minzu university china	1
+COL name VAL integration COL keyword VAL integration	COL name VAL intelligent information integration COL keyword VAL integration	0
+COL name VAL pharmaceutical engineering COL keyword VAL pharmaceutical engineering	COL name VAL pharmaceutical engineering design COL keyword VAL pharmaceutical engineering	1
+COL name VAL journal sichuan normal university COL keyword VAL journal sichuan normal university	COL name VAL journal sichuan normal university philosophy social sciences COL keyword VAL journal sichuan normal university	1
+COL name VAL research higher education journal COL keyword VAL research education journal	COL name VAL a journal research education COL keyword VAL journal research education	0
+COL name VAL ecological chemistry engineering a COL keyword VAL ecological chemistry engineering	COL name VAL ecological chemistry engineering chemia i inzynieria ekologiczna COL keyword VAL ecological chemistry engineering	1
+COL name VAL journal law politics COL keyword VAL journal law politics	COL name VAL law science journal northwest university politics law COL keyword VAL law journal politics law	0
+COL name VAL journal educational thought COL keyword VAL journal educational	COL name VAL magnetic resonance: educational journal COL keyword VAL educational journal	0
+COL name VAL psychological thought COL keyword VAL psychological	COL name VAL psychological research COL keyword VAL psychological	0
+COL name VAL monist COL keyword VAL monist	COL name VAL monist COL keyword VAL monist	1
+COL name VAL multimedia information technology COL keyword VAL multimedia technology	COL name VAL multimedia technology management COL keyword VAL multimedia technology	0
+COL name VAL south african journal chemistry COL keyword VAL south african journal chemistry	COL name VAL south african journal chemistry suid afrikaanse tydskrif vir chemie COL keyword VAL south african journal chemistry	1
+COL name VAL materials science engineering r COL keyword VAL materials science engineering	COL name VAL polymeric materials science engineering COL keyword VAL materials science engineering	0
+COL name VAL energy science technology COL keyword VAL energy science technology	COL name VAL energy education science technology COL keyword VAL energy science technology	1
+COL name VAL problems quality COL keyword VAL quality	COL name VAL china quality COL keyword VAL quality	0
+COL name VAL world health COL keyword VAL health	COL name VAL noise health COL keyword VAL health	0
+COL name VAL plastics world COL keyword VAL plastics	COL name VAL plastics packaging COL keyword VAL plastics	0
+COL name VAL journal nanjing institute physical education COL keyword VAL journal nanjing institute physical education	COL name VAL journal nanjing institute physical education natural science COL keyword VAL journal nanjing institute physical education	1
+COL name VAL sociological review COL keyword VAL sociological review	COL name VAL sociological review COL keyword VAL sociological review	1
+COL name VAL advances biochemical engineering biotechnology COL keyword VAL advances biochemical engineering biotechnology	COL name VAL advances biochemical engineering biotechnology COL keyword VAL advances biochemical engineering biotechnology	1
+COL name VAL computers education COL keyword VAL computers education	COL name VAL computers advanced technology education COL keyword VAL computers education	1
+COL name VAL international journal computing COL keyword VAL international journal computing	COL name VAL international journal green computing COL keyword VAL international journal computing	0
+COL name VAL journal international studies COL keyword VAL journal international studies	COL name VAL international journal human computer studies international journal man machine studies COL keyword VAL international journal studies international journal studies	0
+COL name VAL journal yanan university COL keyword VAL journal yanan university	COL name VAL journal yanan university medical science COL keyword VAL journal yanan university	1
+COL name VAL international journal intelligent systems applications COL keyword VAL international journal intelligent systems applications	COL name VAL international journal knowledge intelligent engineering systems advanced intelligent techniques engineering applications COL keyword VAL international journal intelligent systems intelligent applications	0
+COL name VAL philosophy history COL keyword VAL philosophy history	COL name VAL history chinese philosophy COL keyword VAL history philosophy	0
+COL name VAL cambridge law journal COL keyword VAL cambridge law journal	COL name VAL cambridge law journal COL keyword VAL cambridge law journal	1
+COL name VAL materials today proceedings COL keyword VAL materials	COL name VAL new chemical materials COL keyword VAL materials	0
+COL name VAL information culture COL keyword VAL culture	COL name VAL chinese classics culture COL keyword VAL culture	0
+COL name VAL science research COL keyword VAL science research	COL name VAL science research management COL keyword VAL science research	0
+COL name VAL integration COL keyword VAL integration	COL name VAL workshop information integration web COL keyword VAL integration	0
+COL name VAL journal arts social sciences COL keyword VAL journal arts social sciences	COL name VAL journal baoji university arts sciences social sciences COL keyword VAL journal arts sciences social sciences	0
+COL name VAL journal henan education institute COL keyword VAL journal henan education institute	COL name VAL journal henan institute education philosophy social science edition COL keyword VAL journal henan institute education	1
+COL name VAL agricultural research COL keyword VAL agricultural research	COL name VAL yunnan agricultural education research COL keyword VAL agricultural research	0
+COL name VAL nursing general practice COL keyword VAL nursing general practice	COL name VAL chinese general practice nursing COL keyword VAL general practice nursing	0
+COL name VAL china finance review international COL keyword VAL china finance review international	COL name VAL 2010 china finance review international conference COL keyword VAL china finance review international	1
+COL name VAL journal international studies COL keyword VAL journal international studies	COL name VAL international journal asian studies COL keyword VAL international journal studies	0
+COL name VAL transactions j w r i COL keyword VAL transactions	COL name VAL roars transactions COL keyword VAL transactions	0
+COL name VAL astronomy astrophysics COL keyword VAL astronomy astrophysics	COL name VAL astronomy astrophysics review COL keyword VAL astronomy astrophysics	1
+COL name VAL language literacy COL keyword VAL language literacy	COL name VAL written language literacy COL keyword VAL language literacy	1
+COL name VAL journal tsinghua university COL keyword VAL journal tsinghua university	COL name VAL journal tsinghua university science technology COL keyword VAL journal tsinghua university	1
+COL name VAL journal northwest normal university COL keyword VAL journal northwest normal university	COL name VAL journal northwest normal university social sciences COL keyword VAL journal northwest normal university	1

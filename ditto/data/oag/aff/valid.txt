@@ -1,0 +1,1000 @@
+COL name VAL dell (united states) COL keyword VAL dell	COL name VAL dell emc COL keyword VAL dell	1
+COL name VAL university pannonia COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL university suwon COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL stazione zoologica anton dohrn COL keyword VAL stazione zoologica	COL name VAL stazione zoologica COL keyword VAL stazione zoologica	1
+COL name VAL university bremen COL keyword VAL university bremen	COL name VAL bremen university applied sciences COL keyword VAL bremen university	0
+COL name VAL birmingham city university COL keyword VAL birmingham	COL name VAL birmingham polytechnic COL keyword VAL birmingham	1
+COL name VAL memorial hermann institute rehabilitation research foundation COL keyword VAL memorial hermann	COL name VAL tirr memorial hermann COL keyword VAL memorial hermann	1
+COL name VAL technical university madrid COL keyword VAL university madrid	COL name VAL complutense university madrid COL keyword VAL university madrid	0
+COL name VAL british library COL keyword VAL british	COL name VAL british council COL keyword VAL british	0
+COL name VAL goethe university frankfurt COL keyword VAL goethe frankfurt	COL name VAL johann wolfgang goethe universitat frankfurt am main COL keyword VAL goethe frankfurt	1
+COL name VAL spectrum health COL keyword VAL spectrum health	COL name VAL spectrum health system COL keyword VAL spectrum health	1
+COL name VAL ningbo university COL keyword VAL ningbo university	COL name VAL ningbo university technology COL keyword VAL ningbo university	0
+COL name VAL polytechnic institute viseu COL keyword VAL polytechnic institute	COL name VAL polytechnic institute leiria COL keyword VAL polytechnic institute	0
+COL name VAL university gothenburg COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL university witwatersrand COL keyword VAL university	COL name VAL wits university COL keyword VAL university	1
+COL name VAL arkansas tech university COL keyword VAL tech university	COL name VAL texas tech university COL keyword VAL tech university	0
+COL name VAL rakuten (japan) COL keyword VAL rakuten	COL name VAL rakuten kabushiki gaisha COL keyword VAL rakuten	1
+COL name VAL university calabria COL keyword VAL university calabria	COL name VAL mediterranea university reggio calabria COL keyword VAL university calabria	0
+COL name VAL budapest university technology economics COL keyword VAL university technology economics	COL name VAL tobb university economics technology COL keyword VAL university economics technology	0
+COL name VAL louisiana state university eunice COL keyword VAL eunice	COL name VAL lsu eunice COL keyword VAL eunice	1
+COL name VAL shippensburg university COL keyword VAL shippensburg university	COL name VAL shippensburg university pennsylvania COL keyword VAL shippensburg university	1
+COL name VAL gurukul kangri vishwavidyalaya COL keyword VAL gurukul kangri	COL name VAL gurukul kangri university COL keyword VAL gurukul kangri	1
+COL name VAL cornell college COL keyword VAL cornell	COL name VAL cornell university COL keyword VAL cornell	0
+COL name VAL ecole normale superieure de lyon COL keyword VAL lyon	COL name VAL ens lyon COL keyword VAL lyon	1
+COL name VAL inspiralia COL keyword VAL inspiralia	COL name VAL tecnologias avanzadas inspiralia COL keyword VAL inspiralia	1
+COL name VAL government medical college, amritsar COL keyword VAL medical	COL name VAL glancy medical college COL keyword VAL medical	1
+COL name VAL australian nuclear science technology organisation COL keyword VAL science technology organisation	COL name VAL defence science technology organisation COL keyword VAL science technology organisation	0
+COL name VAL florida atlantic university COL keyword VAL florida atlantic	COL name VAL florida atlantic COL keyword VAL florida atlantic	1
+COL name VAL technical university varna COL keyword VAL university varna	COL name VAL varna free university COL keyword VAL varna university	0
+COL name VAL monell chemical senses center COL keyword VAL chemical center	COL name VAL edgewood chemical biological center COL keyword VAL chemical center	0
+COL name VAL inner mongolia medical college hospital COL keyword VAL inner mongolia medical college hospital	COL name VAL affiliated hospital inner mongolia medical college COL keyword VAL hospital inner mongolia medical college	1
+COL name VAL occidental college COL keyword VAL occidental	COL name VAL occidental petroleum COL keyword VAL occidental	0
+COL name VAL addis ababa university COL keyword VAL addis	COL name VAL addis continental institute public health COL keyword VAL addis	0
+COL name VAL cairns hospital COL keyword VAL cairns hospital	COL name VAL cairns base hospital COL keyword VAL cairns hospital	1
+COL name VAL menoufia university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL aarhus university hospital COL keyword VAL aarhus university	COL name VAL aarhus university COL keyword VAL aarhus university	0
+COL name VAL bangladesh agricultural university COL keyword VAL bangladesh agricultural	COL name VAL bangladesh agricultural research institute COL keyword VAL bangladesh agricultural	0
+COL name VAL chaudhary charan singh haryana agricultural university COL keyword VAL chaudhary charan singh university	COL name VAL chaudhary charan singh university COL keyword VAL chaudhary charan singh university	0
+COL name VAL concordia university edmonton COL keyword VAL concordia university	COL name VAL concordia university college alberta COL keyword VAL concordia university	1
+COL name VAL university rome tor vergata COL keyword VAL university rome	COL name VAL american university rome COL keyword VAL university rome	0
+COL name VAL texas tech university COL keyword VAL texas tech	COL name VAL texas tech COL keyword VAL texas tech	1
+COL name VAL korea institute advanced study COL keyword VAL institute advanced study	COL name VAL institute advanced study COL keyword VAL institute advanced study	0
+COL name VAL lafayette college COL keyword VAL lafayette	COL name VAL university louisiana lafayette COL keyword VAL lafayette	0
+COL name VAL beloit college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL lebanese american university COL keyword VAL lebanese university	COL name VAL lebanese university COL keyword VAL lebanese university	0
+COL name VAL national institute geophysics volcanology COL keyword VAL institute volcanology	COL name VAL philippine institute volcanology seismology COL keyword VAL institute volcanology	0
+COL name VAL university insubria COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL morgan stanley children's hospital COL keyword VAL morgan stanley children's hospital	COL name VAL morgan stanley children's hospital new york presbyterian COL keyword VAL morgan stanley children's hospital	1
+COL name VAL university sopron COL keyword VAL university	COL name VAL university west hungary COL keyword VAL university	1
+COL name VAL dickinson state university COL keyword VAL dickinson	COL name VAL becton dickinson COL keyword VAL dickinson	0
+COL name VAL smith kettlewell eye research institute COL keyword VAL eye research institute	COL name VAL eye research institute COL keyword VAL eye research institute	1
+COL name VAL miguel hernandez university COL keyword VAL miguel hernandez	COL name VAL universitat miguel hernandez d'elx COL keyword VAL miguel hernandez	1
+COL name VAL university oklahoma COL keyword VAL university oklahoma	COL name VAL university central oklahoma COL keyword VAL university oklahoma	0
+COL name VAL tamil nadu government dental college hospital COL keyword VAL government dental hospital	COL name VAL government dental hospital college, chennai COL keyword VAL government dental hospital	1
+COL name VAL moldova state university COL keyword VAL moldova	COL name VAL universitatea de stat din moldova COL keyword VAL moldova	1
+COL name VAL shandong normal university COL keyword VAL shandong normal	COL name VAL shandong normal college COL keyword VAL shandong normal	1
+COL name VAL university beira interior COL keyword VAL interior	COL name VAL ministry interior (bahrain) COL keyword VAL interior	0
+COL name VAL cooper union COL keyword VAL cooper union	COL name VAL cooper union advancement science art COL keyword VAL cooper union	1
+COL name VAL national human genome research institute COL keyword VAL national human genome research	COL name VAL national center human genome research COL keyword VAL national human genome research	1
+COL name VAL centre hospitalier universitaire dijon bourgogne COL keyword VAL dijon	COL name VAL chu de dijon COL keyword VAL dijon	1
+COL name VAL central university venezuela COL keyword VAL central venezuela	COL name VAL central bank venezuela COL keyword VAL central venezuela	0
+COL name VAL donostia unibertsitate ospitalea COL keyword VAL donostia ospitalea	COL name VAL lehen donostia ospitalea deitua COL keyword VAL donostia ospitalea	1
+COL name VAL enterprise ireland COL keyword VAL ireland	COL name VAL upc ireland COL keyword VAL ireland	0
+COL name VAL university surrey COL keyword VAL surrey	COL name VAL surrey satellite technology COL keyword VAL surrey	0
+COL name VAL university south carolina upstate COL keyword VAL university south carolina	COL name VAL university south carolina COL keyword VAL university south carolina	0
+COL name VAL university alabama birmingham COL keyword VAL university birmingham	COL name VAL university birmingham COL keyword VAL university birmingham	0
+COL name VAL lanzhou university technology COL keyword VAL lanzhou university	COL name VAL lanzhou university COL keyword VAL lanzhou university	0
+COL name VAL fort valley state university COL keyword VAL fort valley state	COL name VAL fort valley state college COL keyword VAL fort valley state	1
+COL name VAL doernbecher children's hospital COL keyword VAL doernbecher children's hospital	COL name VAL ohsu doernbecher children's hospital COL keyword VAL doernbecher children's hospital	1
+COL name VAL general motors (canada) COL keyword VAL 	COL name VAL gm canada COL keyword VAL 	1
+COL name VAL lee university COL keyword VAL lee	COL name VAL lee college COL keyword VAL lee	0
+COL name VAL university sioux falls COL keyword VAL sioux falls	COL name VAL sioux falls seminary COL keyword VAL sioux falls	0
+COL name VAL welding institute COL keyword VAL welding institute	COL name VAL edison welding institute COL keyword VAL welding institute	0
+COL name VAL higashi nagoya national hospital COL keyword VAL nagoya national hospital	COL name VAL national hospital organization east nagoya hospital COL keyword VAL national hospital nagoya hospital	1
+COL name VAL rockhurst university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL siberian federal university COL keyword VAL 	COL name VAL sibirskii federalʹnyi universitet COL keyword VAL 	1
+COL name VAL fraunhofer institute wind energy systems COL keyword VAL fraunhofer	COL name VAL fraunhofer iwes COL keyword VAL fraunhofer	1
+COL name VAL miami university COL keyword VAL miami university	COL name VAL miami university hamilton COL keyword VAL miami university	0
+COL name VAL moi university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL dowling college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL beijing ditan hospital COL keyword VAL beijing hospital	COL name VAL beijing first infectious diseases hospital COL keyword VAL beijing hospital	1
+COL name VAL university worcester COL keyword VAL university worcester	COL name VAL worcester state university COL keyword VAL worcester university	0
+COL name VAL privolzhsky research medical university COL keyword VAL research medical	COL name VAL federal state budgetary educational institution higher education «privolzhsky research medical university» ministry health russian federation COL keyword VAL research medical	1
+COL name VAL michigan surgical hospital COL keyword VAL hospital	COL name VAL kern hospital COL keyword VAL hospital	1
+COL name VAL altai state technical university COL keyword VAL altai state university	COL name VAL altai state university COL keyword VAL altai state university	0
+COL name VAL australian national university COL keyword VAL australian national university	COL name VAL australian national university library COL keyword VAL australian national university	0
+COL name VAL kwansei gakuin university COL keyword VAL gakuin	COL name VAL kansei gakuin daigaku COL keyword VAL gakuin	1
+COL name VAL north carolina agricultural technical state university COL keyword VAL north carolina state university	COL name VAL north carolina a&t state university COL keyword VAL north carolina state university	1
+COL name VAL american psychological association COL keyword VAL psychological association	COL name VAL canadian psychological association COL keyword VAL psychological association	0
+COL name VAL california state university, channel islands COL keyword VAL channel islands	COL name VAL csu channel islands COL keyword VAL channel islands	1
+COL name VAL mount desert island biological laboratory COL keyword VAL biological laboratory	COL name VAL mdi biological laboratory COL keyword VAL biological laboratory	1
+COL name VAL mississippi state university COL keyword VAL mississippi state university	COL name VAL mississippi valley state university COL keyword VAL mississippi state university	0
+COL name VAL university amsterdam COL keyword VAL university amsterdam	COL name VAL vu university amsterdam COL keyword VAL university amsterdam	0
+COL name VAL kanto central hospital COL keyword VAL kanto central hospital	COL name VAL kanto central hospital public school teacher COL keyword VAL kanto central hospital	1
+COL name VAL feng chia university COL keyword VAL chia university	COL name VAL chia nan university pharmacy science COL keyword VAL chia university	0
+COL name VAL winthrop university hospital COL keyword VAL hospital	COL name VAL nassau hospital COL keyword VAL hospital	1
+COL name VAL mount holyoke college COL keyword VAL holyoke college	COL name VAL holyoke community college COL keyword VAL holyoke college	0
+COL name VAL nottingham university hospitals nhs trust COL keyword VAL university hospitals nhs trust	COL name VAL university hospitals birmingham nhs foundation trust COL keyword VAL university hospitals nhs trust	0
+COL name VAL open university japan COL keyword VAL university	COL name VAL university air COL keyword VAL university	1
+COL name VAL helmholtz centre infection research COL keyword VAL centre research	COL name VAL german research centre biotechnology COL keyword VAL research centre	1
+COL name VAL chaudhary charan singh university COL keyword VAL university	COL name VAL meerut university COL keyword VAL university	1
+COL name VAL graz university technology COL keyword VAL graz university	COL name VAL university graz COL keyword VAL university graz	0
+COL name VAL osaka prefecture university COL keyword VAL osaka university	COL name VAL osaka university COL keyword VAL osaka university	0
+COL name VAL incheon national university COL keyword VAL incheon university	COL name VAL university incheon COL keyword VAL university incheon	1
+COL name VAL fisheries oceans canada COL keyword VAL fisheries oceans	COL name VAL department fisheries oceans COL keyword VAL fisheries oceans	1
+COL name VAL bocconi university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university kebangsaan malaysia medical centre COL keyword VAL kebangsaan malaysia	COL name VAL pusat perubatan universiti kebangsaan malaysia COL keyword VAL kebangsaan malaysia	1
+COL name VAL king saud medical city COL keyword VAL king saud medical	COL name VAL king saud medical complex COL keyword VAL king saud medical	1
+COL name VAL southwestern oklahoma state university COL keyword VAL southwestern state university	COL name VAL georgia southwestern state university COL keyword VAL southwestern state university	0
+COL name VAL alfaisal university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university new mexico COL keyword VAL university new mexico	COL name VAL new mexico highlands university COL keyword VAL new mexico university	0
+COL name VAL gordon research conferences COL keyword VAL gordon	COL name VAL gordon college COL keyword VAL gordon	0
+COL name VAL montefiore medical center COL keyword VAL medical center	COL name VAL immanuel medical center COL keyword VAL medical center	0
+COL name VAL wrocław medical university COL keyword VAL 	COL name VAL universitas medicus vratislaviensis COL keyword VAL 	1
+COL name VAL university rijeka COL keyword VAL rijeka	COL name VAL polytechnic rijeka COL keyword VAL rijeka	0
+COL name VAL national hospital organization COL keyword VAL national hospital organization	COL name VAL national hospital organization nagasaki medical center COL keyword VAL national hospital organization	1
+COL name VAL shri maharaja hari singh hospital COL keyword VAL hospital	COL name VAL headwin hospital COL keyword VAL hospital	1
+COL name VAL pioneer hi bred COL keyword VAL pioneer	COL name VAL dupont pioneer COL keyword VAL pioneer	1
+COL name VAL mbarara university science technology COL keyword VAL mbarara university	COL name VAL mbarara university COL keyword VAL mbarara university	1
+COL name VAL alabama state university COL keyword VAL alabama university	COL name VAL university alabama COL keyword VAL university alabama	0
+COL name VAL jackson memorial hospital COL keyword VAL jackson	COL name VAL jackson COL keyword VAL jackson	1
+COL name VAL alabama agricultural mechanical university COL keyword VAL alabama university	COL name VAL alabama a&m university COL keyword VAL alabama university	1
+COL name VAL affiliated eye hospital wenzhou medical college COL keyword VAL eye hospital	COL name VAL zhejiang eye hospital COL keyword VAL eye hospital	1
+COL name VAL avila university COL keyword VAL avila university	COL name VAL catholic university avila COL keyword VAL university avila	0
+COL name VAL fukuoka university COL keyword VAL fukuoka	COL name VAL fukuoka daigaku COL keyword VAL fukuoka	1
+COL name VAL melbourne centre nanofabrication COL keyword VAL melbourne	COL name VAL melbourne water COL keyword VAL melbourne	0
+COL name VAL jacksonville university COL keyword VAL jacksonville university	COL name VAL jacksonville state university COL keyword VAL jacksonville university	0
+COL name VAL istanbul bilgi university COL keyword VAL istanbul university	COL name VAL istanbul university COL keyword VAL istanbul university	0
+COL name VAL university milan COL keyword VAL university milan	COL name VAL iulm university milan COL keyword VAL university milan	0
+COL name VAL linfield college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL university south alabama medical center COL keyword VAL medical center	COL name VAL usa medical center COL keyword VAL medical center	1
+COL name VAL christopher newport university COL keyword VAL christopher university	COL name VAL seirei christopher university COL keyword VAL christopher university	0
+COL name VAL medical college wisconsin COL keyword VAL college wisconsin	COL name VAL wisconsin lutheran college COL keyword VAL wisconsin college	0
+COL name VAL st. joseph medical center COL keyword VAL st. joseph	COL name VAL st. joseph german hospital COL keyword VAL st. joseph	1
+COL name VAL minneapolis va health care system COL keyword VAL minneapolis	COL name VAL minneapolis vahcs COL keyword VAL minneapolis	1
+COL name VAL charite university medicine berlin COL keyword VAL charite	COL name VAL charite COL keyword VAL charite	1
+COL name VAL ahepa university hospital COL keyword VAL ahepa hospital	COL name VAL ahepa hospital COL keyword VAL ahepa hospital	1
+COL name VAL carnegie mellon university COL keyword VAL carnegie	COL name VAL carnegie learning COL keyword VAL carnegie	0
+COL name VAL savannah technical college COL keyword VAL savannah	COL name VAL savannah tech COL keyword VAL savannah	1
+COL name VAL pomeranian medical university COL keyword VAL pomeranian university	COL name VAL west pomeranian university technology COL keyword VAL pomeranian university	0
+COL name VAL sejong university COL keyword VAL sejong university	COL name VAL korea university sejong campus COL keyword VAL university sejong	0
+COL name VAL kemerovo state university COL keyword VAL state university	COL name VAL abia state university COL keyword VAL state university	0
+COL name VAL carilion clinic COL keyword VAL carilion	COL name VAL carilion health system COL keyword VAL carilion	1
+COL name VAL setsunan university COL keyword VAL setsunan	COL name VAL setsunan daigaku COL keyword VAL setsunan	1
+COL name VAL damghan university COL keyword VAL damghan university	COL name VAL university damghan COL keyword VAL university damghan	1
+COL name VAL university kebangsaan malaysia medical centre COL keyword VAL medical centre	COL name VAL ukm medical centre COL keyword VAL medical centre	1
+COL name VAL james j. peters va medical center COL keyword VAL james j. peters	COL name VAL james j. peters vamc COL keyword VAL james j. peters	1
+COL name VAL colgate university COL keyword VAL colgate	COL name VAL colgate palmolive COL keyword VAL colgate	0
+COL name VAL red universitaria nacional COL keyword VAL red universitaria nacional	COL name VAL corporacion red universitaria nacional COL keyword VAL red universitaria nacional	1
+COL name VAL university hospital bern COL keyword VAL 	COL name VAL inselspital COL keyword VAL 	1
+COL name VAL chongqing medical university COL keyword VAL chongqing university	COL name VAL chongqing university COL keyword VAL chongqing university	0
+COL name VAL torrey pines institute molecular studies COL keyword VAL institute studies	COL name VAL institute fiscal studies COL keyword VAL institute studies	0
+COL name VAL health sciences nutrition COL keyword VAL sciences	COL name VAL csiro food nutritional sciences division COL keyword VAL sciences	1
+COL name VAL de la salle university COL keyword VAL de la salle	COL name VAL pamantasang de la salle COL keyword VAL de la salle	1
+COL name VAL coe college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL kent state university COL keyword VAL kent state	COL name VAL kent state COL keyword VAL kent state	1
+COL name VAL cold regions research engineering laboratory COL keyword VAL cold laboratory	COL name VAL cold spring harbor laboratory COL keyword VAL cold laboratory	0
+COL name VAL albany medical center hospital COL keyword VAL albany medical center	COL name VAL albany medical center COL keyword VAL albany medical center	1
+COL name VAL istanbul medeniyet university COL keyword VAL istanbul university	COL name VAL istanbul university COL keyword VAL istanbul university	0
+COL name VAL munchen klinik schwabing COL keyword VAL schwabing	COL name VAL klinikum schwabing COL keyword VAL schwabing	1
+COL name VAL university hospital west indies COL keyword VAL university hospital	COL name VAL university college hospital COL keyword VAL university hospital	1
+COL name VAL university verona COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL hospital geral de bonsucesso COL keyword VAL hospital de bonsucesso	COL name VAL hospital federal de bonsucesso COL keyword VAL hospital de bonsucesso	1
+COL name VAL university louisiana lafayette COL keyword VAL university louisiana	COL name VAL university louisiana monroe COL keyword VAL university louisiana	0
+COL name VAL luton dunstable hospital COL keyword VAL luton dunstable hospital	COL name VAL luton dunstable university hospital COL keyword VAL luton dunstable hospital	1
+COL name VAL merlin park university hospital COL keyword VAL merlin park hospital	COL name VAL merlin park regional hospital COL keyword VAL merlin park hospital	1
+COL name VAL university tuzla COL keyword VAL 	COL name VAL univerzitet u tuzli COL keyword VAL 	1
+COL name VAL guangdong medical college COL keyword VAL guangdong	COL name VAL guangdong pharmaceutical university COL keyword VAL guangdong	0
+COL name VAL ibaraki university COL keyword VAL ibaraki university	COL name VAL ibaraki christian university COL keyword VAL ibaraki university	0
+COL name VAL albert einstein college medicine COL keyword VAL albert einstein	COL name VAL albert einstein institution COL keyword VAL albert einstein	0
+COL name VAL trinity college dublin COL keyword VAL trinity college dublin	COL name VAL college holy undivided trinity queen elizabeth near dublin COL keyword VAL college trinity dublin	1
+COL name VAL qingdao university technology COL keyword VAL qingdao university	COL name VAL qingdao technological university COL keyword VAL qingdao university	1
+COL name VAL daiichi sankyo (japan) COL keyword VAL daiichi sankyo	COL name VAL daiichi sankyo kabushiki kaisha COL keyword VAL daiichi sankyo	1
+COL name VAL tri service general hospital songshan branch COL keyword VAL general hospital	COL name VAL 801 army general hospital COL keyword VAL general hospital	1
+COL name VAL university fribourg COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL odessa national polytechnic university COL keyword VAL odessa national university	COL name VAL odessa national maritime university COL keyword VAL odessa national university	0
+COL name VAL university west florida COL keyword VAL university florida	COL name VAL university florida COL keyword VAL university florida	0
+COL name VAL sheffield hallam university COL keyword VAL sheffield university	COL name VAL university sheffield COL keyword VAL university sheffield	0
+COL name VAL semmelweis university COL keyword VAL semmelweis	COL name VAL semmelweis egyetem COL keyword VAL semmelweis	1
+COL name VAL bg university hospital bergmannsheil bochum COL keyword VAL bergmannsheil bochum	COL name VAL berufsgenossenschaftliches universitatsklinikum bergmannsheil bochum COL keyword VAL bergmannsheil bochum	1
+COL name VAL jeonbuk national university COL keyword VAL national university	COL name VAL chonbuk national university COL keyword VAL national university	1
+COL name VAL changhai hospital COL keyword VAL hospital	COL name VAL second military medical university first hospital COL keyword VAL hospital	1
+COL name VAL academia nacional superior de orquestra COL keyword VAL superior	COL name VAL national superior orchestra academy COL keyword VAL superior	1
+COL name VAL centre hospitalier universitaire de yopougon COL keyword VAL yopougon	COL name VAL chu yopougon COL keyword VAL yopougon	1
+COL name VAL university santo tomas COL keyword VAL university santo tomas	COL name VAL pontifical royal university santo tomas COL keyword VAL university santo tomas	1
+COL name VAL missouri university science technology COL keyword VAL missouri	COL name VAL missouri s&t COL keyword VAL missouri	1
+COL name VAL integral university COL keyword VAL integral	COL name VAL california institute integral studies COL keyword VAL integral	0
+COL name VAL university deusto COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL st. vincent charity hospital COL keyword VAL st. vincent charity	COL name VAL st. vincent charity medical center COL keyword VAL st. vincent charity	1
+COL name VAL university british columbia COL keyword VAL university british columbia	COL name VAL university northern british columbia COL keyword VAL university british columbia	0
+COL name VAL fort valley state university COL keyword VAL fort state university	COL name VAL fort hays state university COL keyword VAL fort state university	0
+COL name VAL st. louis va medical center COL keyword VAL st. louis	COL name VAL st. louis vamc COL keyword VAL st. louis	1
+COL name VAL gynuity health projects COL keyword VAL gynuity	COL name VAL gynuity COL keyword VAL gynuity	1
+COL name VAL hospital universitario de san vicente fundacion COL keyword VAL hospital universitario de san vicente	COL name VAL hospital universitario san vicente de paul COL keyword VAL hospital universitario san vicente de	1
+COL name VAL escola superior de saude norte da cruz vermelha portuguesa COL keyword VAL norte	COL name VAL ess norte cvp COL keyword VAL norte	1
+COL name VAL mersin university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university gastronomic sciences COL keyword VAL university sciences	COL name VAL university sciences COL keyword VAL university sciences	0
+COL name VAL ganga hospital COL keyword VAL ganga	COL name VAL ganga medical centre & hospitals COL keyword VAL ganga	1
+COL name VAL university colorado colorado springs COL keyword VAL university colorado colorado springs	COL name VAL university school colorado springs COL keyword VAL university colorado springs	0
+COL name VAL nizhny novgorod state technical university COL keyword VAL nizhny novgorod state	COL name VAL nizhny novgorod state medical academy COL keyword VAL nizhny novgorod state	0
+COL name VAL shenyang normal university COL keyword VAL shenyang university	COL name VAL shenyang university COL keyword VAL shenyang university	0
+COL name VAL whitworth university COL keyword VAL whitworth	COL name VAL whitworth college COL keyword VAL whitworth	1
+COL name VAL czech university life sciences prague COL keyword VAL czech university prague	COL name VAL czech university agriculture prague COL keyword VAL czech university prague	1
+COL name VAL mcmurry university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL national university ireland, galway COL keyword VAL university galway	COL name VAL university college, galway COL keyword VAL university galway	1
+COL name VAL chengdu university information technology COL keyword VAL chengdu university technology	COL name VAL chengdu university technology COL keyword VAL chengdu university technology	0
+COL name VAL general electric (canada) COL keyword VAL 	COL name VAL ge canada COL keyword VAL 	1
+COL name VAL kanazawa university COL keyword VAL kanazawa	COL name VAL kanazawa daigaku COL keyword VAL kanazawa	1
+COL name VAL bhavnagar university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL tohoku fukushi university COL keyword VAL tohoku fukushi	COL name VAL tohoku fukushi daigaku COL keyword VAL tohoku fukushi	1
+COL name VAL abdelmalek essaadi university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL oral roberts university COL keyword VAL roberts	COL name VAL roberts wesleyan college COL keyword VAL roberts	0
+COL name VAL university hyogo COL keyword VAL university hyogo	COL name VAL hyogo university COL keyword VAL hyogo university	0
+COL name VAL john jay college criminal justice COL keyword VAL criminal justice	COL name VAL texas department criminal justice COL keyword VAL criminal justice	0
+COL name VAL ospedaliero sirai COL keyword VAL sirai	COL name VAL ospedale sirai COL keyword VAL sirai	1
+COL name VAL pontifical catholic university argentina COL keyword VAL argentina	COL name VAL universidad catolica argentina COL keyword VAL argentina	1
+COL name VAL banner good samaritan medical center COL keyword VAL banner medical center	COL name VAL banner university medical center phoenix COL keyword VAL banner medical center	1
+COL name VAL interdisciplinary center herzliya COL keyword VAL herzliya	COL name VAL idc herzliya COL keyword VAL herzliya	1
+COL name VAL nantong university COL keyword VAL nantong university	COL name VAL nantong university affiliated tumor hospital COL keyword VAL nantong university	1
+COL name VAL sapporo national hospital COL keyword VAL national hospital	COL name VAL national hospital organization hokkaido cancer center COL keyword VAL national hospital	1
+COL name VAL michigan technological university COL keyword VAL michigan	COL name VAL michigan tech COL keyword VAL michigan	1
+COL name VAL pacific lutheran university COL keyword VAL pacific lutheran	COL name VAL pacific lutheran theological seminary COL keyword VAL pacific lutheran	0
+COL name VAL newark beth israel medical center COL keyword VAL newark beth israel	COL name VAL newark beth israel hospital COL keyword VAL newark beth israel	1
+COL name VAL casa colina centers rehabilitation COL keyword VAL casa colina centers	COL name VAL casa colina hospital centers healthcare COL keyword VAL casa colina centers	1
+COL name VAL shri bm patil medical college COL keyword VAL shri patil medical	COL name VAL shri b m patil medical college, hospital & research centre COL keyword VAL shri patil medical	1
+COL name VAL national mining university ukraine COL keyword VAL national ukraine	COL name VAL national bank ukraine COL keyword VAL national ukraine	0
+COL name VAL semiconductor research corporation COL keyword VAL semiconductor corporation	COL name VAL semiconductor manufacturing international corporation COL keyword VAL semiconductor corporation	0
+COL name VAL university manchester COL keyword VAL university manchester	COL name VAL manchester university COL keyword VAL manchester university	0
+COL name VAL walter reed national military medical center COL keyword VAL national medical center	COL name VAL national naval medical center COL keyword VAL national medical center	1
+COL name VAL university santo tomas hospital COL keyword VAL hospital	COL name VAL ust hospital COL keyword VAL hospital	1
+COL name VAL university connecticut COL keyword VAL university connecticut	COL name VAL university connecticut health center COL keyword VAL university connecticut	0
+COL name VAL chia nan university pharmacy science COL keyword VAL chia university	COL name VAL feng chia university COL keyword VAL chia university	0
+COL name VAL catholic university daegu COL keyword VAL university daegu	COL name VAL daegu university COL keyword VAL daegu university	0
+COL name VAL diana princess wales hospital COL keyword VAL hospital	COL name VAL scartho road hospital COL keyword VAL hospital	1
+COL name VAL german institute economic research COL keyword VAL institute economic research	COL name VAL halle institute economic research COL keyword VAL institute economic research	0
+COL name VAL mahatma phule krishi vidyapeeth COL keyword VAL krishi vidyapeeth	COL name VAL dr. panjabrao deshmukh krishi vidyapeeth COL keyword VAL krishi vidyapeeth	0
+COL name VAL king edward memorial hospital COL keyword VAL king edward memorial hospital	COL name VAL king edward memorial hospital women COL keyword VAL king edward memorial hospital	1
+COL name VAL penn presbyterian medical center COL keyword VAL 	COL name VAL presby COL keyword VAL 	1
+COL name VAL hospital muniz COL keyword VAL hospital muniz	COL name VAL infectious diseases hospital francisco javier muniz COL keyword VAL hospital muniz	1
+COL name VAL ball state university COL keyword VAL ball	COL name VAL ball corporation COL keyword VAL ball	0
+COL name VAL university buea COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL matsuyama university COL keyword VAL matsuyama	COL name VAL matsuyama daigaku COL keyword VAL matsuyama	1
+COL name VAL kagoshima university COL keyword VAL kagoshima university	COL name VAL international university kagoshima COL keyword VAL university kagoshima	0
+COL name VAL gakushuin university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL cardiff metropolitan university COL keyword VAL cardiff university	COL name VAL cardiff university COL keyword VAL cardiff university	0
+COL name VAL canadian natural resources COL keyword VAL canadian natural	COL name VAL canadian natural COL keyword VAL canadian natural	1
+COL name VAL bashkir state university COL keyword VAL state university	COL name VAL abia state university COL keyword VAL state university	0
+COL name VAL national polytechnic university armenia COL keyword VAL polytechnic	COL name VAL karl marx institute polytechnic COL keyword VAL polytechnic	1
+COL name VAL concordia university COL keyword VAL concordia	COL name VAL concordia COL keyword VAL concordia	1
+COL name VAL jaipur national university COL keyword VAL jaipur university	COL name VAL manipal university jaipur COL keyword VAL university jaipur	0
+COL name VAL university medical center el paso COL keyword VAL el paso	COL name VAL el paso corp. COL keyword VAL el paso	0
+COL name VAL pontificia universidade catolica de sao paulo COL keyword VAL 	COL name VAL catholic university COL keyword VAL 	1
+COL name VAL university montevallo COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL university haifa COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL brockenhurst college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL ural federal university COL keyword VAL ural federal university	COL name VAL ural federal university named after first president russia b. n. yeltsin COL keyword VAL ural federal university	1
+COL name VAL dumlupinar university COL keyword VAL university	COL name VAL kutahya dumlupınar university COL keyword VAL university	1
+COL name VAL university avignon COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL dr. ram manohar lohia avadh university COL keyword VAL avadh university	COL name VAL avadh university COL keyword VAL avadh university	1
+COL name VAL georgian technical university COL keyword VAL georgian university	COL name VAL georgian court university COL keyword VAL georgian university	0
+COL name VAL michigan medicine COL keyword VAL michigan	COL name VAL university michigan health system COL keyword VAL michigan	1
+COL name VAL missouri western state university COL keyword VAL missouri state university	COL name VAL missouri state university COL keyword VAL missouri state university	0
+COL name VAL hiroshima general hospital COL keyword VAL hiroshima general hospital	COL name VAL ja hiroshima general hospital COL keyword VAL hiroshima general hospital	1
+COL name VAL alma college COL keyword VAL college	COL name VAL college d'alma COL keyword VAL college	0
+COL name VAL central state university COL keyword VAL central state university	COL name VAL central connecticut state university COL keyword VAL central state university	0
+COL name VAL guangxi university COL keyword VAL guangxi university	COL name VAL guangxi normal university COL keyword VAL guangxi university	0
+COL name VAL oregon institute technology COL keyword VAL oregon institute	COL name VAL oregon research institute COL keyword VAL oregon institute	0
+COL name VAL worcester state university COL keyword VAL worcester university	COL name VAL university worcester COL keyword VAL university worcester	0
+COL name VAL john carroll university COL keyword VAL carroll university	COL name VAL carroll university COL keyword VAL carroll university	0
+COL name VAL mustansiriyah university COL keyword VAL university	COL name VAL al mustansiriya university COL keyword VAL university	1
+COL name VAL hasselt university COL keyword VAL 	COL name VAL uhasselt COL keyword VAL 	1
+COL name VAL gentofte hospital COL keyword VAL hospital	COL name VAL union hospital COL keyword VAL hospital	0
+COL name VAL necmettin erbakan university COL keyword VAL 	COL name VAL konya universitesi COL keyword VAL 	1
+COL name VAL vanderbilt university COL keyword VAL vanderbilt university	COL name VAL vanderbilt university medical center COL keyword VAL vanderbilt university	0
+COL name VAL five colleges COL keyword VAL five	COL name VAL five college consortium COL keyword VAL five	1
+COL name VAL ahepa university hospital COL keyword VAL university hospital	COL name VAL uppsala university hospital COL keyword VAL university hospital	0
+COL name VAL university applied sciences kufstein COL keyword VAL university applied sciences	COL name VAL cologne university applied sciences COL keyword VAL university applied sciences	0
+COL name VAL baku state university COL keyword VAL 	COL name VAL bakı dovlət universiteti COL keyword VAL 	1
+COL name VAL pontificial catholic university valparaiso COL keyword VAL valparaiso	COL name VAL universidad catolica de valparaiso COL keyword VAL valparaiso	1
+COL name VAL birzeit university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL augsburg university COL keyword VAL augsburg	COL name VAL augsburg seminary COL keyword VAL augsburg	1
+COL name VAL syracuse university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university geneva COL keyword VAL university geneva	COL name VAL webster university geneva COL keyword VAL university geneva	0
+COL name VAL gonzaga university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL wonkwang university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL bard college COL keyword VAL college	COL name VAL st. stephen's college COL keyword VAL college	1
+COL name VAL cardinal glennon children’s medical center COL keyword VAL cardinal glennon children’s	COL name VAL ssm health cardinal glennon children’s hospital COL keyword VAL cardinal glennon children’s	1
+COL name VAL sait polytechnic COL keyword VAL polytechnic	COL name VAL temasek polytechnic COL keyword VAL polytechnic	0
+COL name VAL sacred heart medical center COL keyword VAL sacred heart medical center	COL name VAL peacehealth sacred heart medical center university district COL keyword VAL sacred heart medical center	1
+COL name VAL university central missouri COL keyword VAL university central missouri	COL name VAL central missouri state university COL keyword VAL central missouri university	1
+COL name VAL norwegian university science technology COL keyword VAL university science technology	COL name VAL university science technology COL keyword VAL university science technology	0
+COL name VAL university colorado hospital COL keyword VAL colorado hospital	COL name VAL colorado general hospital COL keyword VAL colorado hospital	1
+COL name VAL riverside methodist hospital COL keyword VAL hospital	COL name VAL protestant hospital COL keyword VAL hospital	1
+COL name VAL aichi gakuin university COL keyword VAL aichi gakuin	COL name VAL aichi gakuin daigaku COL keyword VAL aichi gakuin	1
+COL name VAL university massachusetts boston COL keyword VAL university boston	COL name VAL boston university COL keyword VAL boston university	0
+COL name VAL bangladesh university engineering technology COL keyword VAL university engineering technology	COL name VAL university engineering technology COL keyword VAL university engineering technology	0
+COL name VAL university perpignan COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL munchen klinik bogenhausen COL keyword VAL bogenhausen	COL name VAL klinikum bogenhausen COL keyword VAL bogenhausen	1
+COL name VAL energias de portugal (portugal) COL keyword VAL de portugal	COL name VAL electricidade de portugal COL keyword VAL de portugal	1
+COL name VAL university scranton COL keyword VAL scranton	COL name VAL penn state worthington scranton COL keyword VAL scranton	0
+COL name VAL uzhhorod national university COL keyword VAL national university	COL name VAL national taiwan university COL keyword VAL national university	0
+COL name VAL southern connecticut state university COL keyword VAL connecticut state university	COL name VAL central connecticut state university COL keyword VAL connecticut state university	0
+COL name VAL austral university chile COL keyword VAL university chile	COL name VAL university chile COL keyword VAL university chile	0
+COL name VAL widener university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL medical university pleven COL keyword VAL pleven	COL name VAL meditsinski universitet — pleven COL keyword VAL pleven	1
+COL name VAL brooklyn hospital center COL keyword VAL brooklyn hospital	COL name VAL brooklyn city hospital COL keyword VAL brooklyn hospital	1
+COL name VAL ekiti state university COL keyword VAL university	COL name VAL obafemi awolowo university COL keyword VAL university	1
+COL name VAL centre addiction mental health COL keyword VAL centre mental health	COL name VAL centre mental health COL keyword VAL centre mental health	0
+COL name VAL university perugia COL keyword VAL university perugia	COL name VAL university foreigners perugia COL keyword VAL university perugia	0
+COL name VAL bemidji state university COL keyword VAL state university	COL name VAL abia state university COL keyword VAL state university	0
+COL name VAL karolinska university hospital COL keyword VAL karolinska	COL name VAL karolinska institutet COL keyword VAL karolinska	0
+COL name VAL st andrew's hospital COL keyword VAL st andrew's	COL name VAL st andrew's healthcare COL keyword VAL st andrew's	1
+COL name VAL indiana state department education COL keyword VAL indiana department education	COL name VAL indiana department education COL keyword VAL indiana department education	1
+COL name VAL boise state university COL keyword VAL boise	COL name VAL boise cascade COL keyword VAL boise	0
+COL name VAL florida gulf coast university COL keyword VAL gulf coast	COL name VAL gulf coast state college COL keyword VAL gulf coast	0
+COL name VAL university wisconsin–extension COL keyword VAL 	COL name VAL uw–extension COL keyword VAL 	1
+COL name VAL california state university, stanislaus COL keyword VAL state stanislaus	COL name VAL cal state stanislaus COL keyword VAL state stanislaus	1
+COL name VAL kalamazoo college COL keyword VAL kalamazoo college	COL name VAL kalamazoo valley community college COL keyword VAL kalamazoo college	0
+COL name VAL beijing chest hospital COL keyword VAL beijing hospital	COL name VAL beijing thoracic tumor tuberculosis hospital COL keyword VAL beijing hospital	1
+COL name VAL kawasaki medical school COL keyword VAL kawasaki	COL name VAL kawasaki ika daigaku COL keyword VAL kawasaki	1
+COL name VAL portuguese naval school COL keyword VAL portuguese	COL name VAL portuguese brazilian midshipmen academies separation COL keyword VAL portuguese	1
+COL name VAL northwestern state university COL keyword VAL northwestern state university	COL name VAL northwestern oklahoma state university COL keyword VAL northwestern state university	0
+COL name VAL university south carolina aiken COL keyword VAL aiken	COL name VAL usc aiken COL keyword VAL aiken	1
+COL name VAL norwegian institute marine research COL keyword VAL institute marine research	COL name VAL institute marine research COL keyword VAL institute marine research	1
+COL name VAL caribbean university COL keyword VAL caribbean	COL name VAL caribbean junior college COL keyword VAL caribbean	1
+COL name VAL florida institute technology COL keyword VAL florida institute	COL name VAL florida institute oceanography COL keyword VAL florida institute	0
+COL name VAL japanese red cross nagoya daiichi hospital COL keyword VAL japanese red cross nagoya hospital	COL name VAL japanese red cross society aichi branch nagoya hospital COL keyword VAL japanese red cross nagoya hospital	1
+COL name VAL coastal carolina university COL keyword VAL coastal carolina	COL name VAL coastal carolina community college COL keyword VAL coastal carolina	0
+COL name VAL brac university COL keyword VAL brac	COL name VAL brac COL keyword VAL brac	0
+COL name VAL chung hwa university medical technology COL keyword VAL chung university medical	COL name VAL chung shan medical university COL keyword VAL chung medical university	0
+COL name VAL joseph fourier university COL keyword VAL 	COL name VAL universite grenoble i COL keyword VAL 	1
+COL name VAL archbold biological station COL keyword VAL biological station	COL name VAL university marine biological station millport COL keyword VAL biological station	0
+COL name VAL university south carolina beaufort COL keyword VAL university south carolina	COL name VAL university south carolina COL keyword VAL university south carolina	0
+COL name VAL utrecht university COL keyword VAL utrecht university	COL name VAL university college utrecht COL keyword VAL university utrecht	0
+COL name VAL universidad publica de navarra COL keyword VAL 	COL name VAL public university navarre COL keyword VAL 	1
+COL name VAL washington state university COL keyword VAL washington state university	COL name VAL washington state university vancouver COL keyword VAL washington state university	0
+COL name VAL sangmyung university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL jersey city medical center COL keyword VAL jersey city	COL name VAL jersey city hospital COL keyword VAL jersey city	1
+COL name VAL karolinska institute COL keyword VAL institute	COL name VAL royal caroline institute COL keyword VAL institute	1
+COL name VAL university hyderabad COL keyword VAL hyderabad	COL name VAL state bank hyderabad COL keyword VAL hyderabad	0
+COL name VAL king's college hospital COL keyword VAL king's	COL name VAL king's COL keyword VAL king's	1
+COL name VAL national university malaysia COL keyword VAL malaysia	COL name VAL universiti kebangsaan malaysia COL keyword VAL malaysia	1
+COL name VAL university ostrava COL keyword VAL 	COL name VAL ostravska univerzita v ostrave COL keyword VAL 	1
+COL name VAL oklahoma city va medical center COL keyword VAL oklahoma city	COL name VAL oklahoma city vahcs COL keyword VAL oklahoma city	1
+COL name VAL iwate university COL keyword VAL iwate university	COL name VAL iwate medical university COL keyword VAL iwate university	0
+COL name VAL university alabama COL keyword VAL university alabama	COL name VAL alabama state university COL keyword VAL alabama university	0
+COL name VAL national institute standards technology COL keyword VAL national institute standards	COL name VAL american national standards institute COL keyword VAL national standards institute	0
+COL name VAL kunming medical university COL keyword VAL kunming university	COL name VAL kunming university COL keyword VAL kunming university	0
+COL name VAL bronson methodist hospital COL keyword VAL hospital	COL name VAL kalamazoo hospital COL keyword VAL hospital	1
+COL name VAL joslin diabetes center COL keyword VAL diabetes center	COL name VAL steno diabetes center COL keyword VAL diabetes center	0
+COL name VAL kookmin university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university southern brittany COL keyword VAL university brittany	COL name VAL university western brittany COL keyword VAL university brittany	0
+COL name VAL gaston memorial hospital COL keyword VAL gaston memorial hospital	COL name VAL gaston memorial hospital COL keyword VAL gaston memorial hospital	1
+COL name VAL fatih university COL keyword VAL fatih	COL name VAL fatih universitesi COL keyword VAL fatih	1
+COL name VAL university dhaka COL keyword VAL university dhaka	COL name VAL dhaka international university COL keyword VAL dhaka university	0
+COL name VAL amasya university COL keyword VAL amasya	COL name VAL amasya universitesi COL keyword VAL amasya	1
+COL name VAL mercer university health sciences center COL keyword VAL mercer university	COL name VAL mercer university COL keyword VAL mercer university	1
+COL name VAL university namibia COL keyword VAL namibia	COL name VAL bank namibia COL keyword VAL namibia	0
+COL name VAL shimada municipal hospital COL keyword VAL shimada hospital	COL name VAL shimada city hospital COL keyword VAL shimada hospital	1
+COL name VAL ion ionescu de la brad university agricultural sciences veterinary medicine iasi COL keyword VAL ionescu de la brad	COL name VAL universitatea de stiinte agricole si medicina veterinara „ion ionescu de la brad COL keyword VAL de ionescu de la brad	1
+COL name VAL scripps research institute COL keyword VAL scripps	COL name VAL scripps college COL keyword VAL scripps	0
+COL name VAL georgian court university COL keyword VAL georgian university	COL name VAL georgian technical university COL keyword VAL georgian university	0
+COL name VAL nicholls state university COL keyword VAL nicholls state	COL name VAL francis t. nicholls state college COL keyword VAL nicholls state	1
+COL name VAL tallaght hospital COL keyword VAL hospital	COL name VAL adelaide meath hospital, dublin, incorporating national children's hospital COL keyword VAL hospital	1
+COL name VAL mugla university COL keyword VAL mugla university	COL name VAL mugla sıtkı kocman university COL keyword VAL mugla university	1
+COL name VAL german university cairo COL keyword VAL university cairo	COL name VAL american university cairo COL keyword VAL university cairo	0
+COL name VAL abant izzet baysal university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL central police university COL keyword VAL central police	COL name VAL central institute correctional police COL keyword VAL central police	0
+COL name VAL lawrence berkeley national laboratory COL keyword VAL lawrence national laboratory	COL name VAL lawrence livermore national laboratory COL keyword VAL lawrence national laboratory	0
+COL name VAL pomona college COL keyword VAL pomona	COL name VAL california state polytechnic university, pomona COL keyword VAL pomona	0
+COL name VAL nicholls state university COL keyword VAL state university	COL name VAL abia state university COL keyword VAL state university	0
+COL name VAL federal university alagoas COL keyword VAL federal university	COL name VAL federal university bahia COL keyword VAL federal university	0
+COL name VAL grand canyon university COL keyword VAL grand university	COL name VAL grand view university COL keyword VAL grand university	0
+COL name VAL shimada municipal hospital COL keyword VAL shimada municipal	COL name VAL shimada municipal clinic COL keyword VAL shimada municipal	1
+COL name VAL rensselaer polytechnic institute COL keyword VAL polytechnic institute	COL name VAL macau polytechnic institute COL keyword VAL polytechnic institute	0
+COL name VAL tulane lakeside hospital COL keyword VAL tulane lakeside hospital	COL name VAL tulane lakeside hospital women children COL keyword VAL tulane lakeside hospital	1
+COL name VAL delft university technology COL keyword VAL delft	COL name VAL tu delft faculty architecture COL keyword VAL delft	0
+COL name VAL hawassa university COL keyword VAL university	COL name VAL debub university COL keyword VAL university	1
+COL name VAL aja university medical sciences COL keyword VAL university medical sciences	COL name VAL hamedan university medical sciences COL keyword VAL university medical sciences	0
+COL name VAL sanjay gandhi post graduate institute medical sciences COL keyword VAL gandhi institute medical sciences	COL name VAL mahatma gandhi institute medical sciences COL keyword VAL gandhi institute medical sciences	0
+COL name VAL burnley general teaching hospital COL keyword VAL hospital	COL name VAL primrose bank hospital COL keyword VAL hospital	1
+COL name VAL john f. kennedy medical center COL keyword VAL medical center	COL name VAL jfk medical center COL keyword VAL medical center	1
+COL name VAL southern illinois university carbondale COL keyword VAL carbondale	COL name VAL siu carbondale COL keyword VAL carbondale	1
+COL name VAL chonnam national university COL keyword VAL national university	COL name VAL national taiwan university COL keyword VAL national university	0
+COL name VAL york university COL keyword VAL york university	COL name VAL new york university COL keyword VAL york university	0
+COL name VAL teesside university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university kent COL keyword VAL university kent	COL name VAL kent state university COL keyword VAL kent university	0
+COL name VAL baker university COL keyword VAL baker	COL name VAL baker hughes COL keyword VAL baker	0
+COL name VAL udayana university COL keyword VAL udayana	COL name VAL universitas udayana COL keyword VAL udayana	1
+COL name VAL american society civil engineers COL keyword VAL american society engineers	COL name VAL american society plumbing engineers COL keyword VAL american society engineers	0
+COL name VAL emporia state university COL keyword VAL state university	COL name VAL abia state university COL keyword VAL state university	0
+COL name VAL university mazandaran COL keyword VAL university	COL name VAL reza shah kabir university COL keyword VAL university	1
+COL name VAL salford royal hospital COL keyword VAL hospital	COL name VAL hope hospital COL keyword VAL hospital	1
+COL name VAL autonomous university barcelona COL keyword VAL university barcelona	COL name VAL university barcelona COL keyword VAL university barcelona	0
+COL name VAL jawaharlal nehru technological university, kakinada COL keyword VAL kakinada	COL name VAL jntu kakinada COL keyword VAL kakinada	1
+COL name VAL hollins university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL national university northeast COL keyword VAL 	COL name VAL universidad nacional del nordeste COL keyword VAL 	1
+COL name VAL kyoto prefectural university medicine COL keyword VAL kyoto prefectural university	COL name VAL kyoto prefectural university COL keyword VAL kyoto prefectural university	0
+COL name VAL southern oregon university COL keyword VAL oregon university	COL name VAL university oregon COL keyword VAL university oregon	0
+COL name VAL opole university COL keyword VAL opole university	COL name VAL opole university technology COL keyword VAL opole university	0
+COL name VAL ahi evran university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL izmir university economics COL keyword VAL izmir	COL name VAL izmir ekonomi universitesi COL keyword VAL izmir	1
+COL name VAL princess royal maternity hospital COL keyword VAL royal maternity hospital	COL name VAL glasgow royal maternity hospital COL keyword VAL royal maternity hospital	1
+COL name VAL ecole centrale paris COL keyword VAL ecole centrale	COL name VAL ecole centrale des arts et manufactures COL keyword VAL ecole centrale	1
+COL name VAL kansas wesleyan university COL keyword VAL wesleyan university	COL name VAL wesleyan university COL keyword VAL wesleyan university	0
+COL name VAL kurume university COL keyword VAL kurume	COL name VAL kurume institute technology COL keyword VAL kurume	0
+COL name VAL national bureau economic research COL keyword VAL bureau economic	COL name VAL bureau economic analysis COL keyword VAL bureau economic	0
+COL name VAL city university new york COL keyword VAL city university new york	COL name VAL york college, city university new york COL keyword VAL york city university new york	0
+COL name VAL new school COL keyword VAL new school	COL name VAL new school social research COL keyword VAL new school	1
+COL name VAL henry dunant hospital COL keyword VAL dunant hospital	COL name VAL errikos dunant hospital center COL keyword VAL dunant hospital	1
+COL name VAL memorial health university medical center COL keyword VAL memorial university medical center	COL name VAL memorial university medical center COL keyword VAL memorial university medical center	1
+COL name VAL tokushima bunri university COL keyword VAL tokushima bunri	COL name VAL tokushima bunri daigaku COL keyword VAL tokushima bunri	1
+COL name VAL singapore university technology design COL keyword VAL singapore technology	COL name VAL singapore institute technology COL keyword VAL singapore technology	0
+COL name VAL ambrose alli university COL keyword VAL university	COL name VAL bendel state university COL keyword VAL university	1
+COL name VAL ritsumeikan university COL keyword VAL ritsumeikan university	COL name VAL ritsumeikan asia pacific university COL keyword VAL ritsumeikan university	0
+COL name VAL letourneau university COL keyword VAL letourneau	COL name VAL letourneau technical institute COL keyword VAL letourneau	1
+COL name VAL state university new york college cortland COL keyword VAL cortland	COL name VAL suny cortland COL keyword VAL cortland	1
+COL name VAL peking university cancer hospital COL keyword VAL cancer hospital	COL name VAL beijing cancer hospital COL keyword VAL cancer hospital	1
+COL name VAL ohio state university wexner medical center COL keyword VAL ohio state university medical center	COL name VAL ohio state university medical center COL keyword VAL ohio state university medical center	1
+COL name VAL hong kong baptist university COL keyword VAL hong kong university	COL name VAL hong kong polytechnic university COL keyword VAL hong kong university	0
+COL name VAL national taiwan ocean university COL keyword VAL national taiwan	COL name VAL national taiwan college marine science technology COL keyword VAL national taiwan	1
+COL name VAL university windsor COL keyword VAL university windsor	COL name VAL assumption university windsor COL keyword VAL university windsor	1
+COL name VAL university houston COL keyword VAL university	COL name VAL university houston–downtown COL keyword VAL university	0
+COL name VAL bristol royal hospital children COL keyword VAL bristol royal hospital children	COL name VAL bristol royal hospital sick children COL keyword VAL bristol royal hospital children	1
+COL name VAL mount royal university COL keyword VAL mount royal	COL name VAL mount royal junior college COL keyword VAL mount royal	1
+COL name VAL st. francis hospital COL keyword VAL st. francis	COL name VAL franciscan st. francis health COL keyword VAL st. francis	1
+COL name VAL shahid beheshti university COL keyword VAL university	COL name VAL national university iran COL keyword VAL university	1
+COL name VAL georgia institute technology COL keyword VAL georgia institute technology	COL name VAL georgia institute technology college architecture COL keyword VAL georgia institute technology	0
+COL name VAL central taiwan university science technology COL keyword VAL taiwan university science technology	COL name VAL southern taiwan university science technology COL keyword VAL taiwan university science technology	0
+COL name VAL palacky university, olomouc COL keyword VAL 	COL name VAL univerzita palackeho v olomouci COL keyword VAL 	1
+COL name VAL nc department health human services COL keyword VAL department human	COL name VAL north carolina department human resources COL keyword VAL department human	1
+COL name VAL museum northern arizona COL keyword VAL northern arizona	COL name VAL northern arizona university COL keyword VAL northern arizona	0
+COL name VAL takatsuki red cross hospital COL keyword VAL 	COL name VAL takatsukisekijujibyoin COL keyword VAL 	1
+COL name VAL hokuriku university COL keyword VAL hokuriku	COL name VAL hokuriku daigaku COL keyword VAL hokuriku	1
+COL name VAL ospedale misericordia di grosseto COL keyword VAL ospedale misericordia grosseto	COL name VAL ospedale della misericordia grosseto COL keyword VAL ospedale misericordia grosseto	1
+COL name VAL suny upstate medical university COL keyword VAL upstate medical university	COL name VAL state university new york upstate medical university COL keyword VAL university upstate medical university	1
+COL name VAL university perpignan COL keyword VAL 	COL name VAL universitat de perpinya via domitia COL keyword VAL 	1
+COL name VAL yamaguchi university COL keyword VAL yamaguchi	COL name VAL yamaguchi daigaku COL keyword VAL yamaguchi	1
+COL name VAL american mathematical society COL keyword VAL mathematical society	COL name VAL calcutta mathematical society COL keyword VAL mathematical society	0
+COL name VAL national research university higher school economics COL keyword VAL school economics	COL name VAL warsaw school economics COL keyword VAL school economics	0
+COL name VAL beaujon hospital COL keyword VAL hospital	COL name VAL union hospital COL keyword VAL hospital	0
+COL name VAL university wisconsin–oshkosh COL keyword VAL university	COL name VAL university wisconsin–oshkosh–fox cities COL keyword VAL university	1
+COL name VAL legacy good samaritan medical center COL keyword VAL good	COL name VAL good sam COL keyword VAL good	1
+COL name VAL ministry economic affairs climate policy COL keyword VAL ministry economic affairs	COL name VAL ministry economic affairs COL keyword VAL ministry economic affairs	1
+COL name VAL altai state university COL keyword VAL altai state university	COL name VAL altai state technical university COL keyword VAL altai state university	0
+COL name VAL bucknell university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL mclean hospital COL keyword VAL hospital	COL name VAL union hospital COL keyword VAL hospital	0
+COL name VAL polytechnic university philippines COL keyword VAL university philippines	COL name VAL university philippines COL keyword VAL university philippines	0
+COL name VAL transport research laboratory (united kingdom) COL keyword VAL research laboratory	COL name VAL road research laboratory COL keyword VAL research laboratory	1
+COL name VAL university central oklahoma COL keyword VAL university oklahoma	COL name VAL university oklahoma COL keyword VAL university oklahoma	0
+COL name VAL university mississippi medical center COL keyword VAL university mississippi	COL name VAL university mississippi COL keyword VAL university mississippi	0
+COL name VAL istanbul bilim university COL keyword VAL istanbul bilim	COL name VAL istanbul bilim universitesi COL keyword VAL istanbul bilim	1
+COL name VAL ladoke akintola university technology teaching hospital COL keyword VAL teaching hospital	COL name VAL lautech teaching hospital COL keyword VAL teaching hospital	1
+COL name VAL heilongjiang center tuberculosis control prevention COL keyword VAL tuberculosis prevention	COL name VAL prevention treatment tuberculosis COL keyword VAL prevention tuberculosis	1
+COL name VAL university sharjah COL keyword VAL university sharjah	COL name VAL sharjah university COL keyword VAL sharjah university	1
+COL name VAL sam ratulangi university COL keyword VAL sam ratulangi	COL name VAL universitas sam ratulangi COL keyword VAL sam ratulangi	1
+COL name VAL hunter new england local health district COL keyword VAL health	COL name VAL hne health COL keyword VAL health	1
+COL name VAL eastern michigan university COL keyword VAL 	COL name VAL universidad del este COL keyword VAL 	0
+COL name VAL beth israel deaconess hospital COL keyword VAL hospital	COL name VAL jordan hospital COL keyword VAL hospital	1
+COL name VAL hunan agricultural university COL keyword VAL hunan university	COL name VAL hunan university COL keyword VAL hunan university	0
+COL name VAL abdou moumouni university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL donetsk state university management COL keyword VAL state university management	COL name VAL state university management COL keyword VAL state university management	0
+COL name VAL amasya university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL george mason university COL keyword VAL mason	COL name VAL legg mason COL keyword VAL mason	0
+COL name VAL eastern illinois university COL keyword VAL 	COL name VAL universidad del este COL keyword VAL 	0
+COL name VAL hiroshima bunkyo university COL keyword VAL hiroshima bunkyo	COL name VAL hiroshima bunkyo joshi daigaku COL keyword VAL hiroshima bunkyo	1
+COL name VAL ondokuz mayıs university COL keyword VAL ondokuz mayıs	COL name VAL ondokuz mayıs universitesi COL keyword VAL ondokuz mayıs	1
+COL name VAL cancer prevention institute california COL keyword VAL cancer california	COL name VAL northern california cancer center COL keyword VAL california cancer	1
+COL name VAL mahatma gandhi memorial medical college COL keyword VAL medical college	COL name VAL mgm medical college COL keyword VAL medical college	1
+COL name VAL university sheffield COL keyword VAL university sheffield	COL name VAL sheffield hallam university COL keyword VAL sheffield university	0
+COL name VAL university aizu COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL montana state university COL keyword VAL montana state university	COL name VAL montana state university billings COL keyword VAL montana state university	0
+COL name VAL university sussex COL keyword VAL sussex	COL name VAL sussex archaeological society COL keyword VAL sussex	0
+COL name VAL university crete COL keyword VAL university crete	COL name VAL technical university crete COL keyword VAL university crete	0
+COL name VAL shaanxi normal university COL keyword VAL university	COL name VAL shanxi teachers university COL keyword VAL university	1
+COL name VAL northern illinois university COL keyword VAL illinois	COL name VAL illinois bell COL keyword VAL illinois	0
+COL name VAL texas a&m university – corpus christi COL keyword VAL texas christi	COL name VAL texas a&m–corpus christi COL keyword VAL texas christi	1
+COL name VAL gheorghe asachi technical university iasi COL keyword VAL 	COL name VAL universitatea tehnica "gheorghe asachi" COL keyword VAL 	1
+COL name VAL kosin university gospel hospital COL keyword VAL gospel hospital	COL name VAL gospel hospital COL keyword VAL gospel hospital	1
+COL name VAL jerusalem mental health center COL keyword VAL mental health center	COL name VAL kfar shaul mental health center COL keyword VAL mental health center	1
+COL name VAL university victoria COL keyword VAL university	COL name VAL university houston–victoria COL keyword VAL university	0
+COL name VAL riyadh armed forces hospital COL keyword VAL riyadh hospital	COL name VAL riyadh military hospital COL keyword VAL riyadh hospital	1
+COL name VAL iuliu hatieganu university medicine pharmacy COL keyword VAL 	COL name VAL universitatea de medicina si farmacie "iuliu hatieganu" COL keyword VAL 	1
+COL name VAL university denver COL keyword VAL university denver	COL name VAL university colorado denver COL keyword VAL university denver	0
+COL name VAL ochanomizu university COL keyword VAL ochanomizu	COL name VAL ochanomizu joshi daigaku COL keyword VAL ochanomizu	1
+COL name VAL shujitsu university COL keyword VAL shujitsu	COL name VAL shujitsu junior college COL keyword VAL shujitsu	1
+COL name VAL keio university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL providence sacred heart medical center COL keyword VAL sacred heart medical center	COL name VAL sacred heart medical center COL keyword VAL sacred heart medical center	1
+COL name VAL guru gobind singh indraprastha university COL keyword VAL indraprastha university	COL name VAL indraprastha university COL keyword VAL indraprastha university	1
+COL name VAL rutherford appleton laboratory COL keyword VAL rutherford	COL name VAL rutherford college, kent COL keyword VAL rutherford	0
+COL name VAL bentley university COL keyword VAL bentley	COL name VAL bentley college COL keyword VAL bentley	1
+COL name VAL lanzhou university COL keyword VAL lanzhou university	COL name VAL lanzhou university technology COL keyword VAL lanzhou university	0
+COL name VAL university trier COL keyword VAL university trier	COL name VAL trier university applied sciences COL keyword VAL trier university	0
+COL name VAL daimler (germany) COL keyword VAL daimler	COL name VAL daimler benz COL keyword VAL daimler	1
+COL name VAL jesse brown va medical center COL keyword VAL va medical center	COL name VAL west side va medical center COL keyword VAL va medical center	1
+COL name VAL university freiburg COL keyword VAL university freiburg	COL name VAL albert ludwig university freiburg COL keyword VAL university freiburg	1
+COL name VAL ashworth college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL mokpo national university COL keyword VAL mokpo national university	COL name VAL mokpo national maritime university COL keyword VAL mokpo national university	0
+COL name VAL rhode island hospital COL keyword VAL rhode island	COL name VAL rhode island college COL keyword VAL rhode island	0
+COL name VAL plymouth state university COL keyword VAL plymouth state	COL name VAL plymouth state college COL keyword VAL plymouth state	1
+COL name VAL indian institute technology roorkee COL keyword VAL indian institute technology	COL name VAL indian institute technology patna COL keyword VAL indian institute technology	0
+COL name VAL azarbaijan shahid madani university COL keyword VAL azarbaijan university	COL name VAL azarbaijan university COL keyword VAL azarbaijan university	1
+COL name VAL monklands hospital COL keyword VAL monklands hospital	COL name VAL monklands district general hospital COL keyword VAL monklands hospital	1
+COL name VAL sendai nishitaga national hospital COL keyword VAL sendai nishitaga national hospital	COL name VAL national hospital organization sendai nishitaga hospital COL keyword VAL national hospital sendai nishitaga hospital	1
+COL name VAL san francisco state university COL keyword VAL san francisco state	COL name VAL san francisco state COL keyword VAL san francisco state	1
+COL name VAL brooklyn college COL keyword VAL brooklyn	COL name VAL brooklyn museum COL keyword VAL brooklyn	0
+COL name VAL bekes megyei kozponti korhaz COL keyword VAL bekes megyei korhaz	COL name VAL bekes megyei pandy kalman korhaz COL keyword VAL bekes megyei korhaz	1
+COL name VAL fukuyama university COL keyword VAL fukuyama university	COL name VAL fukuyama heisei university COL keyword VAL fukuyama university	0
+COL name VAL henan university COL keyword VAL henan university	COL name VAL henan agricultural university COL keyword VAL henan university	0
+COL name VAL new jersey institute technology COL keyword VAL new jersey	COL name VAL college new jersey COL keyword VAL new jersey	0
+COL name VAL maria curie skłodowska university COL keyword VAL curie	COL name VAL uniwersytet marii curie skłodowskiej COL keyword VAL curie	1
+COL name VAL university notre dame australia COL keyword VAL university notre dame	COL name VAL university notre dame COL keyword VAL university notre dame	0
+COL name VAL lebanon valley college COL keyword VAL valley college	COL name VAL missouri valley college COL keyword VAL valley college	0
+COL name VAL universite felix houphouet boigny COL keyword VAL 	COL name VAL university abidjan COL keyword VAL 	1
+COL name VAL hunter holmes mcguire va medical center COL keyword VAL va medical center	COL name VAL richmond va medical center COL keyword VAL va medical center	1
+COL name VAL university lorraine COL keyword VAL lorraine	COL name VAL georgia tech lorraine COL keyword VAL lorraine	0
+COL name VAL university wisconsin–madison COL keyword VAL 	COL name VAL uw–madison COL keyword VAL 	1
+COL name VAL chungnam national university COL keyword VAL national university	COL name VAL national taiwan university COL keyword VAL national university	0
+COL name VAL ospedale garibaldi COL keyword VAL garibaldi	COL name VAL azienda ospedaliera di rilievo nazionale e di alta specializzazione garibaldi COL keyword VAL garibaldi	1
+COL name VAL korea research institute bioscience biotechnology COL keyword VAL institute biotechnology	COL name VAL biotechnology institute COL keyword VAL biotechnology institute	0
+COL name VAL southern utah university COL keyword VAL utah university	COL name VAL utah state university COL keyword VAL utah university	0
+COL name VAL university texas dallas COL keyword VAL dallas	COL name VAL ut dallas COL keyword VAL dallas	1
+COL name VAL polytechnic institute coimbra COL keyword VAL coimbra	COL name VAL university coimbra COL keyword VAL coimbra	0
+COL name VAL amirkabir university technology COL keyword VAL university	COL name VAL university technology, sydney COL keyword VAL university	0
+COL name VAL canadian foundation healthcare improvement COL keyword VAL canadian foundation	COL name VAL canadian health services research foundation COL keyword VAL canadian foundation	1
+COL name VAL sweet briar college COL keyword VAL sweet briar	COL name VAL sweet briar institute COL keyword VAL sweet briar	1
+COL name VAL beihua university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL milpark hospital COL keyword VAL milpark hospital	COL name VAL netcare milpark hospital COL keyword VAL milpark hospital	1
+COL name VAL mita hospital COL keyword VAL mita hospital	COL name VAL iuhw mita hospital COL keyword VAL mita hospital	1
+COL name VAL university hospital heidelberg COL keyword VAL university heidelberg	COL name VAL heidelberg university COL keyword VAL heidelberg university	0
+COL name VAL padjadjaran university COL keyword VAL padjadjaran university	COL name VAL padjadjaran university COL keyword VAL padjadjaran university	1
+COL name VAL toho university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL sarah lawrence college COL keyword VAL sarah college	COL name VAL sarah tucker college COL keyword VAL sarah college	0
+COL name VAL meiji university COL keyword VAL meiji university	COL name VAL meiji gakuin university COL keyword VAL meiji university	0
+COL name VAL bond university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL bowling green state university COL keyword VAL green	COL name VAL leonard green & partners COL keyword VAL green	0
+COL name VAL erciyes university COL keyword VAL erciyes	COL name VAL erciyes universitesi COL keyword VAL erciyes	1
+COL name VAL ishinomaki senshu university COL keyword VAL senshu university	COL name VAL senshu university COL keyword VAL senshu university	0
+COL name VAL federal department economic affairs education research COL keyword VAL federal department economic affairs	COL name VAL federal department economic affairs COL keyword VAL federal department economic affairs	1
+COL name VAL temple street children's university hospital COL keyword VAL children's university hospital	COL name VAL children's university hospital COL keyword VAL children's university hospital	1
+COL name VAL istanbul medeniyet university COL keyword VAL istanbul medeniyet	COL name VAL istanbul medeniyet universitesi COL keyword VAL istanbul medeniyet	1
+COL name VAL mote marine laboratory COL keyword VAL marine laboratory	COL name VAL cape haze marine laboratory COL keyword VAL marine laboratory	1
+COL name VAL american geophysical union COL keyword VAL american union	COL name VAL american civil liberties union COL keyword VAL american union	0
+COL name VAL university nevada reno COL keyword VAL university nevada	COL name VAL university nevada COL keyword VAL university nevada	1
+COL name VAL shanghai jiao tong university COL keyword VAL shanghai university	COL name VAL shanghai communications university COL keyword VAL shanghai university	1
+COL name VAL bauman moscow state technical university COL keyword VAL bauman	COL name VAL bauman mstu COL keyword VAL bauman	1
+COL name VAL university otago COL keyword VAL otago	COL name VAL otago polytechnic COL keyword VAL otago	0
+COL name VAL ghent university hospital COL keyword VAL ghent university	COL name VAL ghent university COL keyword VAL ghent university	0
+COL name VAL harbin medical university COL keyword VAL harbin university	COL name VAL harbin university COL keyword VAL harbin university	0
+COL name VAL kazimierz wielki university bydgoszcz COL keyword VAL university	COL name VAL casimir great university COL keyword VAL university	1
+COL name VAL chaudhary charan singh university COL keyword VAL chaudhary charan singh university	COL name VAL chaudhary charan singh haryana agricultural university COL keyword VAL chaudhary charan singh university	0
+COL name VAL indiana university bloomington COL keyword VAL indiana university	COL name VAL indiana university COL keyword VAL indiana university	0
+COL name VAL university bergamo COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL ming chuan university COL keyword VAL ming university	COL name VAL national yang ming university COL keyword VAL ming university	0
+COL name VAL king edward medical university COL keyword VAL king edward medical	COL name VAL king edward medical college COL keyword VAL king edward medical	1
+COL name VAL nagoya university COL keyword VAL nagoya university	COL name VAL nagoya sangyo university COL keyword VAL nagoya university	0
+COL name VAL carol davila university medicine pharmacy COL keyword VAL university medicine pharmacy	COL name VAL university medicine pharmacy craiova COL keyword VAL university medicine pharmacy	0
+COL name VAL taipei medical university COL keyword VAL taipei medical	COL name VAL taipei medical college COL keyword VAL taipei medical	1
+COL name VAL national university health sciences COL keyword VAL university health sciences	COL name VAL hyogo university health sciences COL keyword VAL university health sciences	0
+COL name VAL university manchester COL keyword VAL university manchester	COL name VAL university manchester institute science technology COL keyword VAL university manchester	1
+COL name VAL houston baptist university COL keyword VAL university	COL name VAL university houston–downtown COL keyword VAL university	0
+COL name VAL cochin university science technology COL keyword VAL university science technology	COL name VAL university science technology COL keyword VAL university science technology	0
+COL name VAL sinclair community college COL keyword VAL sinclair college	COL name VAL sinclair college COL keyword VAL sinclair college	1
+COL name VAL fred hutchinson cancer research center COL keyword VAL 	COL name VAL hutch COL keyword VAL 	1
+COL name VAL northwestern health sciences university COL keyword VAL northwestern university	COL name VAL northwestern university COL keyword VAL northwestern university	0
+COL name VAL florida atlantic university COL keyword VAL atlantic university	COL name VAL atlantic university COL keyword VAL atlantic university	0
+COL name VAL american academy arts sciences COL keyword VAL academy arts sciences	COL name VAL croatian academy sciences arts COL keyword VAL academy sciences arts	0
+COL name VAL hokuyukai neurology hospital COL keyword VAL hospital	COL name VAL hokuyukaishinkei hospital COL keyword VAL hospital	1
+COL name VAL inje university seoul paik hospital COL keyword VAL inje university paik hospital	COL name VAL inje university paik hospital COL keyword VAL inje university paik hospital	1
+COL name VAL adelphi university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university punjab COL keyword VAL university punjab	COL name VAL punjab agricultural university COL keyword VAL punjab university	0
+COL name VAL kurume university COL keyword VAL kurume	COL name VAL kurume daigaku COL keyword VAL kurume	1
+COL name VAL south carolina state university COL keyword VAL south carolina state	COL name VAL south carolina state museum COL keyword VAL south carolina state	0
+COL name VAL russian university transport COL keyword VAL university	COL name VAL moscow state university railway engineering COL keyword VAL university	1
+COL name VAL innsbruck medical university COL keyword VAL innsbruck university	COL name VAL university innsbruck COL keyword VAL university innsbruck	0
+COL name VAL southern methodist university COL keyword VAL methodist university	COL name VAL methodist university COL keyword VAL methodist university	0
+COL name VAL uganda virus research institute COL keyword VAL virus research institute	COL name VAL east african virus research institute COL keyword VAL virus research institute	1
+COL name VAL university pittsburgh COL keyword VAL pittsburgh	COL name VAL pittsburgh supercomputing center COL keyword VAL pittsburgh	0
+COL name VAL giresun university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university illinois springfield COL keyword VAL university illinois	COL name VAL university illinois chicago COL keyword VAL university illinois	0
+COL name VAL johannes kepler university linz COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL university oslo COL keyword VAL university oslo	COL name VAL oslo university hospital COL keyword VAL oslo university	0
+COL name VAL martin luther king, jr. multi service ambulatory care center COL keyword VAL martin luther jr.	COL name VAL martin luther king jr. harbor hospital COL keyword VAL martin luther jr.	1
+COL name VAL nagasaki university COL keyword VAL nagasaki university	COL name VAL nagasaki international university COL keyword VAL nagasaki university	0
+COL name VAL kansai university COL keyword VAL kansai	COL name VAL kansai daigaku COL keyword VAL kansai	1
+COL name VAL university massachusetts system COL keyword VAL university massachusetts	COL name VAL university massachusetts dartmouth COL keyword VAL university massachusetts	0
+COL name VAL kalamazoo college COL keyword VAL college	COL name VAL k college COL keyword VAL college	1
+COL name VAL beijing sport university COL keyword VAL beijing university	COL name VAL beijing university physical education COL keyword VAL beijing university	1
+COL name VAL meiji pharmaceutical university COL keyword VAL meiji university	COL name VAL meiji university COL keyword VAL meiji university	0
+COL name VAL university buckingham COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL huaihua university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university yamanashi COL keyword VAL yamanashi	COL name VAL yamanashi daigaku COL keyword VAL yamanashi	1
+COL name VAL academy military medical sciences COL keyword VAL academy military medical	COL name VAL military medical academy COL keyword VAL military medical academy	0
+COL name VAL korea university science technology COL keyword VAL university science technology	COL name VAL university science technology COL keyword VAL university science technology	1
+COL name VAL presidency university COL keyword VAL presidency	COL name VAL presidency college COL keyword VAL presidency	1
+COL name VAL alzahra university hospital COL keyword VAL alzahra hospital	COL name VAL alzahra hospital COL keyword VAL alzahra hospital	1
+COL name VAL catholic university mozambique COL keyword VAL catholic university	COL name VAL catholic university portugal COL keyword VAL catholic university	0
+COL name VAL beijing youan hospital COL keyword VAL beijing youan hospital	COL name VAL youan hospital beijing COL keyword VAL youan hospital beijing	1
+COL name VAL maejo university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL sunnybrook health science centre COL keyword VAL sunnybrook	COL name VAL sunnybrook COL keyword VAL sunnybrook	1
+COL name VAL lynn university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL kunming university science technology COL keyword VAL university science technology	COL name VAL university science technology COL keyword VAL university science technology	0
+COL name VAL fondazione irccs ca' granda ospedale maggiore policlinico COL keyword VAL ca' granda	COL name VAL ca' granda COL keyword VAL ca' granda	1
+COL name VAL panteion university COL keyword VAL panteion university	COL name VAL panteion university social political sciences COL keyword VAL panteion university	1
+COL name VAL newyork–presbyterian brooklyn methodist hospital COL keyword VAL methodist hospital	COL name VAL new york methodist hospital COL keyword VAL methodist hospital	1
+COL name VAL shimane university COL keyword VAL shimane	COL name VAL shimane daigaku COL keyword VAL shimane	1
+COL name VAL nscad university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL kennedy krieger institute COL keyword VAL kennedy institute	COL name VAL kennedy institute ethics COL keyword VAL kennedy institute	0
+COL name VAL baqai medical university COL keyword VAL medical university	COL name VAL xinjiang medical university COL keyword VAL medical university	0
+COL name VAL king george's medical university COL keyword VAL medical university	COL name VAL chhatrapati shahuji maharaj medical university COL keyword VAL medical university	1
+COL name VAL st vincent hospital COL keyword VAL vincent hospital	COL name VAL st. vincent indianapolis hospital COL keyword VAL vincent hospital	1
+COL name VAL bard college COL keyword VAL bard college	COL name VAL bard college berlin COL keyword VAL bard college	0
+COL name VAL magellan health COL keyword VAL magellan health	COL name VAL magellan health services COL keyword VAL magellan health	1
+COL name VAL alexandru ioan cuza university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL masaryk university COL keyword VAL 	COL name VAL masarykova univerzita COL keyword VAL 	1
+COL name VAL fayoum university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL yeditepe university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL loras college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL portuguese military academy COL keyword VAL military academy	COL name VAL military academy COL keyword VAL military academy	0
+COL name VAL it university copenhagen COL keyword VAL it	COL name VAL it universitetet i københavn COL keyword VAL it	1
+COL name VAL university tubingen COL keyword VAL tubingen	COL name VAL eberhard karls university, tubingen COL keyword VAL tubingen	1
+COL name VAL louisville va medical center COL keyword VAL va medical center	COL name VAL robley rex va medical center COL keyword VAL va medical center	1
+COL name VAL government western australia department health COL keyword VAL department health	COL name VAL department health COL keyword VAL department health	1
+COL name VAL klinikum im friedrichshain COL keyword VAL friedrichshain	COL name VAL stadtische krankenhaus am friedrichshain COL keyword VAL friedrichshain	1
+COL name VAL united states air force academy COL keyword VAL air force academy	COL name VAL air force academy COL keyword VAL air force academy	1
+COL name VAL university texas el paso COL keyword VAL university texas	COL name VAL college mines metallurgy university texas COL keyword VAL university texas	1
+COL name VAL gastroenterology medical center hospital COL keyword VAL hospital	COL name VAL gem hospital COL keyword VAL hospital	1
+COL name VAL marist college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL university stuttgart COL keyword VAL university stuttgart	COL name VAL university applied sciences stuttgart COL keyword VAL university stuttgart	0
+COL name VAL linnaeus university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL california state university, bakersfield COL keyword VAL bakersfield	COL name VAL csu bakersfield COL keyword VAL bakersfield	1
+COL name VAL shanghai chest hospital COL keyword VAL shanghai chest hospital	COL name VAL shanghai red cross chest hospital COL keyword VAL shanghai chest hospital	1
+COL name VAL istanbul university COL keyword VAL istanbul university	COL name VAL istanbul medeniyet university COL keyword VAL istanbul university	0
+COL name VAL united states department interior COL keyword VAL united states department	COL name VAL united states department treasury COL keyword VAL united states department	0
+COL name VAL sarawak general hospital COL keyword VAL general hospital	COL name VAL kuching general hospital COL keyword VAL general hospital	1
+COL name VAL langston university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL miguel de cervantes european university COL keyword VAL miguel de	COL name VAL universidad miguel hernandez de elche COL keyword VAL miguel de	0
+COL name VAL university graz COL keyword VAL university graz	COL name VAL graz university technology COL keyword VAL graz university	0
+COL name VAL ewha womans university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL federal university rio grande do norte COL keyword VAL federal rio grande do	COL name VAL universidade federal do rio grande do sul COL keyword VAL federal do rio grande do	0
+COL name VAL hebei university COL keyword VAL hebei university	COL name VAL hebei polytechnic university COL keyword VAL hebei university	0
+COL name VAL franklin w. olin college engineering COL keyword VAL olin	COL name VAL olin COL keyword VAL olin	1
+COL name VAL university rostock COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL medical college hospital, kolkata COL keyword VAL medical college	COL name VAL calcutta medical college COL keyword VAL medical college	1
+COL name VAL antioch university COL keyword VAL antioch university	COL name VAL antioch university seattle COL keyword VAL antioch university	0
+COL name VAL russian academy sciences COL keyword VAL russian academy sciences	COL name VAL russian academy natural sciences COL keyword VAL russian academy sciences	0
+COL name VAL lanzhou jiaotong university COL keyword VAL lanzhou university	COL name VAL lanzhou railway university COL keyword VAL lanzhou university	1
+COL name VAL louisiana board regents COL keyword VAL board regents	COL name VAL tennessee board regents COL keyword VAL board regents	0
+COL name VAL hyogo university teacher education COL keyword VAL hyogo university	COL name VAL university hyogo COL keyword VAL university hyogo	0
+COL name VAL university texas southwestern medical center COL keyword VAL southwestern	COL name VAL ut southwestern COL keyword VAL southwestern	1
+COL name VAL klaipeda university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university south wales COL keyword VAL university south wales	COL name VAL university new south wales COL keyword VAL university south wales	0
+COL name VAL ministry health COL keyword VAL ministry health	COL name VAL ministry health prevention COL keyword VAL ministry health	1
+COL name VAL open university catalonia COL keyword VAL 	COL name VAL universitat oberta de catalunya COL keyword VAL 	1
+COL name VAL piedmont atlanta hospital COL keyword VAL piedmont hospital	COL name VAL piedmont hospital COL keyword VAL piedmont hospital	1
+COL name VAL binghamton university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL lexington va health care system COL keyword VAL lexington va	COL name VAL lexington va medical center COL keyword VAL lexington va	1
+COL name VAL catholic university sacred heart COL keyword VAL university sacred heart	COL name VAL sacred heart university COL keyword VAL sacred heart university	0
+COL name VAL voluntary health services hospital COL keyword VAL hospital	COL name VAL vhs hospital COL keyword VAL hospital	1
+COL name VAL tbilisi state university COL keyword VAL tbilisi state university	COL name VAL tbilisi state medical university COL keyword VAL tbilisi state university	0
+COL name VAL sichuan cancer hospital COL keyword VAL sichuan hospital	COL name VAL second people's hospital sichuan province COL keyword VAL hospital sichuan	1
+COL name VAL university sciences COL keyword VAL university sciences	COL name VAL university sciences philadelphia COL keyword VAL university sciences	1
+COL name VAL brock university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL geological survey denmark greenland COL keyword VAL geological survey	COL name VAL british geological survey COL keyword VAL geological survey	0
+COL name VAL stemcell technologies COL keyword VAL technologies	COL name VAL telcordia technologies COL keyword VAL technologies	0
+COL name VAL hyogo university health sciences COL keyword VAL hyogo university	COL name VAL university hyogo COL keyword VAL university hyogo	0
+COL name VAL swiss tropical public health institute COL keyword VAL swiss	COL name VAL swiss tph COL keyword VAL swiss	1
+COL name VAL brandeis university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL lebanon valley college COL keyword VAL lebanon valley	COL name VAL lebanon valley COL keyword VAL lebanon valley	1
+COL name VAL sawai mansingh medical college hospital COL keyword VAL medical college	COL name VAL sms medical college COL keyword VAL medical college	1
+COL name VAL sewickley valley hospital COL keyword VAL sewickley valley	COL name VAL heritage valley sewickley COL keyword VAL valley sewickley	1
+COL name VAL new york blood center COL keyword VAL new blood	COL name VAL new zealand blood service COL keyword VAL new blood	0
+COL name VAL mississippi university women COL keyword VAL university women	COL name VAL royal university women COL keyword VAL university women	0
+COL name VAL francois rabelais university COL keyword VAL university	COL name VAL university tours COL keyword VAL university	1
+COL name VAL bellevue hospital center COL keyword VAL bellevue	COL name VAL bellevue COL keyword VAL bellevue	1
+COL name VAL u.s. army center health promotion preventive medicine COL keyword VAL army center health	COL name VAL united states army public health center COL keyword VAL army health center	1
+COL name VAL cardiovascular institute hospital COL keyword VAL cardiovascular institute	COL name VAL cardiovascular research institute COL keyword VAL cardiovascular institute	1
+COL name VAL bilkent university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL chukyo university COL keyword VAL chukyo university	COL name VAL mie chukyo university COL keyword VAL chukyo university	0
+COL name VAL chiba institute technology COL keyword VAL chiba institute	COL name VAL chiba institute science COL keyword VAL chiba institute	0
+COL name VAL university illinois chicago COL keyword VAL university illinois	COL name VAL university illinois springfield COL keyword VAL university illinois	0
+COL name VAL saiseikai central hospital COL keyword VAL saiseikai central hospital	COL name VAL tokyo saiseikai central hospital COL keyword VAL saiseikai central hospital	1
+COL name VAL shore memorial hospital COL keyword VAL shore memorial hospital	COL name VAL shore memorial hospital COL keyword VAL shore memorial hospital	1
+COL name VAL university central arkansas COL keyword VAL university arkansas	COL name VAL university arkansas COL keyword VAL university arkansas	0
+COL name VAL manchester metropolitan university COL keyword VAL manchester university	COL name VAL manchester university COL keyword VAL manchester university	0
+COL name VAL tougaloo college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL met office COL keyword VAL office	COL name VAL meteorological office COL keyword VAL office	1
+COL name VAL islamia university bahawalpur COL keyword VAL islamia university	COL name VAL islamia university COL keyword VAL islamia university	1
+COL name VAL ohio wesleyan university COL keyword VAL wesleyan university	COL name VAL wesleyan university COL keyword VAL wesleyan university	0
+COL name VAL university new mexico COL keyword VAL mexico	COL name VAL universitatis novus mexico COL keyword VAL mexico	1
+COL name VAL university sousse COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL kyushu university COL keyword VAL kyushu university	COL name VAL kyushu kyoritsu university COL keyword VAL kyushu university	0
+COL name VAL los angeles county department health services COL keyword VAL los angeles county department health	COL name VAL los angeles county department mental health COL keyword VAL los angeles county department health	0
+COL name VAL salem va medical center COL keyword VAL salem	COL name VAL salem vamc COL keyword VAL salem	1
+COL name VAL coppin state university COL keyword VAL state university	COL name VAL abia state university COL keyword VAL state university	0
+COL name VAL kurchatov institute COL keyword VAL kurchatov institute	COL name VAL national research centre kurchatov institute COL keyword VAL kurchatov institute	1
+COL name VAL tianjin polytechnic university COL keyword VAL tianjin university	COL name VAL tianjin university COL keyword VAL tianjin university	0
+COL name VAL alaska pacific university COL keyword VAL pacific university	COL name VAL pacific university COL keyword VAL pacific university	0
+COL name VAL university peradeniya COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL centre hospitalier universitaire de saint pierre COL keyword VAL saint pierre	COL name VAL chu saint pierre COL keyword VAL saint pierre	1
+COL name VAL universitair ziekenhuis leuven COL keyword VAL leuven	COL name VAL uz leuven COL keyword VAL leuven	1
+COL name VAL bucknell university COL keyword VAL university	COL name VAL university lewisburg COL keyword VAL university	1
+COL name VAL university zaragoza COL keyword VAL university	COL name VAL saragossa university COL keyword VAL university	1
+COL name VAL nipissing university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL applied research communications fund COL keyword VAL fund	COL name VAL arc fund COL keyword VAL fund	1
+COL name VAL vietnam academy science technology COL keyword VAL academy science technology	COL name VAL vidya academy science technology COL keyword VAL academy science technology	0
+COL name VAL klinicka bolnica merkur COL keyword VAL merkur	COL name VAL kb merkur COL keyword VAL merkur	1
+COL name VAL university parma COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL northport va medical center COL keyword VAL northport	COL name VAL northport vamc COL keyword VAL northport	1
+COL name VAL kurihama medical addiction center COL keyword VAL kurihama medical addiction center	COL name VAL national hospital organization kurihama medical addiction center COL keyword VAL kurihama medical addiction center	1
+COL name VAL kings mill hospital COL keyword VAL mill	COL name VAL king's mill centre COL keyword VAL mill	1
+COL name VAL bayero university kano COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL metropolitan hospital center COL keyword VAL metropolitan hospital	COL name VAL metropolitan hospital COL keyword VAL metropolitan hospital	1
+COL name VAL baoji university arts sciences COL keyword VAL university arts sciences	COL name VAL nagoya university arts sciences COL keyword VAL university arts sciences	0
+COL name VAL shanghai ninth people's hospital COL keyword VAL hospital	COL name VAL bethel hospital COL keyword VAL hospital	1
+COL name VAL fukuyama cardiovascular hospital COL keyword VAL hospital	COL name VAL fukuyamajunkanki hospital COL keyword VAL hospital	1
+COL name VAL university science arts oklahoma COL keyword VAL university science arts	COL name VAL hunan university arts science COL keyword VAL university arts science	0
+COL name VAL university teramo COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL kokushikan university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL medstar national rehabilitation hospital COL keyword VAL medstar	COL name VAL medstar nrh COL keyword VAL medstar	1
+COL name VAL centre hospitalier universitaire d'angers COL keyword VAL 	COL name VAL chu angers COL keyword VAL 	1
+COL name VAL john hunter hospital COL keyword VAL john hunter	COL name VAL john hunter COL keyword VAL john hunter	1
+COL name VAL khon kaen university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL utah valley university COL keyword VAL utah valley	COL name VAL utah valley state college COL keyword VAL utah valley	1
+COL name VAL university turku COL keyword VAL 	COL name VAL abo universitet COL keyword VAL 	1
+COL name VAL university bath COL keyword VAL university bath	COL name VAL bath spa university COL keyword VAL bath university	0
+COL name VAL cary institute ecosystem studies COL keyword VAL institute ecosystem studies	COL name VAL institute ecosystem studies COL keyword VAL institute ecosystem studies	1
+COL name VAL shimane university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL chapman university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university agronomic sciences veterinary medicine bucharest COL keyword VAL university sciences veterinary medicine	COL name VAL banat university agricultural sciences veterinary medicine COL keyword VAL university sciences veterinary medicine	0
+COL name VAL john f. kennedy medical center COL keyword VAL medical center	COL name VAL jfk medical center COL keyword VAL medical center	1
+COL name VAL louisiana state university shreveport COL keyword VAL louisiana state university	COL name VAL louisiana state university COL keyword VAL louisiana state university	0
+COL name VAL university north carolina pembroke COL keyword VAL university north carolina	COL name VAL university north carolina wilmington COL keyword VAL university north carolina	0
+COL name VAL university north carolina greensboro COL keyword VAL university north carolina	COL name VAL university north carolina wilmington COL keyword VAL university north carolina	0
+COL name VAL puerto rico department health COL keyword VAL puerto rico department	COL name VAL puerto rico department agriculture COL keyword VAL puerto rico department	0
+COL name VAL university california davis medical center COL keyword VAL davis medical center	COL name VAL uc davis medical center COL keyword VAL davis medical center	1
+COL name VAL jeju national university COL keyword VAL jeju	COL name VAL korea international school jeju COL keyword VAL jeju	0
+COL name VAL trakia university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL shri bm patil medical college COL keyword VAL medical college	COL name VAL bldea medical college COL keyword VAL medical college	1
+COL name VAL new york hospital queens COL keyword VAL hospital	COL name VAL newyork–presbyterian hospital COL keyword VAL hospital	1
+COL name VAL federal teaching hospital abakaliki COL keyword VAL federal abakaliki	COL name VAL federal medical centre abakaliki COL keyword VAL federal abakaliki	1
+COL name VAL richard stockton college new jersey COL keyword VAL college new jersey	COL name VAL college new jersey COL keyword VAL college new jersey	0
+COL name VAL medical university lublin COL keyword VAL university lublin	COL name VAL lublin university technology COL keyword VAL lublin university	0
+COL name VAL jessop hospital COL keyword VAL jessop hospital	COL name VAL jessop hospital women COL keyword VAL jessop hospital	1
+COL name VAL agostino gemelli university polyclinic COL keyword VAL polyclinic	COL name VAL polyclinic COL keyword VAL polyclinic	0
+COL name VAL university massachusetts amherst COL keyword VAL university massachusetts	COL name VAL university massachusetts dartmouth COL keyword VAL university massachusetts	0
+COL name VAL teine keijinkai hospital COL keyword VAL hospital	COL name VAL teinekeijinkai hospital COL keyword VAL hospital	1
+COL name VAL buck institute research aging COL keyword VAL buck institute research	COL name VAL buck institute age research COL keyword VAL buck institute research	1
+COL name VAL american society microbiology COL keyword VAL american society	COL name VAL society american bacteriologists COL keyword VAL society american	1
+COL name VAL maastricht university medical centre COL keyword VAL maastricht	COL name VAL maastricht umc+ COL keyword VAL maastricht	1
+COL name VAL kunming university COL keyword VAL kunming university	COL name VAL kunming medical university COL keyword VAL kunming university	0
+COL name VAL kogakuin university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL kazan federal university COL keyword VAL kazan university	COL name VAL kazan state university COL keyword VAL kazan university	1
+COL name VAL weber state university COL keyword VAL weber	COL name VAL weber stake academy COL keyword VAL weber	1
+COL name VAL changi general hospital COL keyword VAL changi hospital	COL name VAL hospital besar changi COL keyword VAL hospital changi	1
+COL name VAL children's hospital wisconsin COL keyword VAL hospital	COL name VAL milwaukee children’s hospital COL keyword VAL hospital	1
+COL name VAL university fraser valley COL keyword VAL university fraser valley	COL name VAL university college fraser valley COL keyword VAL university fraser valley	1
+COL name VAL university findlay COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL university new mexico hospital COL keyword VAL university hospital	COL name VAL university hospital COL keyword VAL university hospital	1
+COL name VAL rappaport family institute research medical sciences COL keyword VAL rappaport institute	COL name VAL rappaport institute COL keyword VAL rappaport institute	1
+COL name VAL cumhuriyet university COL keyword VAL cumhuriyet	COL name VAL cumhuriyet universitesi COL keyword VAL cumhuriyet	1
+COL name VAL gwangju institute science technology COL keyword VAL institute science technology	COL name VAL kakatiya institute technology science COL keyword VAL institute technology science	0
+COL name VAL illinois institute technology COL keyword VAL illinois institute	COL name VAL illinois family institute COL keyword VAL illinois institute	0
+COL name VAL john h. stroger, jr. hospital cook county COL keyword VAL hospital cook county	COL name VAL cook county hospital COL keyword VAL cook county hospital	1
+COL name VAL tianjin huanhu hospital COL keyword VAL tianjin hospital	COL name VAL tianjin lake hospital COL keyword VAL tianjin hospital	1
+COL name VAL hunter holmes mcguire va medical center COL keyword VAL hunter holmes mcguire medical center	COL name VAL hunter holmes mcguire veterans administration medical center COL keyword VAL hunter holmes mcguire medical center	1
+COL name VAL pontifical catholic university puerto rico COL keyword VAL university puerto rico	COL name VAL university puerto rico COL keyword VAL university puerto rico	0
+COL name VAL university szeged COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL redeemer university college COL keyword VAL university	COL name VAL redeemer's university COL keyword VAL university	0
+COL name VAL dunedin public hospital COL keyword VAL dunedin hospital	COL name VAL dunedin hospital COL keyword VAL dunedin hospital	1
+COL name VAL university baltimore COL keyword VAL university baltimore	COL name VAL university maryland, baltimore COL keyword VAL university baltimore	0
+COL name VAL london south bank university COL keyword VAL south bank	COL name VAL south african reserve bank COL keyword VAL south bank	0
+COL name VAL centre hospitalier universitaire pointe a pitre COL keyword VAL pointe a pitre	COL name VAL chu de pointe a pitre COL keyword VAL pointe a pitre	1
+COL name VAL bristol royal hospital children COL keyword VAL bristol hospital	COL name VAL bristol children's hospital COL keyword VAL bristol hospital	1
+COL name VAL hospital san borja arriaran COL keyword VAL hospital san borja	COL name VAL hospital san francisco de borja COL keyword VAL hospital san borja	1
+COL name VAL university basrah COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL chung yuan christian university COL keyword VAL yuan university	COL name VAL yuan ze university COL keyword VAL yuan university	0
+COL name VAL bigelow laboratory ocean sciences COL keyword VAL laboratory sciences	COL name VAL space sciences laboratory COL keyword VAL sciences laboratory	0
+COL name VAL azienda ospedaliera s.giuseppe moscati COL keyword VAL 	COL name VAL a.o.s.g.moscati COL keyword VAL 	1
+COL name VAL universite d'abomey calavi COL keyword VAL universite	COL name VAL universite nationale du benin COL keyword VAL universite	1
+COL name VAL center tuberculosis control guangdong province COL keyword VAL tuberculosis control guangdong province	COL name VAL institute tuberculosis prevention control guangdong province COL keyword VAL tuberculosis control guangdong province	1
+COL name VAL military university technology warsaw COL keyword VAL university technology warsaw	COL name VAL warsaw university technology COL keyword VAL warsaw university technology	0
+COL name VAL eulji university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL jss dental college hospital COL keyword VAL dental college	COL name VAL jagadguru sri shivarathreeshwara dental college COL keyword VAL dental college	1
+COL name VAL bangalore university COL keyword VAL bangalore	COL name VAL vijaya college, bangalore COL keyword VAL bangalore	0
+COL name VAL university el salvador COL keyword VAL salvador	COL name VAL universidade salvador COL keyword VAL salvador	0
+COL name VAL abertay university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL nenagh hospital COL keyword VAL hospital	COL name VAL st. joseph's hospital COL keyword VAL hospital	1
+COL name VAL konan university COL keyword VAL konan university	COL name VAL konan women's university COL keyword VAL konan university	0
+COL name VAL rush university COL keyword VAL rush university	COL name VAL rush university medical center COL keyword VAL rush university	0
+COL name VAL seoul veterans hospital COL keyword VAL veterans hospital	COL name VAL central veterans hospital COL keyword VAL veterans hospital	1
+COL name VAL university wisconsin hospital clinics COL keyword VAL hospital clinics	COL name VAL uw hospital clinics COL keyword VAL hospital clinics	1
+COL name VAL hashemite university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL dr. babasaheb ambedkar marathwada university COL keyword VAL marathwada university	COL name VAL marathwada university COL keyword VAL marathwada university	1
+COL name VAL seattle university COL keyword VAL seattle	COL name VAL seattle u COL keyword VAL seattle	1
+COL name VAL national taiwan ocean university COL keyword VAL national taiwan university	COL name VAL national taiwan university COL keyword VAL national taiwan university	0
+COL name VAL king edward vii hospital COL keyword VAL king edward hospital	COL name VAL king edward vii's hospital officers COL keyword VAL king edward hospital	1
+COL name VAL university south florida COL keyword VAL university south florida	COL name VAL university south florida sarasota–manatee COL keyword VAL university south florida	0
+COL name VAL hunan normal university COL keyword VAL hunan normal university	COL name VAL hunan first normal university COL keyword VAL hunan normal university	0
+COL name VAL university south alabama COL keyword VAL university alabama	COL name VAL university alabama COL keyword VAL university alabama	0
+COL name VAL king juan carlos university COL keyword VAL carlos university	COL name VAL carlos albizu university COL keyword VAL carlos university	0
+COL name VAL shatin hospital COL keyword VAL shatin hospital	COL name VAL shatin infirmary convalescent hospital COL keyword VAL shatin hospital	1
+COL name VAL saint vincent's catholic medical center COL keyword VAL saint vincent's	COL name VAL saint vincent's COL keyword VAL saint vincent's	1
+COL name VAL university la laguna COL keyword VAL university la laguna	COL name VAL university san fernando de la laguna COL keyword VAL university la laguna	1
+COL name VAL cork university hospital COL keyword VAL cork hospital	COL name VAL cork regional hospital COL keyword VAL cork hospital	1
+COL name VAL state university new york new paltz COL keyword VAL new new paltz	COL name VAL suny new paltz COL keyword VAL new paltz	1
+COL name VAL rosalind franklin university medicine science COL keyword VAL franklin university	COL name VAL franklin university COL keyword VAL franklin university	0
+COL name VAL singapore general hospital COL keyword VAL general hospital	COL name VAL cheltenham general hospital COL keyword VAL general hospital	0
+COL name VAL kursk state medical university COL keyword VAL kursk state medical	COL name VAL kursk state medical institute COL keyword VAL kursk state medical	1
+COL name VAL national academy sciences belarus COL keyword VAL national academy sciences	COL name VAL national academy sciences COL keyword VAL national academy sciences	0
+COL name VAL kuban state medical university COL keyword VAL kuban state university	COL name VAL kuban state university COL keyword VAL kuban state university	0
+COL name VAL bambino gesu children's hospital COL keyword VAL bambino gesu hospital	COL name VAL bambino gesu hospital COL keyword VAL bambino gesu hospital	1
+COL name VAL american university cairo COL keyword VAL university cairo	COL name VAL german university cairo COL keyword VAL university cairo	0
+COL name VAL truckee meadows community college COL keyword VAL community college	COL name VAL laguardia community college COL keyword VAL community college	0
+COL name VAL mulago hospital COL keyword VAL mulago hospital	COL name VAL mulago national referral hospital COL keyword VAL mulago hospital	1
+COL name VAL kanagawa university COL keyword VAL kanagawa	COL name VAL kanagawa daigaku COL keyword VAL kanagawa	1
+COL name VAL staffordshire university COL keyword VAL staffordshire	COL name VAL north staffordshire polytechnic COL keyword VAL staffordshire	1
+COL name VAL alliant international university COL keyword VAL international university	COL name VAL united states international university COL keyword VAL international university	1
+COL name VAL arizona state university COL keyword VAL arizona university	COL name VAL university arizona COL keyword VAL university arizona	0
+COL name VAL federal university pernambuco COL keyword VAL federal pernambuco	COL name VAL universidade federal de pernambuco COL keyword VAL federal pernambuco	1
+COL name VAL baruch college COL keyword VAL baruch college	COL name VAL bernard m. baruch college city university new york COL keyword VAL baruch college	1
+COL name VAL argonne national laboratory COL keyword VAL national laboratory	COL name VAL national nuclear laboratory COL keyword VAL national laboratory	0
+COL name VAL west pomeranian university technology COL keyword VAL pomeranian university	COL name VAL pomeranian medical university COL keyword VAL pomeranian university	0
+COL name VAL pepperdine university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL catholic university health allied sciences COL keyword VAL university health sciences	COL name VAL bugando university college health sciences COL keyword VAL university health sciences	1
+COL name VAL tufts medical center COL keyword VAL tufts	COL name VAL tufts university COL keyword VAL tufts	0
+COL name VAL children's hospital central california COL keyword VAL children's hospital	COL name VAL valley children's hospital COL keyword VAL children's hospital	1
+COL name VAL hanoi medical university COL keyword VAL hanoi university	COL name VAL hanoi university COL keyword VAL hanoi university	0
+COL name VAL aksaray university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL chung hwa university medical technology COL keyword VAL medical technology	COL name VAL china junior college medical technology COL keyword VAL medical technology	1
+COL name VAL jacobi medical center COL keyword VAL center	COL name VAL bronx municipal hospital center COL keyword VAL center	1
+COL name VAL pouliadis associates corporation COL keyword VAL associates	COL name VAL zs associates COL keyword VAL associates	0
+COL name VAL st bartholomew's hospital COL keyword VAL st hospital	COL name VAL royal hospital st bartholomew COL keyword VAL hospital st	1
+COL name VAL university college london COL keyword VAL college london	COL name VAL imperial college london COL keyword VAL college london	0
+COL name VAL prince songkla university COL keyword VAL prince university	COL name VAL prince sultan university COL keyword VAL prince university	0
+COL name VAL national institute health sciences COL keyword VAL institute sciences	COL name VAL tokyo institute hygienic sciences COL keyword VAL institute sciences	1
+COL name VAL shanghai mental health center COL keyword VAL shanghai center	COL name VAL shanghai psychological consultative center COL keyword VAL shanghai center	1
+COL name VAL american institute physics COL keyword VAL institute physics	COL name VAL institute physics COL keyword VAL institute physics	0
+COL name VAL kurchatov institute COL keyword VAL institute	COL name VAL warburg institute COL keyword VAL institute	0
+COL name VAL mississippi university women COL keyword VAL mississippi women	COL name VAL mississippi state college women COL keyword VAL mississippi women	1
+COL name VAL hosei university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL haverford college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL brenau university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL ya'an polytechnic college COL keyword VAL ya'an college	COL name VAL ya'an vocational technical college COL keyword VAL ya'an college	1
+COL name VAL mount vernon hospital COL keyword VAL hospital	COL name VAL north london hospital consumption diseases chest COL keyword VAL hospital	1
+COL name VAL university california, los angeles COL keyword VAL university	COL name VAL university california southern branch COL keyword VAL university	1
+COL name VAL university wuppertal COL keyword VAL wuppertal	COL name VAL wuppertal institute climate, environment energy COL keyword VAL wuppertal	0
+COL name VAL gyeongsang national university COL keyword VAL national university	COL name VAL national taiwan university COL keyword VAL national university	0
+COL name VAL federal ministry education research COL keyword VAL ministry education research	COL name VAL ministry higher education scientific research COL keyword VAL ministry education research	0
+COL name VAL fisk university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL slovak medical university COL keyword VAL slovak	COL name VAL slovak telekom COL keyword VAL slovak	0
+COL name VAL long island jewish medical center COL keyword VAL long island	COL name VAL long island university COL keyword VAL long island	0
+COL name VAL shriners hospitals children canada COL keyword VAL shriners hospitals children canada	COL name VAL shriners hospitals children canada COL keyword VAL shriners hospitals children canada	1
+COL name VAL beijing museum natural history COL keyword VAL museum natural history	COL name VAL national central museum natural history COL keyword VAL museum natural history	1
+COL name VAL calouste gulbenkian foundation COL keyword VAL gulbenkian	COL name VAL instituto gulbenkian de ciencia COL keyword VAL gulbenkian	0
+COL name VAL caribbean university COL keyword VAL caribbean university	COL name VAL caribbean university college COL keyword VAL caribbean university	1
+COL name VAL kishiwada city hospital COL keyword VAL hospital	COL name VAL kishiwadashimin hospital COL keyword VAL hospital	1
+COL name VAL albert einstein college medicine COL keyword VAL einstein	COL name VAL einstein COL keyword VAL einstein	1
+COL name VAL liverpool school tropical medicine COL keyword VAL school tropical medicine	COL name VAL calcutta school tropical medicine COL keyword VAL school tropical medicine	0
+COL name VAL hopital paris saint joseph COL keyword VAL paris saint joseph	COL name VAL groupe hospitalier paris saint joseph COL keyword VAL paris saint joseph	1
+COL name VAL shenandoah university COL keyword VAL shenandoah	COL name VAL shenandoah college COL keyword VAL shenandoah	1
+COL name VAL ithaca college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL el hospital general de agudos carlos g. durand COL keyword VAL hospital durand	COL name VAL hospital durand COL keyword VAL hospital durand	1
+COL name VAL university alaska fairbanks COL keyword VAL university alaska	COL name VAL university alaska anchorage COL keyword VAL university alaska	0
+COL name VAL austrian institute technology COL keyword VAL austrian institute	COL name VAL austrian institute economic research COL keyword VAL austrian institute	0
+COL name VAL hospital kuala lumpur COL keyword VAL hospital kuala lumpur	COL name VAL hospital besar kuala lumpur COL keyword VAL hospital kuala lumpur	1
+COL name VAL guangdong provincial people's hospital COL keyword VAL guangdong people's hospital	COL name VAL second people's hospital guangdong province COL keyword VAL people's hospital guangdong	1
+COL name VAL institute science technology austria COL keyword VAL institute science technology	COL name VAL kakatiya institute technology science COL keyword VAL institute technology science	0
+COL name VAL university bari aldo moro COL keyword VAL university bari	COL name VAL university bari COL keyword VAL university bari	1
+COL name VAL technical university denmark COL keyword VAL university denmark	COL name VAL university southern denmark COL keyword VAL university denmark	0
+COL name VAL university wisconsin health COL keyword VAL health	COL name VAL uw health COL keyword VAL health	1
+COL name VAL hiram college COL keyword VAL college	COL name VAL raiganj college (university college) COL keyword VAL college	0
+COL name VAL louisiana state university shreveport COL keyword VAL shreveport	COL name VAL lsu shreveport COL keyword VAL shreveport	1
+COL name VAL fenway health COL keyword VAL fenway health	COL name VAL fenway community health center, inc COL keyword VAL fenway health	1
+COL name VAL uppsala university COL keyword VAL uppsala university	COL name VAL uppsala university hospital COL keyword VAL uppsala university	0
+COL name VAL norwegian veterinary institute COL keyword VAL 	COL name VAL veterinærinstituttet COL keyword VAL 	1
+COL name VAL keele university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL yunnan academy agricultural sciences COL keyword VAL yunnan academy agricultural sciences	COL name VAL yunnan provincial academy agricultural sciences COL keyword VAL yunnan academy agricultural sciences	1
+COL name VAL clinical emergency hospital bucharest COL keyword VAL hospital	COL name VAL floreasca hospital COL keyword VAL hospital	1
+COL name VAL hospital universitario doctor peset COL keyword VAL hospital doctor peset	COL name VAL hospital doctor peset COL keyword VAL hospital doctor peset	1
+COL name VAL university montpellier COL keyword VAL university montpellier	COL name VAL montpellier 1 university COL keyword VAL montpellier university	1
+COL name VAL hospital universitario insular de gran canaria COL keyword VAL de gran canaria	COL name VAL university las palmas de gran canaria COL keyword VAL de gran canaria	0
+COL name VAL university missouri COL keyword VAL university missouri	COL name VAL missouri state university COL keyword VAL missouri university	0
+COL name VAL kyushu dental university COL keyword VAL kyushu university	COL name VAL kyushu university COL keyword VAL kyushu university	0
+COL name VAL national university quilmes COL keyword VAL national university	COL name VAL national university samoa COL keyword VAL national university	0
+COL name VAL kursk state medical university COL keyword VAL kursk state university	COL name VAL kursk state university COL keyword VAL kursk state university	0
+COL name VAL multimedia university COL keyword VAL multimedia	COL name VAL universiti multimedia COL keyword VAL multimedia	1
+COL name VAL yenepoya university COL keyword VAL yenepoya	COL name VAL yenepoya COL keyword VAL yenepoya	1
+COL name VAL kyushu sangyo university COL keyword VAL kyushu university	COL name VAL kyushu university COL keyword VAL kyushu university	0
+COL name VAL wilfrid laurier university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL goucher college COL keyword VAL college	COL name VAL women's college baltimore COL keyword VAL college	1
+COL name VAL sinclair community college COL keyword VAL sinclair	COL name VAL sinclair knight merz COL keyword VAL sinclair	0
+COL name VAL national hospital organization mito medical center COL keyword VAL national hospital mito	COL name VAL national mito hospital COL keyword VAL national mito hospital	1
+COL name VAL university oviedo COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL izmir katip celebi university COL keyword VAL katip celebi	COL name VAL zmir katip celebi universitesi COL keyword VAL katip celebi	1
+COL name VAL vardhman mahavir medical college & safdarjung hospital COL keyword VAL vardhman mahavir medical college	COL name VAL vardhman mahavir medical college COL keyword VAL vardhman mahavir medical college	1
+COL name VAL vytautas magnus university COL keyword VAL 	COL name VAL vytauto didziojo universitetas COL keyword VAL 	1
+COL name VAL irish universities association COL keyword VAL irish universities	COL name VAL conference heads irish universities COL keyword VAL irish universities	1
+COL name VAL hospital fernandez COL keyword VAL hospital fernandez	COL name VAL hospital general de agudos dr. juan a. fernandez COL keyword VAL hospital fernandez	1
+COL name VAL centre dna fingerprinting diagnostics COL keyword VAL diagnostics	COL name VAL quest diagnostics COL keyword VAL diagnostics	0
+COL name VAL kharkiv polytechnic institute COL keyword VAL polytechnic institute	COL name VAL rensselaer polytechnic institute COL keyword VAL polytechnic institute	0
+COL name VAL epoch biosciences (united states) COL keyword VAL epoch	COL name VAL epoch biolabs COL keyword VAL epoch	1
+COL name VAL bangkok hospital COL keyword VAL bangkok hospital	COL name VAL bangkok general hospital COL keyword VAL bangkok hospital	1
+COL name VAL indiana university health COL keyword VAL indiana university	COL name VAL indiana university COL keyword VAL indiana university	0
+COL name VAL huaqiao university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university clinical center kosovo COL keyword VAL 	COL name VAL qendra klinike universitare e kosoves COL keyword VAL 	1
+COL name VAL north carolina state university COL keyword VAL north carolina university	COL name VAL north carolina central university COL keyword VAL north carolina university	0
+COL name VAL university northern british columbia COL keyword VAL university british columbia	COL name VAL university british columbia COL keyword VAL university british columbia	0
+COL name VAL cankaya university COL keyword VAL cankaya	COL name VAL cankaya universitesi COL keyword VAL cankaya	1
+COL name VAL francis marion university COL keyword VAL francis university	COL name VAL saint francis university COL keyword VAL francis university	0
+COL name VAL university north dakota COL keyword VAL university north dakota	COL name VAL north dakota state university COL keyword VAL north dakota university	0
+COL name VAL mayo general hospital COL keyword VAL mayo hospital	COL name VAL mayo university hospital COL keyword VAL mayo hospital	1
+COL name VAL manchester va medical center COL keyword VAL manchester	COL name VAL vamc manchester COL keyword VAL manchester	1
+COL name VAL kettering university COL keyword VAL kettering	COL name VAL kettering foundation COL keyword VAL kettering	0
+COL name VAL university indonesia COL keyword VAL university indonesia	COL name VAL indonesia university education COL keyword VAL indonesia university	0
+COL name VAL elettra sincrotrone trieste COL keyword VAL elettra	COL name VAL elettra COL keyword VAL elettra	1
+COL name VAL michel de montaigne university bordeaux 3 COL keyword VAL montaigne university bordeaux	COL name VAL bordeaux montaigne university COL keyword VAL bordeaux montaigne university	1
+COL name VAL university blida COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL university incarnate word COL keyword VAL university word	COL name VAL divine word university COL keyword VAL word university	0
+COL name VAL riverview psychiatric center COL keyword VAL riverview psychiatric center	COL name VAL riverview psychiatric recovery center COL keyword VAL riverview psychiatric center	1
+COL name VAL chicago state university COL keyword VAL chicago university	COL name VAL concordia university chicago COL keyword VAL university chicago	0
+COL name VAL latifa hospital COL keyword VAL hospital	COL name VAL al wasl hospital COL keyword VAL hospital	1
+COL name VAL marche polytechnic university COL keyword VAL polytechnic university	COL name VAL tianjin polytechnic university COL keyword VAL polytechnic university	0
+COL name VAL guangzhou medical university cancer hospital COL keyword VAL guangzhou hospital	COL name VAL guangzhou tumor hospital COL keyword VAL guangzhou hospital	1
+COL name VAL antioch university new england COL keyword VAL university new england	COL name VAL western new england university COL keyword VAL new england university	0
+COL name VAL brown university COL keyword VAL brown university	COL name VAL john brown university COL keyword VAL brown university	0
+COL name VAL university arkansas monticello COL keyword VAL university arkansas	COL name VAL university arkansas pine bluff COL keyword VAL university arkansas	0
+COL name VAL aleksandras stulginskis university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL polytechnic university turin COL keyword VAL university turin	COL name VAL university turin COL keyword VAL university turin	0
+COL name VAL nicolae testemitanu state university medicine pharmacy COL keyword VAL 	COL name VAL universitatea de stat de medicina si farmacie "nicolae testemitanu" COL keyword VAL 	1
+COL name VAL clausthal university technology COL keyword VAL university	COL name VAL university technology, sydney COL keyword VAL university	0
+COL name VAL tilburg university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university illinois springfield COL keyword VAL university	COL name VAL sangamon state university COL keyword VAL university	1
+COL name VAL met office COL keyword VAL office	COL name VAL home office COL keyword VAL office	0
+COL name VAL zhongshan hospital COL keyword VAL hospital	COL name VAL chung shan memorial hospital COL keyword VAL hospital	1
+COL name VAL john radcliffe hospital COL keyword VAL radcliffe	COL name VAL radcliffe college COL keyword VAL radcliffe	0
+COL name VAL oregon museum science industry COL keyword VAL museum science	COL name VAL museum science COL keyword VAL museum science	0
+COL name VAL university alicante COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL vietnam academy science technology COL keyword VAL vietnam academy science	COL name VAL vietnam academy science COL keyword VAL vietnam academy science	1
+COL name VAL mae fah luang university COL keyword VAL mae	COL name VAL fannie mae COL keyword VAL mae	0
+COL name VAL hyogo college medicine COL keyword VAL hyogo	COL name VAL university hyogo COL keyword VAL hyogo	0
+COL name VAL mercer university COL keyword VAL mercer	COL name VAL mercer COL keyword VAL mercer	0
+COL name VAL dr. euryclides hospital de jesus zerbini COL keyword VAL hospital	COL name VAL hospital brigadeiro COL keyword VAL hospital	1
+COL name VAL tan tock seng hospital COL keyword VAL tan	COL name VAL duy tan university COL keyword VAL tan	0
+COL name VAL university virginia children's hospital COL keyword VAL children's hospital	COL name VAL uva children's hospital COL keyword VAL children's hospital	1
+COL name VAL computing research association COL keyword VAL computing association	COL name VAL association computing machinery COL keyword VAL association computing	0
+COL name VAL st george hospital COL keyword VAL st george hospital	COL name VAL st george hospital community health service COL keyword VAL st george hospital	1
+COL name VAL suny geneseo COL keyword VAL geneseo	COL name VAL state university new york college geneseo COL keyword VAL geneseo	1
+COL name VAL goa university COL keyword VAL goa	COL name VAL goa medical college COL keyword VAL goa	0
+COL name VAL united states naval research laboratory COL keyword VAL united states naval	COL name VAL united states naval institute COL keyword VAL united states naval	0
+COL name VAL chowan university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university hyderabad COL keyword VAL university hyderabad	COL name VAL hyderabad central university COL keyword VAL hyderabad university	1
+COL name VAL letterman army medical center COL keyword VAL letterman army	COL name VAL letterman army hospital COL keyword VAL letterman army	1
+COL name VAL birjand university medical sciences COL keyword VAL birjand university medical sciences	COL name VAL birjand university medical sciences health services COL keyword VAL birjand university medical sciences	1
+COL name VAL alexandrovska hospital COL keyword VAL hospital	COL name VAL union hospital COL keyword VAL hospital	0
+COL name VAL yokohama national university COL keyword VAL yokohama university	COL name VAL yokohama city university COL keyword VAL yokohama university	0
+COL name VAL pontifical catholic university rio de janeiro COL keyword VAL university rio de janeiro	COL name VAL rio de janeiro state university COL keyword VAL rio de janeiro university	0
+COL name VAL university aden COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL it university copenhagen COL keyword VAL university copenhagen	COL name VAL university copenhagen COL keyword VAL university copenhagen	0
+COL name VAL nigde university COL keyword VAL nigde	COL name VAL nigde universitesi COL keyword VAL nigde	1
+COL name VAL kutztown university COL keyword VAL kutztown university	COL name VAL kutztown university pennsylvania COL keyword VAL kutztown university	1
+COL name VAL concord consortium COL keyword VAL concord	COL name VAL concord university COL keyword VAL concord	0
+COL name VAL malaghan institute medical research COL keyword VAL institute medical research	COL name VAL kolling institute medical research COL keyword VAL institute medical research	0
+COL name VAL bell (canada) COL keyword VAL bell	COL name VAL bell canada enterprises COL keyword VAL bell	1
+COL name VAL university messina COL keyword VAL university	COL name VAL university aconcagua COL keyword VAL university	0
+COL name VAL university oslo COL keyword VAL university	COL name VAL royal frederick university COL keyword VAL university	1
+COL name VAL teikyo university COL keyword VAL teikyo university	COL name VAL teikyo heisei university COL keyword VAL teikyo university	0
+COL name VAL hirosaki university COL keyword VAL hirosaki	COL name VAL hirosaki daigaku COL keyword VAL hirosaki	1
+COL name VAL third affiliated hospital harbin medical university COL keyword VAL hospital harbin medical university	COL name VAL harbin medical university cancer hospital COL keyword VAL harbin medical university hospital	1
+COL name VAL comillas pontifical university COL keyword VAL pontifical university	COL name VAL pontifical bolivarian university COL keyword VAL pontifical university	0
+COL name VAL croydon university hospital COL keyword VAL hospital	COL name VAL mayday hospital COL keyword VAL hospital	1
+COL name VAL university santo tomas COL keyword VAL university	COL name VAL catholic university philippines COL keyword VAL university	1
+COL name VAL michigan state university COL keyword VAL michigan state	COL name VAL michigan state police COL keyword VAL michigan state	0
+COL name VAL geneva college COL keyword VAL geneva	COL name VAL webster university geneva COL keyword VAL geneva	0
+COL name VAL university southern maine COL keyword VAL southern maine	COL name VAL southern maine community college COL keyword VAL southern maine	0
+COL name VAL star general hospital COL keyword VAL general hospital	COL name VAL hoshi general hospital COL keyword VAL general hospital	1
+COL name VAL danish meteorological institute COL keyword VAL meteorological institute	COL name VAL norwegian meteorological institute COL keyword VAL meteorological institute	0
+COL name VAL northrop university COL keyword VAL northrop	COL name VAL northrop aeronautical institute COL keyword VAL northrop	1
+COL name VAL sweet briar college COL keyword VAL briar	COL name VAL briar cliff university COL keyword VAL briar	0
+COL name VAL king fahad hospital hufuf COL keyword VAL king fahad hospital	COL name VAL king fahad hospital hofuf COL keyword VAL king fahad hospital	1
+COL name VAL university reims champagne ardenne COL keyword VAL university reims	COL name VAL university reims COL keyword VAL university reims	1
+COL name VAL isfahan university medical sciences COL keyword VAL isfahan university	COL name VAL university isfahan COL keyword VAL university isfahan	0
+COL name VAL translational genomics research institute COL keyword VAL translational research institute	COL name VAL translational research institute COL keyword VAL translational research institute	0
+COL name VAL laurentian university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0
+COL name VAL university mary COL keyword VAL university mary	COL name VAL university mary washington COL keyword VAL university mary	0
+COL name VAL finnish institute occupational health COL keyword VAL institute occupational health	COL name VAL national institute occupational health COL keyword VAL institute occupational health	0
+COL name VAL dr. ram manohar lohia hospital COL keyword VAL hospital	COL name VAL willingdon hospital COL keyword VAL hospital	1
+COL name VAL consorzio universitario ingegneria della qualita COL keyword VAL consorzio	COL name VAL consorzio quinn COL keyword VAL consorzio	1
+COL name VAL autonomous university queretaro COL keyword VAL university queretaro	COL name VAL university queretaro COL keyword VAL university queretaro	1
+COL name VAL john jay college criminal justice COL keyword VAL john jay	COL name VAL john jay COL keyword VAL john jay	1
+COL name VAL university modena reggio emilia COL keyword VAL university reggio	COL name VAL mediterranea university reggio calabria COL keyword VAL university reggio	0
+COL name VAL karnataka institute medical sciences COL keyword VAL karnataka medical	COL name VAL karnataka medical college COL keyword VAL karnataka medical	1
+COL name VAL governors state university COL keyword VAL governors university	COL name VAL western governors university COL keyword VAL governors university	0
+COL name VAL federal university campina grande COL keyword VAL federal university grande	COL name VAL federal university rio grande do norte COL keyword VAL federal university grande	0
+COL name VAL universiti malaysia terengganu COL keyword VAL universiti malaysia	COL name VAL kolej universiti sains dan teknologi malaysia COL keyword VAL universiti malaysia	1
+COL name VAL sathyabama institute science technology COL keyword VAL sathyabama	COL name VAL sathyabama university COL keyword VAL sathyabama	1
+COL name VAL ronald reagan ucla medical center COL keyword VAL reagan	COL name VAL reagan COL keyword VAL reagan	1
+COL name VAL centre hospitalier universitaire de tours COL keyword VAL tours	COL name VAL chru tours COL keyword VAL tours	1
+COL name VAL valparaiso university COL keyword VAL valparaiso university	COL name VAL university valparaiso COL keyword VAL university valparaiso	0
+COL name VAL letourneau university COL keyword VAL university	COL name VAL university maryland university college COL keyword VAL university university	0

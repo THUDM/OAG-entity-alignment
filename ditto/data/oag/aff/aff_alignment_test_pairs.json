@@ -1,0 +1,5002 @@
+[
+    {
+        "aff1": "Newcastle University",
+        "aff2": "University of Newcastle upon Tyne",
+        "label": 1
+    },
+    {
+        "aff1": "University of Wollongong",
+        "aff2": "Wollongong University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Melbourne",
+        "aff2": "Melbourne University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Adelaide",
+        "aff2": "Adelaide Uni",
+        "label": 1
+    },
+    {
+        "aff1": "University of Sydney",
+        "aff2": "Sydney University",
+        "label": 1
+    },
+    {
+        "aff1": "Flinders University",
+        "aff2": "Flinders University of South Australia",
+        "label": 1
+    },
+    {
+        "aff1": "RMIT University",
+        "aff2": "Royal Melbourne Institute of Technology University",
+        "label": 1
+    },
+    {
+        "aff1": "University of New England",
+        "aff2": "New England University College of the University of Sydney",
+        "label": 1
+    },
+    {
+        "aff1": "Central Queensland University",
+        "aff2": "CQUniversity",
+        "label": 1
+    },
+    {
+        "aff1": "Swinburne University of Technology",
+        "aff2": "Swinburne",
+        "label": 1
+    },
+    {
+        "aff1": "Western Sydney University",
+        "aff2": "University of Western Sydney",
+        "label": 1
+    },
+    {
+        "aff1": "Curtin University",
+        "aff2": "Curtin University of Technology",
+        "label": 1
+    },
+    {
+        "aff1": "Walter and Eliza Hall Institute of Medical Research",
+        "aff2": "Walter and Eliza Hall Institute",
+        "label": 1
+    },
+    {
+        "aff1": "QIMR Berghofer Medical Research Institute",
+        "aff2": "Queensland Institute of Medical Research",
+        "label": 1
+    },
+    {
+        "aff1": "Ludwig Cancer Research",
+        "aff2": "Ludwig Institute for Cancer Research",
+        "label": 1
+    },
+    {
+        "aff1": "Peter MacCallum Cancer Centre",
+        "aff2": "Peter MacCallum Cancer Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Peter MacCallum Cancer Centre",
+        "aff2": "Peter Mac",
+        "label": 1
+    },
+    {
+        "aff1": "The Alfred Hospital",
+        "aff2": "The Alfred",
+        "label": 1
+    },
+    {
+        "aff1": "Sahlgrenska University Hospital",
+        "aff2": "Sahlgrenska Universitetssjukhuset",
+        "label": 1
+    },
+    {
+        "aff1": "RWTH Aachen University",
+        "aff2": "RWTH Aachen",
+        "label": 1
+    },
+    {
+        "aff1": "United States Geological Survey",
+        "aff2": "Geological Survey",
+        "label": 1
+    },
+    {
+        "aff1": "Boys Town",
+        "aff2": "Girls and Boys Tow",
+        "label": 1
+    },
+    {
+        "aff1": "National Technical University of Athens",
+        "aff2": "National Metsovian Polytechnic",
+        "label": 1
+    },
+    {
+        "aff1": "National Technical University of Athens",
+        "aff2": "Athens Polytechnic",
+        "label": 1
+    },
+    {
+        "aff1": "UK Coal",
+        "aff2": "UK Coal Production Ltd",
+        "label": 1
+    },
+    {
+        "aff1": "National University of Singapore",
+        "aff2": "Universiti Kebangsaan Singapura",
+        "label": 1
+    },
+    {
+        "aff1": "World Health Organization Regional Office for the Americas",
+        "aff2": "Pan American Health Organization",
+        "label": 1
+    },
+    {
+        "aff1": "University of Malta",
+        "aff2": "L-Università ta' Malta",
+        "label": 1
+    },
+    {
+        "aff1": "University of London",
+        "aff2": "London University",
+        "label": 1
+    },
+    {
+        "aff1": "University Medical Center Groningen",
+        "aff2": "Groningen University Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "Karolinska Institute",
+        "aff2": "Karolinska Institutet",
+        "label": 1
+    },
+    {
+        "aff1": "Aristotle University of Thessaloniki",
+        "aff2": "Aristotelian University",
+        "label": 1
+    },
+    {
+        "aff1": "Complutense University of Madrid",
+        "aff2": "Universidad de Madrid",
+        "label": 1
+    },
+    {
+        "aff1": "University of Zagreb",
+        "aff2": "Universitas Studiorum Zagrabiensis",
+        "label": 1
+    },
+    {
+        "aff1": "Wageningen University & Research",
+        "aff2": "Wageningen University and Research Centre",
+        "label": 1
+    },
+    {
+        "aff1": "Institute for Computer Science and Control",
+        "aff2": "Computer and Automation Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "University of Hradec Králové",
+        "aff2": "Univerzita Hradec Králové",
+        "label": 1
+    },
+    {
+        "aff1": "University of Liège",
+        "aff2": "ULiège",
+        "label": 1
+    },
+    {
+        "aff1": "Royal Holloway University of London",
+        "aff2": "Royal Holloway and Bedford New College",
+        "label": 1
+    },
+    {
+        "aff1": "University of Oxford",
+        "aff2": "Oxford University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Bucharest",
+        "aff2": "Universitatea din București",
+        "label": 1
+    },
+    {
+        "aff1": "Aalborg University",
+        "aff2": "Aalborg Universitet",
+        "label": 1
+    },
+    {
+        "aff1": "Leiden University",
+        "aff2": "Rijksuniversiteit Leiden",
+        "label": 1
+    },
+    {
+        "aff1": "Clausthal University of Technology",
+        "aff2": "TU Clausthal",
+        "label": 1
+    },
+    {
+        "aff1": "National and Kapodistrian University of Athens",
+        "aff2": "University of Athens",
+        "label": 1
+    },
+    {
+        "aff1": "Mykolas Romeris University",
+        "aff2": "The Law University of Lithuania",
+        "label": 1
+    },
+    {
+        "aff1": "University of Alicante",
+        "aff2": "Universitat d'Alacant",
+        "label": 1
+    },
+    {
+        "aff1": "University of Antwerp",
+        "aff2": "UAntwerp",
+        "label": 1
+    },
+    {
+        "aff1": "Oregon Health & Science University",
+        "aff2": "University of Oregon Health Sciences Center",
+        "label": 1
+    },
+    {
+        "aff1": "Oregon Health & Science University",
+        "aff2": "Oregon Health Sciences University",
+        "label": 1
+    },
+    {
+        "aff1": "Delft University of Technology",
+        "aff2": "TU Delft",
+        "label": 1
+    },
+    {
+        "aff1": "University of Girona",
+        "aff2": "Universitat de Girona",
+        "label": 1
+    },
+    {
+        "aff1": "University of Erlangen-Nuremberg",
+        "aff2": "Friedrich-Alexander-University Erlangen-Nürnberg",
+        "label": 1
+    },
+    {
+        "aff1": "University of Cambridge",
+        "aff2": "Cambridge University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Valencia",
+        "aff2": "Universitat de València",
+        "label": 1
+    },
+    {
+        "aff1": "Chalmers University of Technology",
+        "aff2": "Chalmers",
+        "label": 1
+    },
+    {
+        "aff1": "Aalto University",
+        "aff2": "Aalto-Universitetet",
+        "label": 1
+    },
+    {
+        "aff1": "University of Manchester",
+        "aff2": "Manchester University",
+        "label": 1
+    },
+    {
+        "aff1": "Université Savoie Mont Blanc",
+        "aff2": "University of Savoy Mont Blanc",
+        "label": 1
+    },
+    {
+        "aff1": "Aix-Marseille University",
+        "aff2": "University of the Mediterranean",
+        "label": 1
+    },
+    {
+        "aff1": "Utrecht University",
+        "aff2": "Rijksuniversiteit Utrecht",
+        "label": 1
+    },
+    {
+        "aff1": "Carl von Ossietzky University of Oldenburg",
+        "aff2": "University of Oldenburg",
+        "label": 1
+    },
+    {
+        "aff1": "KU Leuven",
+        "aff2": "Catholic University of Leuven",
+        "label": 1
+    },
+    {
+        "aff1": "University of Padua",
+        "aff2": "Università di Padova",
+        "label": 1
+    },
+    {
+        "aff1": "Erasmus MC",
+        "aff2": "Erasmus University Medical Center",
+        "label": 1
+    },
+    {
+        "aff1": "Grenoble Institute of Technology",
+        "aff2": "Grenoble INP",
+        "label": 1
+    },
+    {
+        "aff1": "ETH Zurich",
+        "aff2": "ETH Zürich",
+        "label": 1
+    },
+    {
+        "aff1": "University of Barcelona",
+        "aff2": "Universitat de Barcelona",
+        "label": 1
+    },
+    {
+        "aff1": "University of Paris-Sud",
+        "aff2": "Université Paris-Sud",
+        "label": 1
+    },
+    {
+        "aff1": "University of Paris-Sud",
+        "aff2": "University of Paris XI",
+        "label": 1
+    },
+    {
+        "aff1": "University of Navarra",
+        "aff2": "Universidad de Navarra",
+        "label": 1
+    },
+    {
+        "aff1": "Swedish Meteorological and Hydrological Institute",
+        "aff2": "Sveriges Meteorologiska och Hydrologiska Institut",
+        "label": 1
+    },
+    {
+        "aff1": "Suranaree University of Technology",
+        "aff2": "Suranari University of Technology",
+        "label": 1
+    },
+    {
+        "aff1": "Vilnius University",
+        "aff2": "Vilniaus universitetas",
+        "label": 1
+    },
+    {
+        "aff1": "University of Birmingham",
+        "aff2": "Birmingham University",
+        "label": 1
+    },
+    {
+        "aff1": "Chemnitz University of Technology",
+        "aff2": "Technische Universität Chemnitz",
+        "label": 1
+    },
+    {
+        "aff1": "Technical University of Cluj-Napoca",
+        "aff2": "Universitatea Tehnică din Cluj-Napoca",
+        "label": 1
+    },
+    {
+        "aff1": "Kaunas University of Technology",
+        "aff2": "Kauno technologijos universitetas",
+        "label": 1
+    },
+    {
+        "aff1": "Technical University of Košice",
+        "aff2": "Technická univerzita v Košiciach",
+        "label": 1
+    },
+    {
+        "aff1": "Luleå University of Technology",
+        "aff2": "Luleå University College",
+        "label": 1
+    },
+    {
+        "aff1": "Riga Technical University",
+        "aff2": "Rīgas Tehniskā universitāte",
+        "label": 1
+    },
+    {
+        "aff1": "Polytechnic University of Timişoara",
+        "aff2": "Universitatea Politehnica Timișoara",
+        "label": 1
+    },
+    {
+        "aff1": "Aarhus University",
+        "aff2": "Aarhus Universitet",
+        "label": 1
+    },
+    {
+        "aff1": "Autonomous University of Barcelona",
+        "aff2": "Universitat Autònoma de Barcelona",
+        "label": 1
+    },
+    {
+        "aff1": "Mendel University in Brno",
+        "aff2": "Mendelova univerzita v Brně",
+        "label": 1
+    },
+    {
+        "aff1": "Addis Ababa University",
+        "aff2": "University College of Addis Ababa",
+        "label": 1
+    },
+    {
+        "aff1": "Odense University Hospital",
+        "aff2": "Odense Universitets Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "Ca' Foscari University of Venice",
+        "aff2": "Università Ca' Foscari",
+        "label": 1
+    },
+    {
+        "aff1": "Universidad de Los Andes",
+        "aff2": "University of los Andes",
+        "label": 1
+    },
+    {
+        "aff1": "Ankara University",
+        "aff2": "Ankara Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Bangor University",
+        "aff2": "University of Wales, Bangor",
+        "label": 1
+    },
+    {
+        "aff1": "University of Warwick",
+        "aff2": "Warwick University",
+        "label": 1
+    },
+    {
+        "aff1": "Babeș-Bolyai University",
+        "aff2": "Universitatea Babeș-Bolyai",
+        "label": 1
+    },
+    {
+        "aff1": "Babeș-Bolyai University",
+        "aff2": "Babeș-Bolyai Tudományegyetem",
+        "label": 1
+    },
+    {
+        "aff1": "Humboldt-Universität zu Berlin",
+        "aff2": "Universität zu Berlin",
+        "label": 1
+    },
+    {
+        "aff1": "Ben-Gurion University of the Negev",
+        "aff2": "Universitat Ben Gurion Banegev",
+        "label": 1
+    },
+    {
+        "aff1": "University College Dublin",
+        "aff2": "University College Dublin – National University of Ireland, Dublin",
+        "label": 1
+    },
+    {
+        "aff1": "Karlsruhe Institute of Technology",
+        "aff2": "Karlsruhe Institute of Technology - The Research University in the Helmholtz Association",
+        "label": 1
+    },
+    {
+        "aff1": "Karlsruhe Institute of Technology",
+        "aff2": "Das Karlsruher Institut für Technologie (KIT) – Die Forschungsuniversität in der Helmholtz-Gemeinschaft",
+        "label": 1
+    },
+    {
+        "aff1": "University of Bergen",
+        "aff2": "Universitetet i Bergen",
+        "label": 1
+    },
+    {
+        "aff1": "University of Žilina",
+        "aff2": "Žilinská Univerzita v Žiline",
+        "label": 1
+    },
+    {
+        "aff1": "University of Colombo",
+        "aff2": "Colombo University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Delhi",
+        "aff2": "Delhi University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Dhaka",
+        "aff2": "Dhaka University",
+        "label": 1
+    },
+    {
+        "aff1": "Universidade Federal do Ceará",
+        "aff2": "Ceará Federal University",
+        "label": 1
+    },
+    {
+        "aff1": "Federal University of Bahia",
+        "aff2": "Universidade Federal da Bahia",
+        "label": 1
+    },
+    {
+        "aff1": "Gadjah Mada University",
+        "aff2": "Universitas Gadjah Mada",
+        "label": 1
+    },
+    {
+        "aff1": "University of Maribor",
+        "aff2": "Univerza v Mariboru",
+        "label": 1
+    },
+    {
+        "aff1": "China Meteorological Administration",
+        "aff2": "Central Military Commission Meteorological Bureau",
+        "label": 1
+    },
+    {
+        "aff1": "University of Giessen",
+        "aff2": "Justus Liebig University Giessen",
+        "label": 1
+    },
+    {
+        "aff1": "University of Ljubljana",
+        "aff2": "Univerza v Ljubljani",
+        "label": 1
+    },
+    {
+        "aff1": "University of Pavia",
+        "aff2": "Università di Pavia",
+        "label": 1
+    },
+    {
+        "aff1": "Uppsala University",
+        "aff2": "Uppsala universitet",
+        "label": 1
+    },
+    {
+        "aff1": "Leibniz University Hannover",
+        "aff2": "Gottfried Wilhelm Leibniz Universität Hannover",
+        "label": 1
+    },
+    {
+        "aff1": "Vilnius Gediminas Technical University",
+        "aff2": "Vilniaus Gedimino Technikos Universiteta",
+        "label": 1
+    },
+    {
+        "aff1": "University of Ibadan",
+        "aff2": "University College Ibadan",
+        "label": 1
+    },
+    {
+        "aff1": "Istanbul University",
+        "aff2": "İstanbul Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Jaume I University",
+        "aff2": "Universitat Jaume I",
+        "label": 1
+    },
+    {
+        "aff1": "University of Kent",
+        "aff2": "University of Kent at Canterbury",
+        "label": 1
+    },
+    {
+        "aff1": "University of Salento",
+        "aff2": "Università del Salento",
+        "label": 1
+    },
+    {
+        "aff1": "University of Malaya",
+        "aff2": "Universiti Malaya",
+        "label": 1
+    },
+    {
+        "aff1": "University of Rostock",
+        "aff2": "Rostock University",
+        "label": 1
+    },
+    {
+        "aff1": "Istanbul Technical University",
+        "aff2": "İstanbul Teknik Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Stockholm University",
+        "aff2": "Stockholms universitet",
+        "label": 1
+    },
+    {
+        "aff1": "National Agrarian University",
+        "aff2": "National Agrarian University - La Molina",
+        "label": 1
+    },
+    {
+        "aff1": "Paris Dauphine University",
+        "aff2": "Paris Dauphine",
+        "label": 1
+    },
+    {
+        "aff1": "University of Pardubice",
+        "aff2": "Univerzita Pardubice",
+        "label": 1
+    },
+    {
+        "aff1": "Johann Heinrich von Thünen-Institut",
+        "aff2": "Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei",
+        "label": 1
+    },
+    {
+        "aff1": "Universiti Putra Malaysia",
+        "aff2": "Universiti Pertanian Malaysia",
+        "label": 1
+    },
+    {
+        "aff1": "University of the Punjab",
+        "aff2": "Punjab University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Pavol Jozef Šafárik",
+        "aff2": "Univerzita Pavla Jozefa Šafárika v Košiciach",
+        "label": 1
+    },
+    {
+        "aff1": "Boğaziçi University",
+        "aff2": "Boğaziçi Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "IBM Research - Haifa",
+        "aff2": "IBM Haifa Research Lab",
+        "label": 1
+    },
+    {
+        "aff1": "Institute of Tropical Medicine Antwerp",
+        "aff2": "Prince Leopold Institute of Tropical Medicine",
+        "label": 1
+    },
+    {
+        "aff1": "Shanghai Medical College of Fudan University",
+        "aff2": "Medical Center of Fudan University",
+        "label": 1
+    },
+    {
+        "aff1": "Stellenbosch University",
+        "aff2": "University of Stellenbosch",
+        "label": 1
+    },
+    {
+        "aff1": "Ştefan cel Mare University of Suceava",
+        "aff2": "Universitatea \"Ștefan cel Mare\" din Suceava",
+        "label": 1
+    },
+    {
+        "aff1": "London School of Economics and Political Science",
+        "aff2": "London School of Economics",
+        "label": 1
+    },
+    {
+        "aff1": "Xinjiang Medical University",
+        "aff2": "Xinjiang Medical College",
+        "label": 1
+    },
+    {
+        "aff1": "West University of Timişoara",
+        "aff2": "Universitatea de Vest din Timișoara",
+        "label": 1
+    },
+    {
+        "aff1": "Mustafa Kemal University",
+        "aff2": "Mustafa Kemal Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Hacettepe University",
+        "aff2": "Hacettepe Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Lomonosov Moscow State University",
+        "aff2": "Moscow State University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Montreal",
+        "aff2": "Université de Montréal",
+        "label": 1
+    },
+    {
+        "aff1": "University of Lleida",
+        "aff2": "Universitat de Lleida",
+        "label": 1
+    },
+    {
+        "aff1": "Academy of Finland",
+        "aff2": "Finlands Akademi",
+        "label": 1
+    },
+    {
+        "aff1": "University of Florida",
+        "aff2": "University of the State of Florida",
+        "label": 1
+    },
+    {
+        "aff1": "National Institute for Aerospace Technology",
+        "aff2": "National Institute of Aeronautics",
+        "label": 1
+    },
+    {
+        "aff1": "St Petersburg University",
+        "aff2": "Saint Petersburg State University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Huddersfield",
+        "aff2": "Huddersfield University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Eastern Piedmont Amadeo Avogadro",
+        "aff2": "University of Eastern Piedmont",
+        "label": 1
+    },
+    {
+        "aff1": "Chernivtsi National University",
+        "aff2": "Chernivtsi University",
+        "label": 1
+    },
+    {
+        "aff1": "Bournemouth University",
+        "aff2": "Bournemouth Municipal College",
+        "label": 1
+    },
+    {
+        "aff1": "Selçuk University",
+        "aff2": "Selçuk Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Daugavpils University",
+        "aff2": "Daugavpils Universitāte",
+        "label": 1
+    },
+    {
+        "aff1": "University of Minnesota",
+        "aff2": "University of Minnesota, Twin Cities",
+        "label": 1
+    },
+    {
+        "aff1": "Bilkent University",
+        "aff2": "Bilkent Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "V. N. Karazin Kharkiv National University",
+        "aff2": "Vasily Karazin Kharkov National University",
+        "label": 1
+    },
+    {
+        "aff1": "Indian Institute of Technology Roorkee",
+        "aff2": "University of Roorkee",
+        "label": 1
+    },
+    {
+        "aff1": "Transport for London",
+        "aff2": "London Transport",
+        "label": 1
+    },
+    {
+        "aff1": "University of Oradea",
+        "aff2": "Universitatea din Oradea",
+        "label": 1
+    },
+    {
+        "aff1": "Birmingham City University",
+        "aff2": "University of Central England in Birmingham",
+        "label": 1
+    },
+    {
+        "aff1": "Karlstad University",
+        "aff2": "Karlstads universitet",
+        "label": 1
+    },
+    {
+        "aff1": "Royal University of Phnom Penh",
+        "aff2": "Phnom Penh University",
+        "label": 1
+    },
+    {
+        "aff1": "Medical University of Varna",
+        "aff2": "Higher Medical Institute of Varna",
+        "label": 1
+    },
+    {
+        "aff1": "South China Agricultural University",
+        "aff2": "South China Agricultural College",
+        "label": 1
+    },
+    {
+        "aff1": "University of Cassino and Southern Lazio",
+        "aff2": "University of Cassino",
+        "label": 1
+    },
+    {
+        "aff1": "University of Canterbury",
+        "aff2": "Canterbury College",
+        "label": 1
+    },
+    {
+        "aff1": "Dokuz Eylül University",
+        "aff2": "Dokuz Eylül Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Columbia University",
+        "aff2": "Columbia College",
+        "label": 1
+    },
+    {
+        "aff1": "Rice University",
+        "aff2": "William Marsh Rice University",
+        "label": 1
+    },
+    {
+        "aff1": "Laboratoire National de Métrologie et d'Essais",
+        "aff2": "Laboratoire National d'Essais",
+        "label": 1
+    },
+    {
+        "aff1": "University of Agder",
+        "aff2": "Universitetet i Agder",
+        "label": 1
+    },
+    {
+        "aff1": "Cancer Research UK Beatson Institute",
+        "aff2": "The Beatson Institute for Cancer Research",
+        "label": 1
+    },
+    {
+        "aff1": "Matej Bel University",
+        "aff2": "Matej Bel",
+        "label": 1
+    },
+    {
+        "aff1": "Renmin University of China",
+        "aff2": "People's University of China",
+        "label": 1
+    },
+    {
+        "aff1": "Istanbul Bilgi University",
+        "aff2": "İstanbul Bilgi Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Memorial University of Newfoundland",
+        "aff2": "Memorial University",
+        "label": 1
+    },
+    {
+        "aff1": "Gazi University",
+        "aff2": "Gazi Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Tbilisi State University",
+        "aff2": "Ivane Javakhishvili Tbilisi State University",
+        "label": 1
+    },
+    {
+        "aff1": "Aalborg University Hospital",
+        "aff2": "Aalborg Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "University of California, Davis",
+        "aff2": "UC Davis",
+        "label": 1
+    },
+    {
+        "aff1": "Polytechnic Institute of Viana do Castelo",
+        "aff2": "Instituto Politécnico de Viana do Castelo",
+        "label": 1
+    },
+    {
+        "aff1": "N. I. Lobachevsky State University of Nizhny Novgorod",
+        "aff2": "Lobachevsky State University of Nizhni Novgorod - National Research University",
+        "label": 1
+    },
+    {
+        "aff1": "City, University of London",
+        "aff2": "City University London",
+        "label": 1
+    },
+    {
+        "aff1": "Mid Sweden University",
+        "aff2": "Mid Sweden University College",
+        "label": 1
+    },
+    {
+        "aff1": "Pennsylvania State University",
+        "aff2": "Penn State",
+        "label": 1
+    },
+    {
+        "aff1": "Akdeniz University",
+        "aff2": "Akdeniz Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "University of Pune",
+        "aff2": "Savitribai Phule Pune University",
+        "label": 1
+    },
+    {
+        "aff1": "Yeditepe University",
+        "aff2": "Yeditepe Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Tokyo Institute of Technology",
+        "aff2": "Tokyo Tech",
+        "label": 1
+    },
+    {
+        "aff1": "Massachusetts General Hospital",
+        "aff2": "Mass General",
+        "label": 1
+    },
+    {
+        "aff1": "Malmö University",
+        "aff2": "Malmö University College",
+        "label": 1
+    },
+    {
+        "aff1": "European University Viadrina",
+        "aff2": "European University Viadrina Frankfurt (Oder)",
+        "label": 1
+    },
+    {
+        "aff1": "University of Bergamo",
+        "aff2": "Bergamo University",
+        "label": 1
+    },
+    {
+        "aff1": "Rensselaer Polytechnic Institute",
+        "aff2": "Rensselaer Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Secretariat of the Pacific Community",
+        "aff2": "Pacific Community",
+        "label": 1
+    },
+    {
+        "aff1": "Iowa State University",
+        "aff2": "Iowa State",
+        "label": 1
+    },
+    {
+        "aff1": "Adnan Menderes University",
+        "aff2": "Adnan Menderes Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Uludağ University",
+        "aff2": "Uludağ Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Taras Shevchenko National University of Kyiv",
+        "aff2": "Taras Shevchenko University",
+        "label": 1
+    },
+    {
+        "aff1": "Saint Petersburg Academic University",
+        "aff2": "St Petersburg Academic University — Nanotechnology Research and Education Centre of the Russian Academy of Sciences",
+        "label": 1
+    },
+    {
+        "aff1": "University of Illinois Urbana-Champaign",
+        "aff2": "University of Illinois",
+        "label": 1
+    },
+    {
+        "aff1": "Stony Brook University",
+        "aff2": "SUNY Stony Brook",
+        "label": 1
+    },
+    {
+        "aff1": "Western University",
+        "aff2": "University of Western Ontario",
+        "label": 1
+    },
+    {
+        "aff1": "Massachusetts Eye and Ear Infirmary",
+        "aff2": "Mass. Eye and Ear",
+        "label": 1
+    },
+    {
+        "aff1": "Massachusetts Eye and Ear Infirmary",
+        "aff2": "Boston Eye Infirmary",
+        "label": 1
+    },
+    {
+        "aff1": "New Mexico Institute of Mining and Technology",
+        "aff2": "New Mexico Tech",
+        "label": 1
+    },
+    {
+        "aff1": "Anadolu University",
+        "aff2": "Anadolu Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Northumbria University",
+        "aff2": "University of Northumbria at Newcastle",
+        "label": 1
+    },
+    {
+        "aff1": "University of Mumbai",
+        "aff2": "Mumbai University",
+        "label": 1
+    },
+    {
+        "aff1": "Süleyman Demirel University",
+        "aff2": "Süleyman Demirel Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "University of Tehran",
+        "aff2": "Tehran University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Waterloo",
+        "aff2": "UWaterloo",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Public Security of the People's Republic of China",
+        "aff2": "Ministry of Public Security of the Central People's Government",
+        "label": 1
+    },
+    {
+        "aff1": "University of California, Berkeley",
+        "aff2": "UC Berkeley",
+        "label": 1
+    },
+    {
+        "aff1": "University of Pretoria",
+        "aff2": "Universiteit van Pretoria",
+        "label": 1
+    },
+    {
+        "aff1": "Sakarya University",
+        "aff2": "Sakarya Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Centre Hospitalier Universitaire de Saint-Pierre",
+        "aff2": "Saint-Pierre University Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "Dalhousie University",
+        "aff2": "Dalhousie College",
+        "label": 1
+    },
+    {
+        "aff1": "Dalhousie University",
+        "aff2": "The Governors of Dalhousie College and University ",
+        "label": 1
+    },
+    {
+        "aff1": "University of Regina",
+        "aff2": "Regina Campus of the University of Saskatchewan",
+        "label": 1
+    },
+    {
+        "aff1": "Işık University",
+        "aff2": "Işık Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Nanyang Technological University",
+        "aff2": "Universiti Teknologi Nanyang",
+        "label": 1
+    },
+    {
+        "aff1": "University of Vermont",
+        "aff2": "University of Vermont and State Agricultural College",
+        "label": 1
+    },
+    {
+        "aff1": "Icahn School of Medicine at Mount Sinai",
+        "aff2": "Mount Sinai School of Medicine",
+        "label": 1
+    },
+    {
+        "aff1": "English Heritage",
+        "aff2": "English Heritage Trust",
+        "label": 1
+    },
+    {
+        "aff1": "Illinois Institute of Technology",
+        "aff2": "Illinois Tech",
+        "label": 1
+    },
+    {
+        "aff1": "Louisiana State University",
+        "aff2": "Louisiana State University and Agricultural and Mechanical College",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing University of Aeronautics and Astronautics",
+        "aff2": "Nanjing Aeronautical Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Beihang University",
+        "aff2": "Beijing University of Aeronautics and Astronautics",
+        "label": 1
+    },
+    {
+        "aff1": "Oklahoma State University",
+        "aff2": "Oklahoma State",
+        "label": 1
+    },
+    {
+        "aff1": "Istanbul Şehir University",
+        "aff2": "İstanbul Şehir Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Samarkand State University",
+        "aff2": "Samarkand University",
+        "label": 1
+    },
+    {
+        "aff1": "Uzhhorod National University",
+        "aff2": "State Higher Education Establishment \"Uzhhorod National University\"",
+        "label": 1
+    },
+    {
+        "aff1": "Novosibirsk State Technical University",
+        "aff2": "Novosibirsk Electrotechnical Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Pirogov Russian National Research Medical University",
+        "aff2": "Russian State Medical University",
+        "label": 1
+    },
+    {
+        "aff1": "Moscow State University of Civil Engineering",
+        "aff2": "Moscow Institute of Civil Engineering named after V.V. Kuybyshev",
+        "label": 1
+    },
+    {
+        "aff1": "Yuri Gagarin State Technical University of Saratov",
+        "aff2": "Saratov State Technical University",
+        "label": 1
+    },
+    {
+        "aff1": "Hannah Research Foundation",
+        "aff2": "Hannah Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "University College London",
+        "aff2": "London University",
+        "label": 1
+    },
+    {
+        "aff1": "University College London",
+        "aff2": "University College, London",
+        "label": 1
+    },
+    {
+        "aff1": "Hospital Universitari i Politècnic La Fe",
+        "aff2": "Hospital Universitari i Politècnic La Fe",
+        "label": 1
+    },
+    {
+        "aff1": "Birkbeck, University of London",
+        "aff2": "Birkbeck College",
+        "label": 1
+    },
+    {
+        "aff1": "The University of Texas at Austin",
+        "aff2": "UT Austin",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing Medical University",
+        "aff2": "Nanjing Medical College",
+        "label": 1
+    },
+    {
+        "aff1": "Rhodes University",
+        "aff2": "Rhodes University College",
+        "label": 1
+    },
+    {
+        "aff1": "National University of Ireland, Maynooth",
+        "aff2": "Maynooth University",
+        "label": 1
+    },
+    {
+        "aff1": "Cukurova University",
+        "aff2": "Çukurova Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Queen Margaret University",
+        "aff2": "Queen Margaret University College",
+        "label": 1
+    },
+    {
+        "aff1": "Queen Margaret University",
+        "aff2": "Queen Margaret College",
+        "label": 1
+    },
+    {
+        "aff1": "University of Palangka Raya",
+        "aff2": "Universitas Palangka Raya",
+        "label": 1
+    },
+    {
+        "aff1": "Al-Ahliyya Amman University",
+        "aff2": "Amman Private University",
+        "label": 1
+    },
+    {
+        "aff1": "University of California, Santa Barbara",
+        "aff2": "UC Santa Barbara",
+        "label": 1
+    },
+    {
+        "aff1": "University of Victoria",
+        "aff2": "Victoria College",
+        "label": 1
+    },
+    {
+        "aff1": "Tokyo University of Science",
+        "aff2": "Science University of Tokyo",
+        "label": 1
+    },
+    {
+        "aff1": "North West Agriculture and Forestry University",
+        "aff2": "Northwest A&F University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Hawaii System",
+        "aff2": "University of Hawaii",
+        "label": 1
+    },
+    {
+        "aff1": "Eskişehir Osmangazi University",
+        "aff2": "Eskişehir Osmangazi Üniversitesi",
+        "label": 1
+    },
+    {
+        "aff1": "Stanford University",
+        "aff2": "Leland Stanford Junior University",
+        "label": 1
+    },
+    {
+        "aff1": "University of Massachusetts Medical School",
+        "aff2": "UMass Medical School",
+        "label": 1
+    },
+    {
+        "aff1": "Beijing Jiaotong University",
+        "aff2": "Northern Jiaotong University",
+        "label": 1
+    },
+    {
+        "aff1": "Penza State University",
+        "aff2": "Penza State Technical University",
+        "label": 1
+    },
+    {
+        "aff1": "Polytechnique Montréal",
+        "aff2": "École Polytechnique de Montréal",
+        "label": 1
+    },
+    {
+        "aff1": "Moscow Engineering Physics Institute",
+        "aff2": "Moscow Engineering and Physics Institute",
+        "label": 1
+    },
+    {
+        "aff1": "San Jose State University",
+        "aff2": "San Jose State",
+        "label": 1
+    },
+    {
+        "aff1": "Duke University Hospital",
+        "aff2": "Duke University Medical Center",
+        "label": 1
+    },
+    {
+        "aff1": "University of Hong Kong",
+        "aff2": "Hong Kong University",
+        "label": 1
+    },
+    {
+        "aff1": "Chongqing Medical University",
+        "aff2": "Chongqing University of Medical Sciences",
+        "label": 1
+    },
+    {
+        "aff1": "University of California, Santa Cruz",
+        "aff2": "UC Santa Cruz",
+        "label": 1
+    },
+    {
+        "aff1": "University of Connecticut Health Center",
+        "aff2": "UConn Health Center",
+        "label": 1
+    },
+    {
+        "aff1": "California State University, Long Beach",
+        "aff2": "Cal State Long Beach",
+        "label": 1
+    },
+    {
+        "aff1": "Georgia Institute of Technology",
+        "aff2": "Georgia Tech",
+        "label": 1
+    },
+    {
+        "aff1": "Scripps Institution of Oceanography",
+        "aff2": "Scripps Oceanography",
+        "label": 1
+    },
+    {
+        "aff1": "Hong Kong Baptist University",
+        "aff2": "Hong Kong Baptist College",
+        "label": 1
+    },
+    {
+        "aff1": "New Jersey Department of Health",
+        "aff2": "New Jersey Department of Health and Senior Services",
+        "label": 1
+    },
+    {
+        "aff1": "Pennsylvania Department of Human Services",
+        "aff2": "Pennsylvania Department of Public Welfare",
+        "label": 1
+    },
+    {
+        "aff1": "United States Department of Commerce",
+        "aff2": "United States Department of Commerce and Labor",
+        "label": 1
+    },
+    {
+        "aff1": "Children's Hospital of Pittsburgh",
+        "aff2": "Children’s Hospital of Pittsburgh of UPMC",
+        "label": 1
+    },
+    {
+        "aff1": "Children’s National Health System",
+        "aff2": "Children's National Medical Center",
+        "label": 1
+    },
+    {
+        "aff1": "Cincinnati Children's Hospital Medical Center",
+        "aff2": "Cincinnati Children's",
+        "label": 1
+    },
+    {
+        "aff1": "Legacy Good Samaritan Medical Center",
+        "aff2": "Good Samaritan Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "New York University Langone Medical Center",
+        "aff2": "NYU Langone Medical Center",
+        "label": 1
+    },
+    {
+        "aff1": "Ochsner Medical Center",
+        "aff2": "Ochsner Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "St. Elizabeth's Medical Center",
+        "aff2": "St. Elizabeth's Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "Optical Society",
+        "aff2": "Optical Society of America",
+        "label": 1
+    },
+    {
+        "aff1": "Centenary Institute of Cancer Medicine and Cell Biology",
+        "aff2": "Centenary Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Nathan Kline Institute for Psychiatric Research",
+        "aff2": "Nathan S. Kline Institute for Psychiatric Research",
+        "label": 1
+    },
+    {
+        "aff1": "Okinawa Institute of Science and Technology",
+        "aff2": "Okinawa Institute of Science and Technology Graduate University",
+        "label": 1
+    },
+    {
+        "aff1": "Texas Biomedical Research Institute",
+        "aff2": "Texas Biomed",
+        "label": 1
+    },
+    {
+        "aff1": "Adams State University",
+        "aff2": "Adams State College",
+        "label": 1
+    },
+    {
+        "aff1": "Adams State University",
+        "aff2": "Adams State Normal School",
+        "label": 1
+    },
+    {
+        "aff1": "Antioch University New England",
+        "aff2": "Antioch New England Graduate School",
+        "label": 1
+    },
+    {
+        "aff1": "Aoyama Gakuin University",
+        "aff2": "Aoyama gakuin daigaku",
+        "label": 1
+    },
+    {
+        "aff1": "Auckland University of Technology",
+        "aff2": "Auckland Institute of Technology",
+        "label": 1
+    },
+    {
+        "aff1": "Augustana University",
+        "aff2": "Augustana College",
+        "label": 1
+    },
+    {
+        "aff1": "Baldwin–Wallace College",
+        "aff2": "Baldwin Wallace University",
+        "label": 1
+    },
+    {
+        "aff1": "Bath Spa University",
+        "aff2": "Bath Spa University College",
+        "label": 1
+    },
+    {
+        "aff1": "Bellarmine University",
+        "aff2": "Bellarmine College",
+        "label": 1
+    },
+    {
+        "aff1": "California Polytechnic State University",
+        "aff2": "California Polytechnic State University, San Luis Obispo",
+        "label": 1
+    },
+    {
+        "aff1": "China Medical University",
+        "aff2": "China Medical College",
+        "label": 1
+    },
+    {
+        "aff1": "East Carolina University",
+        "aff2": "East Carolina",
+        "label": 1
+    },
+    {
+        "aff1": "East Georgia State College",
+        "aff2": "East Georgia College",
+        "label": 1
+    },
+    {
+        "aff1": "Missouri State University",
+        "aff2": "Southwest Missouri State University",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing Normal University",
+        "aff2": "Teacher's College, Nanjing University",
+        "label": 1
+    },
+    {
+        "aff1": "Northeast Ohio Medical University",
+        "aff2": "Northeastern Ohio Universities Colleges of Medicine and Pharmacy",
+        "label": 1
+    },
+    {
+        "aff1": "Northeastern State University",
+        "aff2": "Northeastern State College",
+        "label": 1
+    },
+    {
+        "aff1": "Northwest Nazarene University",
+        "aff2": "Northwest Nazarene College",
+        "label": 1
+    },
+    {
+        "aff1": "Southern University of Science and Technology",
+        "aff2": "South University of Science and Technology of China",
+        "label": 1
+    },
+    {
+        "aff1": "SUNY College at Old Westbury",
+        "aff2": "State University of New York College at Old Westbury",
+        "label": 1
+    },
+    {
+        "aff1": "Tokushima University",
+        "aff2": "University of Tokushima",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing Forestry University",
+        "aff2": "Nanjing Forestry College",
+        "label": 1
+    },
+    {
+        "aff1": "Central China Normal University",
+        "aff2": "Huazhong Normal University",
+        "label": 1
+    },
+    {
+        "aff1": "China University of Political Science and Law",
+        "aff2": "Peking College of Political Science and Law",
+        "label": 1
+    },
+    {
+        "aff1": "China People's Public Security University",
+        "aff2": "People's Public Security University of China",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing Tech University",
+        "aff2": "Nanjing University of Technology",
+        "label": 1
+    },
+    {
+        "aff1": "Eastern Connecticut State University",
+        "aff2": "Eastern Connecticut State",
+        "label": 1
+    },
+    {
+        "aff1": "North China University of Water Conservancy and Electric Power",
+        "aff2": "North China University of Water Resources and Electric Power",
+        "label": 1
+    },
+    {
+        "aff1": "Southwest Bahia State University",
+        "aff2": "State University of Southwestern Bahia",
+        "label": 1
+    },
+    {
+        "aff1": "Good Samaritan Medical Center",
+        "aff2": "Good Samaritan Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "West China Medical Center of Sichuan University",
+        "aff2": "West China University of Medical Sciences",
+        "label": 1
+    },
+    {
+        "aff1": "Sydney South West Area Health Service",
+        "aff2": "Sydney South West Health",
+        "label": 1
+    },
+    {
+        "aff1": "East Orange VA Medical Center",
+        "aff2": "East Orange VAMC",
+        "label": 1
+    },
+    {
+        "aff1": "Government of Western Australia Department of Health",
+        "aff2": "Western Australia Department of Health",
+        "label": 1
+    },
+    {
+        "aff1": "Eastern Maine Medical Center",
+        "aff2": "Eastern Maine",
+        "label": 1
+    },
+    {
+        "aff1": "Saint Thomas West Hospital",
+        "aff2": "Saint Thomas Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "Western Pennsylvania Hospital",
+        "aff2": "West Penn Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "Westchester Medical Center",
+        "aff2": "Westchester Medical Center University Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "China University of Science and Technology",
+        "aff2": "China Junior College of Technology",
+        "label": 1
+    },
+    {
+        "aff1": "China University of Science and Technology",
+        "aff2": "China Junior College of Technology and Commerce",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Education of the People's Republic of China",
+        "aff2": "Ministry of Education Central People's Government",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Education of the People's Republic of China",
+        "aff2": "State Education Commission",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Ecology and Environment",
+        "aff2": "State Environmental Protection Administration",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Ecology and Environment",
+        "aff2": "Ministry of Environmental Protection",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of the Environment and Water Resources",
+        "aff2": "Ministry of the Environment",
+        "label": 1
+    },
+    {
+        "aff1": "Tezukayama Gakuin University",
+        "aff2": "Tezukayama gakuin daigaku",
+        "label": 1
+    },
+    {
+        "aff1": "National Center for HIV/AIDS Viral Hepatitis STD and TB Prevention",
+        "aff2": "National Center for HIV, STD, and TB Prevention",
+        "label": 1
+    },
+    {
+        "aff1": "Motilal Nehru National Institute of Technology",
+        "aff2": "Motilal Nehru Regional Engineering College",
+        "label": 1
+    },
+    {
+        "aff1": "Education University of Hong Kong",
+        "aff2": "Hong Kong Institute of Education",
+        "label": 1
+    },
+    {
+        "aff1": "Western Technical College",
+        "aff2": "Western Wisconsin Technical College",
+        "label": 1
+    },
+    {
+        "aff1": "Westfield State University",
+        "aff2": "Westfield State College",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Science and Technology of the People's Republic of China",
+        "aff2": "State Science and Technology Commission",
+        "label": 1
+    },
+    {
+        "aff1": "Northeast Iowa Community College",
+        "aff2": "Northeast Iowa Technical Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Europa Donna",
+        "aff2": "Europa Donna - The European Breast Cancer Coalition",
+        "label": 1
+    },
+    {
+        "aff1": "Northeastern School District",
+        "aff2": "Northeastern York School District",
+        "label": 1
+    },
+    {
+        "aff1": "PA Breast Cancer Coalition",
+        "aff2": "Pennsylvania Breast Cancer Coalition",
+        "label": 1
+    },
+    {
+        "aff1": "Northeast Amyotrophic Lateral Sclerosis Consortium",
+        "aff2": "Northeast ALS Consortium",
+        "label": 1
+    },
+    {
+        "aff1": "Westchester Putnam Council",
+        "aff2": "Westchester-Putnam Council Boy Scouts of America",
+        "label": 1
+    },
+    {
+        "aff1": "China National Pharmaceutical Group Corporation (China)",
+        "aff2": "China National Pharmaceutical Group",
+        "label": 1
+    },
+    {
+        "aff1": "Florida SouthWestern State College",
+        "aff2": "Florida SouthWestern",
+        "label": 1
+    },
+    {
+        "aff1": "South Eastern Europe Telecommunications Academy",
+        "aff2": "South East Europe Telecommunications and Informatics Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Southwest Louisiana Area Health Education Center",
+        "aff2": "Southwest Louisiana AHEC",
+        "label": 1
+    },
+    {
+        "aff1": "West Yorkshire Police",
+        "aff2": "West Yorkshire Metropolitan Police",
+        "label": 1
+    },
+    {
+        "aff1": "West London Mental Health NHS Trust",
+        "aff2": "West London NHS Trust",
+        "label": 1
+    },
+    {
+        "aff1": "London North West Healthcare NHS Trust",
+        "aff2": "North West London Hospitals NHS Trust",
+        "label": 1
+    },
+    {
+        "aff1": "Northeast Petroleum University",
+        "aff2": "Northeast Petroleum Institute",
+        "label": 1
+    },
+    {
+        "aff1": "China Women's University",
+        "aff2": "All-China Women's Federation",
+        "label": 1
+    },
+    {
+        "aff1": "National Research Irkutsk State Technical University",
+        "aff2": "Irkutsk State Technical University",
+        "label": 1
+    },
+    {
+        "aff1": "Southwestern Law School",
+        "aff2": "Southwestern College of Law",
+        "label": 1
+    },
+    {
+        "aff1": "West Virginia University Institute of Technology",
+        "aff2": "West Virginia University Tech",
+        "label": 1
+    },
+    {
+        "aff1": "State University of West Paraná",
+        "aff2": "Western Paraná State University",
+        "label": 1
+    },
+    {
+        "aff1": "Catholic University of Eastern Africa",
+        "aff2": "Catholic Higher Institute of Eastern Africa",
+        "label": 1
+    },
+    {
+        "aff1": "Eastern Samar State University",
+        "aff2": "Eastern Samar Junior Agricultural College",
+        "label": 1
+    },
+    {
+        "aff1": "West Visayas State University",
+        "aff2": "West Visayas State College",
+        "label": 1
+    },
+    {
+        "aff1": "Far Eastern University",
+        "aff2": "Far Eastern College (1919-1922)",
+        "label": 1
+    },
+    {
+        "aff1": "China Youth University for Political Sciences",
+        "aff2": "China Youth College for Political Sciences",
+        "label": 1
+    },
+    {
+        "aff1": "Southwest University of Political Science & Law",
+        "aff2": "Southwest College of Political Science and Law",
+        "label": 1
+    },
+    {
+        "aff1": "South Eastern University of Sri Lanka",
+        "aff2": "South Eastern University College of Sri Lanka",
+        "label": 1
+    },
+    {
+        "aff1": "China Academy of Art",
+        "aff2": "China National Academy of Fine Arts",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing University of the Arts",
+        "aff2": "Nanjing Arts Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Mahambet Otemiusly West Kazakhstan University",
+        "aff2": "West Kazakhstan State University",
+        "label": 1
+    },
+    {
+        "aff1": "Volodymyr Dahl East Ukrainian National University",
+        "aff2": "East Ukrainian Volodymyr Dahl National University",
+        "label": 1
+    },
+    {
+        "aff1": "Far Eastern State Agrarian University",
+        "aff2": "Far Eastern SAU",
+        "label": 1
+    },
+    {
+        "aff1": "Eastern Economics and Law Humanities",
+        "aff2": "Eastern Institute of Economics, Humanities, Management and Law",
+        "label": 1
+    },
+    {
+        "aff1": "Kent State University, East Liverpool",
+        "aff2": "Kent State East Liverpool",
+        "label": 1
+    },
+    {
+        "aff1": "Association for Slavic East European and Eurasian Studies",
+        "aff2": "American Association for the Advancement of Slavic Studies",
+        "label": 1
+    },
+    {
+        "aff1": "West Los Angeles College",
+        "aff2": "West L.A. College",
+        "label": 1
+    },
+    {
+        "aff1": "Eastern Liaoning University",
+        "aff2": "Liaodong University",
+        "label": 1
+    },
+    {
+        "aff1": "Utah State University Eastern",
+        "aff2": "College of Eastern Utah",
+        "label": 1
+    },
+    {
+        "aff1": "East London NHS Foundation Trust",
+        "aff2": "East London and The City University Mental Health NHS Trust",
+        "label": 1
+    },
+    {
+        "aff1": "Gold Peak Industries (China)",
+        "aff2": "GP Industries",
+        "label": 1
+    },
+    {
+        "aff1": "Western Digital (United States)",
+        "aff2": "Western Digital Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "West of England Local Enterprise Partnership (United Kingdom)",
+        "aff2": "West of England LEP",
+        "label": 1
+    },
+    {
+        "aff1": "China Tobacco",
+        "aff2": "China National Tobacco Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "China Tobacco",
+        "aff2": "State Tobacco Monopoly Administration",
+        "label": 1
+    },
+    {
+        "aff1": "Westmead Institute for Medical Research",
+        "aff2": "Westmead Millennium Institute for Medical Research",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Water Resources of the People's Republic of China",
+        "aff2": "Ministry of Water Resources ",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing University of Posts and Telecommunications",
+        "aff2": "Nanjing Institute of Posts and Telecommunications",
+        "label": 1
+    },
+    {
+        "aff1": "Ministry of Finance of the People's Republic of China",
+        "aff2": "Ministry of Finance",
+        "label": 1
+    },
+    {
+        "aff1": "Western Pennsylvania School for Blind Children",
+        "aff2": "Western Pennsylvania Institution for the Blind",
+        "label": 1
+    },
+    {
+        "aff1": "Civil Aviation Administration of China",
+        "aff2": "General Administration of Civil Aviation of China",
+        "label": 1
+    },
+    {
+        "aff1": "Inner Mongolia Yili Industrial Group (China)",
+        "aff2": "Yili Group",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing Traditional Chinese Medicine Hospital",
+        "aff2": "Nanjing Hospital of TCM",
+        "label": 1
+    },
+    {
+        "aff1": "Central Party School of the Communist Party of China",
+        "aff2": "Central Party School",
+        "label": 1
+    },
+    {
+        "aff1": "Polish Naval Academy",
+        "aff2": "Polish Naval Academy of the Heroes of Westerplatte",
+        "label": 1
+    },
+    {
+        "aff1": "Western Nebraska Community College",
+        "aff2": "Nebraska Western College",
+        "label": 1
+    },
+    {
+        "aff1": "Western Nevada College",
+        "aff2": "Western Nevada Community College",
+        "label": 1
+    },
+    {
+        "aff1": "University of South-Eastern Norway",
+        "aff2": "University College of Southeast Norway",
+        "label": 1
+    },
+    {
+        "aff1": "IBM Research - China",
+        "aff2": "IBM China Research Laboratory",
+        "label": 1
+    },
+    {
+        "aff1": "Government of West Bengal",
+        "aff2": "State Government of West Bengal",
+        "label": 1
+    },
+    {
+        "aff1": "Far East Geological Institute",
+        "aff2": "Federal State Institution of Science Far East Geological Institute, Far Eastern Branch of the Russian Academy of Sciences",
+        "label": 1
+    },
+    {
+        "aff1": "V.I. Il'ichev Pacific Oceanological Institute",
+        "aff2": "V.I. Il’ichev Pacific Oceanological Institute, Far Eastern Branch",
+        "label": 1
+    },
+    {
+        "aff1": "Westerdals Oslo School of Arts, Communication and Technology",
+        "aff2": "Westerdals Oslo ACT",
+        "label": 1
+    },
+    {
+        "aff1": "China United Network Communications Group (China)",
+        "aff2": "China Unicom",
+        "label": 1
+    },
+    {
+        "aff1": "Shanxi Coal Transportation and Sales Group (China)",
+        "aff2": "Shanxi Coal Sales Group",
+        "label": 1
+    },
+    {
+        "aff1": "North Kent College",
+        "aff2": "North West Kent College",
+        "label": 1
+    },
+    {
+        "aff1": "Northeast Mississippi Community College",
+        "aff2": "Northeast Mississippi Junior College",
+        "label": 1
+    },
+    {
+        "aff1": "Northeast Lakeview College",
+        "aff2": "Northeast Lakeview",
+        "label": 1
+    },
+    {
+        "aff1": "Northwestern Oklahoma State University",
+        "aff2": "Northwestern Oklahoma Teachers College",
+        "label": 1
+    },
+    {
+        "aff1": "West Georgia Technical College",
+        "aff2": "West Central Technical College",
+        "label": 1
+    },
+    {
+        "aff1": "Foton Motors (China)",
+        "aff2": "Foton Motor",
+        "label": 1
+    },
+    {
+        "aff1": "State Intellectual Property Office",
+        "aff2": "State Intellectual Property Office of the People's Republic of China",
+        "label": 1
+    },
+    {
+        "aff1": "Western Australia Police",
+        "aff2": "Western Australia Police Force",
+        "label": 1
+    },
+    {
+        "aff1": "Western Digital (China)",
+        "aff2": "Western Digital Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "Taiwan Semiconductor Manufacturing Company (China)",
+        "aff2": "Taiwan Semiconductor",
+        "label": 1
+    },
+    {
+        "aff1": "Southwest Georgia Regional Educational Service Agency",
+        "aff2": "Southwest Georgia RESA",
+        "label": 1
+    },
+    {
+        "aff1": "West Florida Public Libraries",
+        "aff2": "West Florida Public Library",
+        "label": 1
+    },
+    {
+        "aff1": "North East Ambulance Service NHS Foundation Trust",
+        "aff2": "North East Ambulance Service",
+        "label": 1
+    },
+    {
+        "aff1": "Beijing NGO Association for International Exchanges",
+        "aff2": "Beijing NGO",
+        "label": 1
+    },
+    {
+        "aff1": "Shunyi Hospital of Beijing Traditional Chinese Medicine Hospital",
+        "aff2": "Shunyi District Traditional Chinese Medicine Hospital",
+        "label": 1
+    },
+    {
+        "aff1": "Hua Yuan Group (China)",
+        "aff2": "Beijing Huayuan Group",
+        "label": 1
+    },
+    {
+        "aff1": "Vita Green Health Products (China)",
+        "aff2": "Vita Green",
+        "label": 1
+    },
+    {
+        "aff1": "Northwest Institute of Nuclear Technology",
+        "aff2": "Northwest Nuclear Technology Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "World Health Organization Regional Office for the Western Pacific",
+        "aff2": "WHO Regional Office for the Western Pacific",
+        "label": 1
+    },
+    {
+        "aff1": "Chinese Arctic and Antarctic Administration",
+        "aff2": "Chinese Antarctic Administration of the State Antarctic Research Committee",
+        "label": 1
+    },
+    {
+        "aff1": "Legislative Council of Hong Kong",
+        "aff2": "Legislative Council of the Hong Kong Special Administrative Region of the People's Republic of China",
+        "label": 1
+    },
+    {
+        "aff1": "Dongfeng Motor (China)",
+        "aff2": "Dongfeng Motor Company Limited",
+        "label": 1
+    },
+    {
+        "aff1": "Government of Western Australia",
+        "aff2": "Western Australian Government",
+        "label": 1
+    },
+    {
+        "aff1": "Southwest Badger Resource Conservation and Development Council",
+        "aff2": "Southwest Badger RC&D Council",
+        "label": 1
+    },
+    {
+        "aff1": "Eastern Maine Community College",
+        "aff2": "Eastern Maine Technical College",
+        "label": 1
+    },
+    {
+        "aff1": "Eastern Maine Community College",
+        "aff2": "Eastern Maine Vocational Technical Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Southwestern Vermont Health Care",
+        "aff2": "Southwestern Vermont Medical Center",
+        "label": 1
+    },
+    {
+        "aff1": "Health Foundation for Western & Central New York",
+        "aff2": "Community Health Foundation of Western and Central New York",
+        "label": 1
+    },
+    {
+        "aff1": "Hematology and Oncology Associates of Northeastern Pennsylvania",
+        "aff2": "Hematology & Oncology Associates of NEPA",
+        "label": 1
+    },
+    {
+        "aff1": "New Universe Environmental Group (China)",
+        "aff2": "New Universe International Group Limited",
+        "label": 1
+    },
+    {
+        "aff1": "Ministerium für Verkehr des Landes Nordrhein-Westfalen",
+        "aff2": "Ministerium für den Wiederaufbau Nordrhein-Westfalens",
+        "label": 1
+    },
+    {
+        "aff1": "Institute of Marine Technology Problems of the Far-Eastern Branch of the Russian Academy of Sciences",
+        "aff2": "Institute of Marine Technology Problems, FEB RAS",
+        "label": 1
+    },
+    {
+        "aff1": "China Architecture Design & Research Group (China)",
+        "aff2": "China Architecture Design and Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "China Railway Shanghai Design Institute Group (China)",
+        "aff2": "Shanghai Railways Institute",
+        "label": 1
+    },
+    {
+        "aff1": "China Mobile (China)",
+        "aff2": "China Mobile Communications Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "China Nonferrous Metals Changsha Investigation Design Institute",
+        "aff2": "China Nonferrous Metals Industry Changsha Investigation and Design Institute",
+        "label": 1
+    },
+    {
+        "aff1": "China General Nuclear Power Corporation (China)",
+        "aff2": "China Guangdong Nuclear Power Group",
+        "label": 1
+    },
+    {
+        "aff1": "China Aerospace Science and Industry Corporation (China)",
+        "aff2": "China Aerospace Machinery and Electronics Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "Beijing Automotive Group (China)",
+        "aff2": "Beijing Automotive Industry Holding Co., Ltd.",
+        "label": 1
+    },
+    {
+        "aff1": "Lanzhou Nonferrous Metals Design and Research Institute (China)",
+        "aff2": "Lanzhou Nonferrous Metallurgy Design and Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Chunlan (China)",
+        "aff2": "Chunlan(Group) corporation",
+        "label": 1
+    },
+    {
+        "aff1": "Guizhou Aerospace Power Science & Tech (China)",
+        "aff2": "Guizhou Aerospace Power Technology",
+        "label": 1
+    },
+    {
+        "aff1": "Jiangsu Radio Scientific Research Institute (China)",
+        "aff2": "Jiangsu Radio Science Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Datang Telecom Group (China)",
+        "aff2": "Datang Telecom Technology & Industry Group",
+        "label": 1
+    },
+    {
+        "aff1": "Shanghai Electric (China)",
+        "aff2": "Shanghai Electric Group",
+        "label": 1
+    },
+    {
+        "aff1": "China Shenhua Energy (China)",
+        "aff2": "Shenhua Energy",
+        "label": 1
+    },
+    {
+        "aff1": "China Shenhua Energy (China)",
+        "aff2": "China Shenhua",
+        "label": 1
+    },
+    {
+        "aff1": "China Huadian Corporation (China)",
+        "aff2": "Huadian Group",
+        "label": 1
+    },
+    {
+        "aff1": "China National Salt Industry Corporation (China)",
+        "aff2": "China National Salt Industry Company",
+        "label": 1
+    },
+    {
+        "aff1": "China National Salt Industry Corporation (China)",
+        "aff2": "China Salt",
+        "label": 1
+    },
+    {
+        "aff1": "Guangdong Shunde Innovative Design Institute",
+        "aff2": "Guangdong Shunde Industrial Design Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Nanjing Water Conservancy Planning & Design Institute (China)",
+        "aff2": "Nanjing Water Resources Planning and Design Institute",
+        "label": 1
+    },
+    {
+        "aff1": "North China Municipal Engineering Design & Research Institute",
+        "aff2": "China Municipal Engineering North China Design & Research Institute",
+        "label": 1
+    },
+    {
+        "aff1": "Jiangsu Provincial Water Survey & Design Institute (China)",
+        "aff2": "Jiangsu Provincial Institute of Water Conservancy Survey and Design",
+        "label": 1
+    },
+    {
+        "aff1": "Jinan Municipal Engineering Design & Research Institute (China)",
+        "aff2": "Jinan Municipal Design Institute",
+        "label": 1
+    },
+    {
+        "aff1": "China Railway Design Corporation (China)",
+        "aff2": "China Railway Design",
+        "label": 1
+    },
+    {
+        "aff1": "China Post (China)",
+        "aff2": "China Post Group Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "Shantou Light Industrial Machinery Factory (China)",
+        "aff2": "Shantou Light",
+        "label": 1
+    },
+    {
+        "aff1": "System Equipment (China)",
+        "aff2": "System Equipment Co.,Ltd. Of the 28th Research Institute (Liyang)",
+        "label": 1
+    },
+    {
+        "aff1": "Wuxi Industrial Equipment Installation (China)",
+        "aff2": "Wuxi Industrial Equipment Installation Company",
+        "label": 1
+    },
+    {
+        "aff1": "Zheng yan Seed (China)",
+        "aff2": "Zhengzhou Zhengyan Seed Technology",
+        "label": 1
+    },
+    {
+        "aff1": "The Association of North-east Asian Cultures",
+        "aff2": "Northeast Asian Cultural Society",
+        "label": 1
+    },
+    {
+        "aff1": "Dongfeng Motor Group (China)",
+        "aff2": "Dongfeng Motor Co., Ltd.",
+        "label": 1
+    },
+    {
+        "aff1": "AviChina Industry & Technology (China)",
+        "aff2": "AviChina",
+        "label": 1
+    },
+    {
+        "aff1": "BAIC Motor (China)",
+        "aff2": "BAIC Motor Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "Fuyao Group (China)",
+        "aff2": "Fuyao Glass Industry Group",
+        "label": 1
+    },
+    {
+        "aff1": "Suning (China)",
+        "aff2": "Suning Domestic Appliance",
+        "label": 1
+    },
+    {
+        "aff1": "Suning (China)",
+        "aff2": "Suning Commerce Group",
+        "label": 1
+    },
+    {
+        "aff1": "Gezhouba Group (China)",
+        "aff2": "China Gezhouba Group Company",
+        "label": 1
+    },
+    {
+        "aff1": "China Telecom (China)",
+        "aff2": "China Telecommunications Corporation",
+        "label": 1
+    },
+    {
+        "aff1": "Tianneng Power (China)",
+        "aff2": "Tianneng Power International Limited",
+        "label": 1
+    },
+    {
+        "aff1": "Yutong (China)",
+        "aff2": "Zhengzhou Yutong Group",
+        "label": 1
+    },
+    {
+        "aff1": "Changhong (China)",
+        "aff2": "Sichuan Changhong Electric",
+        "label": 1
+    },
+    {
+        "aff1": "Realtek (China)",
+        "aff2": "Realtek Semiconductor Corp",
+        "label": 1
+    },
+    {
+        "aff1": "Abbott (China)",
+        "aff2": "Abbott Alkaloidal Company",
+        "label": 1
+    },
+    {
+        "aff1": "Qihoo 360 (China)",
+        "aff2": "Qihoo 360 Technology",
+        "label": 1
+    },
+    {
+        "aff1": "Jinchuan (China)",
+        "aff2": "Jinchuan International",
+        "label": 1
+    },
+    {
+        "aff1": "Coolpad (China)",
+        "aff2": "Coolpad Group Limited",
+        "label": 1
+    },
+    {
+        "aff1": "Truking (China)",
+        "aff2": "Truking Technology Limited",
+        "label": 1
+    },
+    {
+        "aff1": "Tinno (China)",
+        "aff2": "Tinno Mobile",
+        "label": 1
+    },
+    {
+        "aff1": "Goodbaby (China)",
+        "aff2": "Goodbaby International Holdings Limited",
+        "label": 1
+    },
+    {
+        "aff1": "Shandong Iron and Steel Group (China)",
+        "aff2": "Shandong Steel",
+        "label": 1
+    },
+    {
+        "aff1": "Coship (China)",
+        "aff2": "Shenzhen Coship Electronics",
+        "label": 1
+    },
+    {
+        "aff1": "UnionPay (China)",
+        "aff2": "China UnionPay",
+        "label": 1
+    },
+    {
+        "aff1": "Changshu Switch Manufacturing (China)",
+        "aff2": "Changshu Switchgear",
+        "label": 1
+    },
+    {
+        "aff1": "Shougang (China)",
+        "aff2": "Shougang Group",
+        "label": 1
+    },
+    {
+        "aff1": "South West Yorkshire Partnership NHS Foundation Trust",
+        "aff2": "South West Yorkshire Mental Health NHS Trust",
+        "label": 1
+    },
+    {
+        "aff1": "Evangelical Church Winning All",
+        "aff2": "Evangelical Church of West Africa",
+        "label": 1
+    },
+    {
+        "aff1": "China Institutes of Contemporary International Relations",
+        "aff2": "China Institute of Contemporary International Relations",
+        "label": 1
+    },
+    {
+        "aff1": "US-China Strong",
+        "aff2": "US-China Strong Foundation",
+        "label": 1
+    },
+    {
+        "aff1": "Johns Hopkins University – Nanjing University Center for Chinese and American Studies",
+        "aff2": "Hopkins–Nanjing Center",
+        "label": 1
+    },
+    {
+        "aff1": "China National Democratic Construction Association",
+        "aff2": "China Democratic National Construction Association",
+        "label": 1
+    },
+    {
+        "aff1": "China National Institute of Standardization",
+        "aff2": "National Institute of Standardization and research institute",
+        "label": 1
+    },
+    {
+        "aff1": "Zhong Ke San Huan (China)",
+        "aff2": "Beijing Zhong Ke San Huan Hi-Tech Co., Ltd",
+        "label": 1
+    },
+    {
+        "aff1": "Huaibei Mining (China)",
+        "aff2": "Huaibei Mining Bureau",
+        "label": 1
+    },
+    {
+        "aff1": "University of Queensland",
+        "aff2": "University of Southern Queensland",
+        "label": 0
+    },
+    {
+        "aff1": "Newcastle University",
+        "aff2": "University of Newcastle",
+        "label": 0
+    },
+    {
+        "aff1": "University of Melbourne",
+        "aff2": "Melbourne Water",
+        "label": 0
+    },
+    {
+        "aff1": "University of Tasmania",
+        "aff2": "Hydro Tasmania",
+        "label": 0
+    },
+    {
+        "aff1": "RMIT University",
+        "aff2": "RMIT International University",
+        "label": 0
+    },
+    {
+        "aff1": "La Trobe University",
+        "aff2": "La Sierra University",
+        "label": 0
+    },
+    {
+        "aff1": "Griffith University",
+        "aff2": "Griffith Observatory",
+        "label": 0
+    },
+    {
+        "aff1": "Central Queensland University",
+        "aff2": "University of Queensland",
+        "label": 0
+    },
+    {
+        "aff1": "Queensland University of Technology",
+        "aff2": "University of Queensland",
+        "label": 0
+    },
+    {
+        "aff1": "Swinburne University of Technology",
+        "aff2": "Swinburne University of Technology Sarawak Campus",
+        "label": 0
+    },
+    {
+        "aff1": "Southern Cross University",
+        "aff2": "Texas Southern University",
+        "label": 0
+    },
+    {
+        "aff1": "Warsaw University of Technology",
+        "aff2": "University of Warsaw",
+        "label": 0
+    },
+    {
+        "aff1": "United States Geological Survey",
+        "aff2": "British Geological Survey",
+        "label": 0
+    },
+    {
+        "aff1": "Cancer Council Victoria",
+        "aff2": "Cancer Council Queensland",
+        "label": 0
+    },
+    {
+        "aff1": "National Oceanic and Atmospheric Administration",
+        "aff2": "State Oceanic Administration",
+        "label": 0
+    },
+    {
+        "aff1": "University of Edinburgh",
+        "aff2": "Edinburgh Napier University",
+        "label": 0
+    },
+    {
+        "aff1": "Ocean University of China",
+        "aff2": "Guangdong Ocean University",
+        "label": 0
+    },
+    {
+        "aff1": "Polytechnic University of Bari",
+        "aff2": "University of Bari",
+        "label": 0
+    },
+    {
+        "aff1": "University of Granada",
+        "aff2": "Military University Nueva Granada",
+        "label": 0
+    },
+    {
+        "aff1": "Middle East Technical University",
+        "aff2": "Middle East University",
+        "label": 0
+    },
+    {
+        "aff1": "University of East Anglia",
+        "aff2": "Anglia Ruskin University",
+        "label": 0
+    },
+    {
+        "aff1": "China Meteorological Administration",
+        "aff2": "Korea Meteorological Administration",
+        "label": 0
+    },
+    {
+        "aff1": "University of Eastern Finland",
+        "aff2": "Academy of Finland",
+        "label": 0
+    },
+    {
+        "aff1": "National University of San Marcos",
+        "aff2": "California State University San Marcos",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Jiao Tong University",
+        "aff2": "Shanghai University",
+        "label": 0
+    },
+    {
+        "aff1": "Parthenope University of Naples",
+        "aff2": "Naples Eastern University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Normal University",
+        "aff2": "Beijing Forestry University",
+        "label": 0
+    },
+    {
+        "aff1": "South China Agricultural University",
+        "aff2": "China Agricultural University",
+        "label": 0
+    },
+    {
+        "aff1": "California Institute of Technology",
+        "aff2": "California NanoSystems Institute",
+        "label": 0
+    },
+    {
+        "aff1": "East China Normal University",
+        "aff2": "East China Jiaotong University",
+        "label": 0
+    },
+    {
+        "aff1": "China Agricultural University",
+        "aff2": "South China Agricultural University",
+        "label": 0
+    },
+    {
+        "aff1": "Renmin University of China",
+        "aff2": "Minzu University of China",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing University of Chinese Medicine",
+        "aff2": "Guangzhou University of Chinese Medicine",
+        "label": 0
+    },
+    {
+        "aff1": "Universidade Aberta",
+        "aff2": "Universidade Lusófona",
+        "label": 0
+    },
+    {
+        "aff1": "University of Tokyo",
+        "aff2": "Tokyo University of Science",
+        "label": 0
+    },
+    {
+        "aff1": "Northeast Normal University",
+        "aff2": "Northeast Agricultural University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing Agricultural University",
+        "aff2": "Nanjing University",
+        "label": 0
+    },
+    {
+        "aff1": "East China University of Science and Technology",
+        "aff2": "China University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing University of Technology",
+        "aff2": "Beijing University of Chemical Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing University of Posts and Telecommunications",
+        "aff2": "Ministry of Posts and Telecommunications",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Institute of Technology",
+        "aff2": "Tokyo University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing University",
+        "aff2": "Nanjing Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "University of Southern California",
+        "aff2": "Automobile Club of Southern California",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Institute of Technology",
+        "aff2": "Beijing Institute of Clothing Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing University of Chemical Technology",
+        "aff2": "Beijing University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Wuhan University",
+        "aff2": "Wuhan Sports University",
+        "label": 0
+    },
+    {
+        "aff1": "University of Electronic Science and Technology of China",
+        "aff2": "China University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing University of Aeronautics and Astronautics",
+        "aff2": "American Institute of Aeronautics and Astronautics",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Forestry University",
+        "aff2": "Beijing Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "University of Science and Technology Beijing",
+        "aff2": "Beijing Electronic Science and Technology Institute",
+        "label": 0
+    },
+    {
+        "aff1": "South China University of Technology",
+        "aff2": "University of South China",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing Medical University",
+        "aff2": "Nanjing University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo University of Agriculture and Technology",
+        "aff2": "Tokyo University of Agriculture",
+        "label": 0
+    },
+    {
+        "aff1": "Wuhan University of Technology",
+        "aff2": "Wuhan Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Jiaotong University",
+        "aff2": "Dalian Jiaotong University",
+        "label": 0
+    },
+    {
+        "aff1": "California Department of Health Care Services",
+        "aff2": "Maccabi Health Care Services",
+        "label": 0
+    },
+    {
+        "aff1": "California Department of Public Health",
+        "aff2": "Illinois Department of Public Health",
+        "label": 0
+    },
+    {
+        "aff1": "Carolinas Medical Center",
+        "aff2": "Carolinas Medical Center-NorthEast",
+        "label": 0
+    },
+    {
+        "aff1": "California Academy of Sciences",
+        "aff2": "California Maritime Academy",
+        "label": 0
+    },
+    {
+        "aff1": "China Academy of Engineering Physics",
+        "aff2": "Academy of Engineering",
+        "label": 0
+    },
+    {
+        "aff1": "Black Hills State University",
+        "aff2": "California State University, Dominguez Hills",
+        "label": 0
+    },
+    {
+        "aff1": "California Lutheran University",
+        "aff2": "Texas Lutheran University",
+        "label": 0
+    },
+    {
+        "aff1": "California Polytechnic State University",
+        "aff2": "California State Polytechnic University, Pomona",
+        "label": 0
+    },
+    {
+        "aff1": "California State University Los Angeles",
+        "aff2": "University of California, Los Angeles",
+        "label": 0
+    },
+    {
+        "aff1": "California University of Pennsylvania",
+        "aff2": "University of Pennsylvania",
+        "label": 0
+    },
+    {
+        "aff1": "China Pharmaceutical University",
+        "aff2": "North China Pharmaceutical Group Corp",
+        "label": 0
+    },
+    {
+        "aff1": "China Three Gorges University",
+        "aff2": "China Three Gorges Corporation",
+        "label": 0
+    },
+    {
+        "aff1": "Chongqing University of Science and Technology",
+        "aff2": "Chongqing University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Dominican University of California",
+        "aff2": "Dominican University",
+        "label": 0
+    },
+    {
+        "aff1": "East Georgia State College",
+        "aff2": "Middle Georgia State College",
+        "label": 0
+    },
+    {
+        "aff1": "East Tennessee State University",
+        "aff2": "Tennessee State University",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Kentucky University",
+        "aff2": "Kentucky State University",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern New Mexico University",
+        "aff2": "New Mexico Highlands University",
+        "label": 0
+    },
+    {
+        "aff1": "Missouri State University",
+        "aff2": "Southeast Missouri State University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanchang University",
+        "aff2": "Nanchang Hangkong University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing Normal University",
+        "aff2": "Nanjing University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing University of Information Science and Technology",
+        "aff2": "Nanjing University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "North China Electric Power University",
+        "aff2": "North China University of Water Conservancy and Electric Power",
+        "label": 0
+    },
+    {
+        "aff1": "Northeast Ohio Medical University",
+        "aff2": "Carolinas Medical Center-NorthEast",
+        "label": 0
+    },
+    {
+        "aff1": "Northeastern Illinois University",
+        "aff2": "Northeastern University",
+        "label": 0
+    },
+    {
+        "aff1": "Ouachita Baptist University",
+        "aff2": "California Baptist University",
+        "label": 0
+    },
+    {
+        "aff1": "South China Normal University",
+        "aff2": "China West Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "Southeast Missouri State University",
+        "aff2": "Missouri State University",
+        "label": 0
+    },
+    {
+        "aff1": "Southeastern Louisiana University",
+        "aff2": "Southeastern University",
+        "label": 0
+    },
+    {
+        "aff1": "Southeastern Oklahoma State University",
+        "aff2": "Oklahoma State University–Tulsa",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Dental College",
+        "aff2": "Tokyo Medical and Dental University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Medical and Dental University",
+        "aff2": "Tokyo Dental College",
+        "label": 0
+    },
+    {
+        "aff1": "University of Shanghai for Science and Technology",
+        "aff2": "Shanghai University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Western Carolina University",
+        "aff2": "East Carolina University",
+        "label": 0
+    },
+    {
+        "aff1": "Western Oklahoma State College",
+        "aff2": "Eastern Oklahoma State College",
+        "label": 0
+    },
+    {
+        "aff1": "East Kent Hospitals University NHS Foundation Trust",
+        "aff2": "East Lancashire Hospitals NHS Trust",
+        "label": 0
+    },
+    {
+        "aff1": "Group Health Cooperative",
+        "aff2": "Eastern Cooperative Oncology Group",
+        "label": 0
+    },
+    {
+        "aff1": "Tennessee State University",
+        "aff2": "East Tennessee State University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing University of Science and Technology",
+        "aff2": "Nanjing University of Information Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Shandong Normal University",
+        "aff2": "Shandong University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing Forestry University",
+        "aff2": "Nanjing University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing University of Chinese Medicine",
+        "aff2": "Guangzhou University of Chinese Medicine",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo University of Agriculture",
+        "aff2": "Tokyo University of Agriculture and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo University of Pharmacy and Life Sciences",
+        "aff2": "Niigata University of Pharmacy and Applied Life Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Medical University",
+        "aff2": "Tokyo Medical and Dental University",
+        "label": 0
+    },
+    {
+        "aff1": "National Institute of Polar Research",
+        "aff2": "Polar Research Institute of China",
+        "label": 0
+    },
+    {
+        "aff1": "Minzu University of China",
+        "aff2": "China University of Geosciences",
+        "label": 0
+    },
+    {
+        "aff1": "Kyushu Kyoritsu University",
+        "aff2": "Kyushu University",
+        "label": 0
+    },
+    {
+        "aff1": "Aichi University of Education",
+        "aff2": "Aichi University",
+        "label": 0
+    },
+    {
+        "aff1": "Aichi Gakuin University",
+        "aff2": "Aichi University",
+        "label": 0
+    },
+    {
+        "aff1": "Central China Normal University",
+        "aff2": "China West Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "China Jiliang University",
+        "aff2": "China Pharmaceutical University",
+        "label": 0
+    },
+    {
+        "aff1": "China University of Mining and Technology",
+        "aff2": "Freiberg University of Mining and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "China University of Political Science and Law",
+        "aff2": "East China University of Political Science and Law",
+        "label": 0
+    },
+    {
+        "aff1": "China West Normal University",
+        "aff2": "Central China Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "Chongqing Three Gorges University",
+        "aff2": "China Three Gorges University",
+        "label": 0
+    },
+    {
+        "aff1": "Indiana University Southeast",
+        "aff2": "Southeast University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Sport University",
+        "aff2": "Beijing Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Technology and Business University",
+        "aff2": "Chongqing Technology and Business University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Union University",
+        "aff2": "Beijing Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing University of Civil Engineering and Architecture",
+        "aff2": "University of Architecture, Civil Engineering and Geodesy",
+        "label": 0
+    },
+    {
+        "aff1": "Civil Aviation University of China",
+        "aff2": "Civil Aviation Flight University of China",
+        "label": 0
+    },
+    {
+        "aff1": "California Baptist University",
+        "aff2": "Southwest Baptist University",
+        "label": 0
+    },
+    {
+        "aff1": "Daejeon University",
+        "aff2": "Daejeon Health Sciences College",
+        "label": 0
+    },
+    {
+        "aff1": "University of South China",
+        "aff2": "South China University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Connecticut State University",
+        "aff2": "Central Connecticut State University",
+        "label": 0
+    },
+    {
+        "aff1": "Niigata University of Pharmacy and Applied Life Sciences",
+        "aff2": "Tokyo University of Pharmacy and Life Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "Ningbo University of Technology",
+        "aff2": "Ningbo University",
+        "label": 0
+    },
+    {
+        "aff1": "North China University of Water Conservancy and Electric Power",
+        "aff2": "North China Electric Power University",
+        "label": 0
+    },
+    {
+        "aff1": "North Eastern Hill University",
+        "aff2": "North-Eastern Federal University",
+        "label": 0
+    },
+    {
+        "aff1": "Northeast Agricultural University",
+        "aff2": "Northeast Dianli University",
+        "label": 0
+    },
+    {
+        "aff1": "Northeast Forestry University",
+        "aff2": "Northeast Agricultural University",
+        "label": 0
+    },
+    {
+        "aff1": "Shahjalal University of Science and Technology",
+        "aff2": "University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Shandong University of Science and Technology",
+        "aff2": "Shandong University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Shandong University of Technology",
+        "aff2": "Shandong University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Open University of Israel",
+        "aff2": "Open University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Ocean University",
+        "aff2": "Shanghai University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai International Studies University",
+        "aff2": "Beijing International Studies University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Maritime University",
+        "aff2": "Shanghai University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Normal University",
+        "aff2": "Shanghai University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Second Polytechnic University",
+        "aff2": "Shanghai University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai University of Engineering Sciences",
+        "aff2": "Shanghai Academy of Social Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai University of Sport",
+        "aff2": "Shanghai University",
+        "label": 0
+    },
+    {
+        "aff1": "Shenyang University of Chemical Technology",
+        "aff2": "Shenyang University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Shiraz University",
+        "aff2": "Shiraz University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Qingdao University of Science and Technology",
+        "aff2": "University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "University of Rajshahi",
+        "aff2": "Rajshahi University of Engineering & Technology",
+        "label": 0
+    },
+    {
+        "aff1": "University of Papua New Guinea",
+        "aff2": "Papua New Guinea University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "TOBB University of Economics and Technology",
+        "aff2": "Budapest University of Technology and Economics",
+        "label": 0
+    },
+    {
+        "aff1": "Urmia University",
+        "aff2": "Urmia University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Denki University",
+        "aff2": "Tokyo Fuji University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo University of Marine Science and Technology",
+        "aff2": "Tokyo University of Science",
+        "label": 0
+    },
+    {
+        "aff1": "Korea University of Science and Technology",
+        "aff2": "Korea Institute of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Wuhan University of Science and Technology",
+        "aff2": "Wuhan University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo University of Technology",
+        "aff2": "Tokyo Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Tshwane University of Technology",
+        "aff2": "University of Technology, Sydney",
+        "label": 0
+    },
+    {
+        "aff1": "University of Technology and Life Sciences in Bydgoszcz",
+        "aff2": "University of Life Sciences in Poznań",
+        "label": 0
+    },
+    {
+        "aff1": "Wuhan Polytechnic University",
+        "aff2": "Wuhan University",
+        "label": 0
+    },
+    {
+        "aff1": "Yeungnam University",
+        "aff2": "Yeungnam College of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Tianjin University of Science and Technology",
+        "aff2": "Tianjin University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Jishuitan Hospital",
+        "aff2": "Beijing Tongren Hospital",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Maine Medical Center",
+        "aff2": "Maine Medical Center",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern State Hospital",
+        "aff2": "Eastern Oklahoma State College",
+        "label": 0
+    },
+    {
+        "aff1": "Educational Commission for Foreign Medical Graduates",
+        "aff2": "National Foundation for Educational Research",
+        "label": 0
+    },
+    {
+        "aff1": "Karnataka Institute of Medical Sciences",
+        "aff2": "National Institute of Technology, Karnataka",
+        "label": 0
+    },
+    {
+        "aff1": "Royal Sussex County Hospital",
+        "aff2": "East Sussex County Council",
+        "label": 0
+    },
+    {
+        "aff1": "Sree Chitra Thirunal Institute for Medical Sciences and Technology",
+        "aff2": "Sree Chitra Thirunal College of Engineering",
+        "label": 0
+    },
+    {
+        "aff1": "Xuzhou Medical College",
+        "aff2": "Xuzhou Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Hiroshima Institute of Technology",
+        "aff2": "Hiroshima National College of Maritime Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Abisko Scientific Research Station",
+        "aff2": "East Malling Research Station",
+        "label": 0
+    },
+    {
+        "aff1": "Holon Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Chemical Biology",
+        "aff2": "Indian Institute of Chemical Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Chemical Technology",
+        "aff2": "Indian Institute of Chemical Biology",
+        "label": 0
+    },
+    {
+        "aff1": "Hull and East Yorkshire Hospitals NHS Trust",
+        "aff2": "East Lancashire Hospitals NHS Trust",
+        "label": 0
+    },
+    {
+        "aff1": "Central Institute of Psychiatry",
+        "aff2": "Central Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Daegu Gyeongbuk Institute of Science and Technology",
+        "aff2": "Kakatiya Institute of Technology and Science",
+        "label": 0
+    },
+    {
+        "aff1": "Aichi Institute of Technology",
+        "aff2": "Aichi University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Technology Kanpur",
+        "aff2": "Kanpur Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Technology Madras",
+        "aff2": "Madras Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Technology Bombay",
+        "aff2": "Indian Institute of Technology Patna",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Technology Guwahati",
+        "aff2": "Indian Institute of Technology Patna",
+        "label": 0
+    },
+    {
+        "aff1": "Industrial Technology Research Institute",
+        "aff2": "Industrial Research Institute",
+        "label": 0
+    },
+    {
+        "aff1": "Fukuoka Institute of Technology",
+        "aff2": "Fukuoka University",
+        "label": 0
+    },
+    {
+        "aff1": "Oswaldo Cruz Foundation",
+        "aff2": "University of California, Santa Cruz",
+        "label": 0
+    },
+    {
+        "aff1": "International Science and Technology Center",
+        "aff2": "Botswana International University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Asian Institute of Technology",
+        "aff2": "Asian Institute of Management",
+        "label": 0
+    },
+    {
+        "aff1": "Athlone Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Central Institute of Fisheries Technology",
+        "aff2": "Central Institute of Fisheries Education",
+        "label": 0
+    },
+    {
+        "aff1": "Blekinge Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Chang Gung University of Science and Technology",
+        "aff2": "Chang Gung University",
+        "label": 0
+    },
+    {
+        "aff1": "China University of Science and Technology",
+        "aff2": "University of Science and Technology of China",
+        "label": 0
+    },
+    {
+        "aff1": "California Department of Food and Agriculture",
+        "aff2": "Food and Agriculture Organization",
+        "label": 0
+    },
+    {
+        "aff1": "Republic of China Naval Academy",
+        "aff2": "Naval Academy",
+        "label": 0
+    },
+    {
+        "aff1": "Chitose Institute of Science and Technology",
+        "aff2": "Kakatiya Institute of Technology and Science",
+        "label": 0
+    },
+    {
+        "aff1": "Dundalk Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Philadelphia Fire Department",
+        "aff2": "Tokyo Fire Department",
+        "label": 0
+    },
+    {
+        "aff1": "Swiss Federal Institute of Aquatic Science and Technology",
+        "aff2": "Swiss Federal Laboratories for Materials Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Polar Research Institute of China",
+        "aff2": "National Institute of Polar Research",
+        "label": 0
+    },
+    {
+        "aff1": "Leibniz Institute of Photonic Technology",
+        "aff2": "Leibniz Institute of Marine Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "Kumoh National Institute of Technology",
+        "aff2": "National Institute of Technology, Rourkela",
+        "label": 0
+    },
+    {
+        "aff1": "National Institute for Interdisciplinary Science and Technology",
+        "aff2": "National Institute of Applied Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Institute of Technology",
+        "aff2": "Shanghai University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Shibaura Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Shonan Institute of Technology",
+        "aff2": "Shonan Junior College",
+        "label": 0
+    },
+    {
+        "aff1": "Lithuanian Sports University",
+        "aff2": "Wuhan Sports University",
+        "label": 0
+    },
+    {
+        "aff1": "Southern California Coastal Water Research Project",
+        "aff2": "California Coastal Commission",
+        "label": 0
+    },
+    {
+        "aff1": "Maulana Azad National Institute of Technology",
+        "aff2": "Maulana Azad College",
+        "label": 0
+    },
+    {
+        "aff1": "Izmir Institute of Technology",
+        "aff2": "İzmir University",
+        "label": 0
+    },
+    {
+        "aff1": "National Institute of Technology Warangal",
+        "aff2": "National Institute of Technology, Rourkela",
+        "label": 0
+    },
+    {
+        "aff1": "National Institute of Technology Calicut",
+        "aff2": "University of Calicut",
+        "label": 0
+    },
+    {
+        "aff1": "National Natural Science Foundation of China",
+        "aff2": "National Science Foundation",
+        "label": 0
+    },
+    {
+        "aff1": "Kanagawa Institute of Technology",
+        "aff2": "Kanagawa University",
+        "label": 0
+    },
+    {
+        "aff1": "National Taichung University of Science and Technology",
+        "aff2": "National Taichung University of Education",
+        "label": 0
+    },
+    {
+        "aff1": "Osaka Institute of Technology",
+        "aff2": "Osaka Bioscience Institute",
+        "label": 0
+    },
+    {
+        "aff1": "Muroran Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Pakistan Institute of Nuclear Science and Technology",
+        "aff2": "Australian Nuclear Science and Technology Organisation",
+        "label": 0
+    },
+    {
+        "aff1": "Tzu Chi College of Technology",
+        "aff2": "Tzu Chi University",
+        "label": 0
+    },
+    {
+        "aff1": "Academy of the Social Sciences in Australia",
+        "aff2": "Shanghai Academy of Social Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "Accreditation Board for Engineering and Technology",
+        "aff2": "Centre for Metrology and Accreditation",
+        "label": 0
+    },
+    {
+        "aff1": "Center for Applied Special Technology",
+        "aff2": "Center for Applied Genomics",
+        "label": 0
+    },
+    {
+        "aff1": "Foreign and Commonwealth Office",
+        "aff2": "German Foreign Office",
+        "label": 0
+    },
+    {
+        "aff1": "National Audit Office",
+        "aff2": "Nanjing Audit University",
+        "label": 0
+    },
+    {
+        "aff1": "Vermont Agency of Human Services",
+        "aff2": "California Health and Human Services Agency",
+        "label": 0
+    },
+    {
+        "aff1": "National Council for Science and the Environment",
+        "aff2": "Kerala State Council for Science, Technology and Environment",
+        "label": 0
+    },
+    {
+        "aff1": "Southeast Alaska Regional Health Consortium",
+        "aff2": "Alaska Native Tribal Health Consortium",
+        "label": 0
+    },
+    {
+        "aff1": "American Institute of Architecture Students",
+        "aff2": "Southern California Institute of Architecture",
+        "label": 0
+    },
+    {
+        "aff1": "Waterford Institute",
+        "aff2": "Waterford Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Wentworth Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Tall Timbers Research Station and Land Conservancy",
+        "aff2": "East Malling Research Station",
+        "label": 0
+    },
+    {
+        "aff1": "Texas Lutheran University",
+        "aff2": "California Lutheran University",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Florida State College",
+        "aff2": "Eastern Oklahoma State College",
+        "label": 0
+    },
+    {
+        "aff1": "Capitol Technology University",
+        "aff2": "Architect of the Capitol",
+        "label": 0
+    },
+    {
+        "aff1": "Arctic and Antarctic Research Institute",
+        "aff2": "Chinese Arctic and Antarctic Administration",
+        "label": 0
+    },
+    {
+        "aff1": "Hellenic Foundation for European and Foreign Policy",
+        "aff2": "Foreign Policy Association",
+        "label": 0
+    },
+    {
+        "aff1": "Hellenic Ministry of Culture and Sports",
+        "aff2": "Ministry of Education, Culture, Sports, Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "European Space Research and Technology Centre",
+        "aff2": "Space Research Centre",
+        "label": 0
+    },
+    {
+        "aff1": "Wessex Institute of Technology",
+        "aff2": "Wessex Archaeology",
+        "label": 0
+    },
+    {
+        "aff1": "Council for Agricultural Science and Technology",
+        "aff2": "Science and Technology Facilities Council",
+        "label": 0
+    },
+    {
+        "aff1": "California Natural Resources Agency",
+        "aff2": "Alpha Natural Resources",
+        "label": 0
+    },
+    {
+        "aff1": "California Environmental Protection Agency",
+        "aff2": "Environmental Protection Agency",
+        "label": 0
+    },
+    {
+        "aff1": "Aspen University",
+        "aff2": "Aspen Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Chitkara University",
+        "aff2": "Chitkara Institute of Engineering and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Central University of Technology",
+        "aff2": "Central Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Federal University of Technology Owerri",
+        "aff2": "Federal University of Technology Minna",
+        "label": 0
+    },
+    {
+        "aff1": "East Texas Baptist University",
+        "aff2": "California Baptist University",
+        "label": 0
+    },
+    {
+        "aff1": "Fullerton College",
+        "aff2": "California State University, Fullerton",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Technology Kharagpur",
+        "aff2": "Indian Institute of Technology Patna",
+        "label": 0
+    },
+    {
+        "aff1": "International Breast Cancer Research Foundation",
+        "aff2": "The Breast Cancer Research Foundation",
+        "label": 0
+    },
+    {
+        "aff1": "HealthEast Care System",
+        "aff2": "Christiana Care Health System",
+        "label": 0
+    },
+    {
+        "aff1": "Mangosuthu University of Technology",
+        "aff2": "University of Technology, Sydney",
+        "label": 0
+    },
+    {
+        "aff1": "Living Beyond Breast Cancer",
+        "aff2": "Breast Cancer Haven",
+        "label": 0
+    },
+    {
+        "aff1": "Texas Health and Human Services Commission",
+        "aff2": "California Health and Human Services Agency",
+        "label": 0
+    },
+    {
+        "aff1": "American Institute of Aeronautics and Astronautics",
+        "aff2": "Nanjing University of Aeronautics and Astronautics",
+        "label": 0
+    },
+    {
+        "aff1": "Unitec Institute of Technology",
+        "aff2": "Ashikaga Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Architect of the Capitol",
+        "aff2": "Capitol Technology University",
+        "label": 0
+    },
+    {
+        "aff1": "Indiana University East",
+        "aff2": "Indiana University",
+        "label": 0
+    },
+    {
+        "aff1": "Waikato Institute of Technology",
+        "aff2": "University of Waikato",
+        "label": 0
+    },
+    {
+        "aff1": "Almaty University of Power Engineering and Telecommunications",
+        "aff2": "Nanjing University of Posts and Telecommunications",
+        "label": 0
+    },
+    {
+        "aff1": "Bremen Institute for Applied Beam Technology",
+        "aff2": "Bremen University of Applied Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "California Department of Education",
+        "aff2": "California Department of Transportation",
+        "label": 0
+    },
+    {
+        "aff1": "Wuhan Institute of Technology",
+        "aff2": "Wuhan University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "York College of Pennsylvania",
+        "aff2": "Pennsylvania College of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Visvesvaraya National Institute of Technology",
+        "aff2": "Sir M. Visvesvaraya Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Higher Institute for Applied Sciences and Technology",
+        "aff2": "Higher Institute of Technologies and Applied Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "Air Resources Laboratory",
+        "aff2": "California Air Resources Board",
+        "label": 0
+    },
+    {
+        "aff1": "Middle Georgia State College",
+        "aff2": "East Georgia State College",
+        "label": 0
+    },
+    {
+        "aff1": "Northeast Document Conservation Center",
+        "aff2": "Carolinas Medical Center-NorthEast",
+        "label": 0
+    },
+    {
+        "aff1": "Wayland Baptist University",
+        "aff2": "California Baptist University",
+        "label": 0
+    },
+    {
+        "aff1": "Canadian Mennonite University",
+        "aff2": "Eastern Mennonite University",
+        "label": 0
+    },
+    {
+        "aff1": "North University of China",
+        "aff2": "North China University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Northeast Petroleum University",
+        "aff2": "Northeast Agricultural University",
+        "label": 0
+    },
+    {
+        "aff1": "Far Eastern Federal University",
+        "aff2": "Far Eastern University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai University of Electric Power",
+        "aff2": "Electric Power University",
+        "label": 0
+    },
+    {
+        "aff1": "Dalian University of Foreign Languages",
+        "aff2": "Shandong Foreign Languages Vocational College",
+        "label": 0
+    },
+    {
+        "aff1": "East China Jiaotong University",
+        "aff2": "East China Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "Guangdong University of Foreign Studies",
+        "aff2": "Tokyo University of Foreign Studies",
+        "label": 0
+    },
+    {
+        "aff1": "North China University of Science and Technology",
+        "aff2": "North China Institute of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing University of Finance and Economics",
+        "aff2": "Central University of Finance and Economics",
+        "label": 0
+    },
+    {
+        "aff1": "North China University of Technology",
+        "aff2": "North University of China",
+        "label": 0
+    },
+    {
+        "aff1": "Future University Hakodate",
+        "aff2": "Tokyo Future University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Polytechnic University",
+        "aff2": "Tokyo Fuji University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo University of Foreign Studies",
+        "aff2": "Osaka University of Foreign Studies",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo University of Information Sciences",
+        "aff2": "Information Sciences Institute",
+        "label": 0
+    },
+    {
+        "aff1": "Hankuk University of Foreign Studies",
+        "aff2": "Tokyo University of Foreign Studies",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Kasei University",
+        "aff2": "Tokyo Kasei-Gakuin University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Keizai University",
+        "aff2": "Gifu Keizai University",
+        "label": 0
+    },
+    {
+        "aff1": "Academy of Art University",
+        "aff2": "China Academy of Art",
+        "label": 0
+    },
+    {
+        "aff1": "Catholic University of Eastern Africa",
+        "aff2": "University of Eastern Africa, Baraton",
+        "label": 0
+    },
+    {
+        "aff1": "East West University",
+        "aff2": "East Carolina University",
+        "label": 0
+    },
+    {
+        "aff1": "University of Southeastern Philippines",
+        "aff2": "Southeastern University",
+        "label": 0
+    },
+    {
+        "aff1": "West Visayas State University",
+        "aff2": "Visayas State University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Seitoku University",
+        "aff2": "Seitoku University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Future University",
+        "aff2": "Future University Hakodate",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Electronic Science and Technology Institute",
+        "aff2": "University of Science and Technology Beijing",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Foreign Studies University",
+        "aff2": "Beijing International Studies University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Institute of Petrochemical Technology",
+        "aff2": "Beijing Institute of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing International Studies University",
+        "aff2": "Beijing Foreign Studies University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Wuzi University",
+        "aff2": "Beijing Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "China Foreign Affairs University",
+        "aff2": "Ministry of Foreign Affairs",
+        "label": 0
+    },
+    {
+        "aff1": "Communication University of China",
+        "aff2": "International Communication Association",
+        "label": 0
+    },
+    {
+        "aff1": "North China Institute of Science and Technology",
+        "aff2": "North China University of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Southwestern University of Finance and Economics",
+        "aff2": "Central University of Finance and Economics",
+        "label": 0
+    },
+    {
+        "aff1": "Sichuan International Studies University",
+        "aff2": "Beijing International Studies University",
+        "label": 0
+    },
+    {
+        "aff1": "Kanda University of International Studies",
+        "aff2": "Beijing International Studies University",
+        "label": 0
+    },
+    {
+        "aff1": "Fuji Tokoha University",
+        "aff2": "Tokyo Fuji University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing Audit University",
+        "aff2": "Nanjing University",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing Institute of Technology",
+        "aff2": "Nanjing University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "East China University of Political Science and Law",
+        "aff2": "China University of Political Science and Law",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai University of Finance and Economics",
+        "aff2": "Shanghai Finance University",
+        "label": 0
+    },
+    {
+        "aff1": "Tianjin Foreign Studies University",
+        "aff2": "Beijing Foreign Studies University",
+        "label": 0
+    },
+    {
+        "aff1": "Wuhan Conservatory of Music",
+        "aff2": "Shanghai Conservatory of Music",
+        "label": 0
+    },
+    {
+        "aff1": "Wuhan Sports University",
+        "aff2": "Wuhan University",
+        "label": 0
+    },
+    {
+        "aff1": "Northwest University of Politics and Law",
+        "aff2": "Northwest Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "Korea Baptist Theological University and Seminary",
+        "aff2": "Southeastern Baptist Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Daegu University of Foreign Studies",
+        "aff2": "Tokyo University of Foreign Studies",
+        "label": 0
+    },
+    {
+        "aff1": "Busan University of Foreign Studies",
+        "aff2": "Tokyo University of Foreign Studies",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Jogakkan College",
+        "aff2": "Tokyo Dental College",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Kasei Gakuin University",
+        "aff2": "Tokyo Kasei University",
+        "label": 0
+    },
+    {
+        "aff1": "Seitoku University",
+        "aff2": "Tokyo Seitoku University",
+        "label": 0
+    },
+    {
+        "aff1": "North Eastern Regional Institute of Science and Technology",
+        "aff2": "North China Institute of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Nagoya University of Foreign Studies",
+        "aff2": "Tokyo University of Foreign Studies",
+        "label": 0
+    },
+    {
+        "aff1": "Indian Institute of Foreign Trade",
+        "aff2": "Beijing Institute of Foreign Trade",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo International University",
+        "aff2": "Tokyo Fuji University",
+        "label": 0
+    },
+    {
+        "aff1": "Gokhale Institute of Politics and Economics",
+        "aff2": "Northwest University of Politics and Law",
+        "label": 0
+    },
+    {
+        "aff1": "Foreign Trade University",
+        "aff2": "Beijing Institute of Foreign Trade",
+        "label": 0
+    },
+    {
+        "aff1": "Ukrainian National Forestry University",
+        "aff2": "East Ukrainian Volodymyr Dahl National University",
+        "label": 0
+    },
+    {
+        "aff1": "Mediterranean University",
+        "aff2": "Eastern Mediterranean University",
+        "label": 0
+    },
+    {
+        "aff1": "International University in Moscow",
+        "aff2": "Westminster International University in Tashkent",
+        "label": 0
+    },
+    {
+        "aff1": "Pacific National University",
+        "aff2": "Pacific Northwest National Laboratory",
+        "label": 0
+    },
+    {
+        "aff1": "Buffalo Bill Center of the West",
+        "aff2": "University of the West",
+        "label": 0
+    },
+    {
+        "aff1": "California College of the Arts",
+        "aff2": "California Institute of the Arts",
+        "label": 0
+    },
+    {
+        "aff1": "California Institute of the Arts",
+        "aff2": "California College of the Arts",
+        "label": 0
+    },
+    {
+        "aff1": "Historical Society of Pennsylvania",
+        "aff2": "Historical Society of Western Pennsylvania",
+        "label": 0
+    },
+    {
+        "aff1": "George Eastman House",
+        "aff2": "Covenant House",
+        "label": 0
+    },
+    {
+        "aff1": "Historical Society of Western Pennsylvania",
+        "aff2": "Historical Society of Pennsylvania",
+        "label": 0
+    },
+    {
+        "aff1": "Caldwell West Caldwell Public Schools",
+        "aff2": "Caldwell University",
+        "label": 0
+    },
+    {
+        "aff1": "Oakland Museum of California",
+        "aff2": "Oakland University",
+        "label": 0
+    },
+    {
+        "aff1": "Union Theological Seminary",
+        "aff2": "Nanjing Union Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Princeton Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Western Reserve Historical Society",
+        "aff2": "Historical Society of Western Pennsylvania",
+        "label": 0
+    },
+    {
+        "aff1": "Milwaukee Metropolitan Sewerage District",
+        "aff2": "Metropolitan Water District of Southern California",
+        "label": 0
+    },
+    {
+        "aff1": "California Department of Fish and Wildlife",
+        "aff2": "Oregon Department of Fish and Wildlife",
+        "label": 0
+    },
+    {
+        "aff1": "Oregon Department of Fish and Wildlife",
+        "aff2": "California Department of Fish and Wildlife",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Liaoning University",
+        "aff2": "Liaoning University",
+        "label": 0
+    },
+    {
+        "aff1": "Catholic University of the West",
+        "aff2": "University of the West",
+        "label": 0
+    },
+    {
+        "aff1": "Friedensau Adventist University",
+        "aff2": "Southwestern Adventist University",
+        "label": 0
+    },
+    {
+        "aff1": "Liaoning University of International Business and Economics",
+        "aff2": "Shanghai University of International Business and Economics",
+        "label": 0
+    },
+    {
+        "aff1": "Presbyterian University of East Africa",
+        "aff2": "Africa University",
+        "label": 0
+    },
+    {
+        "aff1": "Southwest University of Visual Arts",
+        "aff2": "School of Visual Arts",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Christian University",
+        "aff2": "Tokyo Woman's Christian University",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Fuji University",
+        "aff2": "Fuji Tokoha University",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai University of Political Science and Law",
+        "aff2": "China University of Political Science and Law",
+        "label": 0
+    },
+    {
+        "aff1": "University of East Sarajevo",
+        "aff2": "University of Sarajevo",
+        "label": 0
+    },
+    {
+        "aff1": "Utah State University Eastern",
+        "aff2": "Utah State University",
+        "label": 0
+    },
+    {
+        "aff1": "Pacific Northwest National Laboratory",
+        "aff2": "Pacific Marine Environmental Laboratory",
+        "label": 0
+    },
+    {
+        "aff1": "China Aerospace Science and Technology Corporation",
+        "aff2": "China Aerospace Science and Industry Corporation",
+        "label": 0
+    },
+    {
+        "aff1": "China Geological Survey",
+        "aff2": "British Geological Survey",
+        "label": 0
+    },
+    {
+        "aff1": "Korea Meteorological Administration",
+        "aff2": "China Meteorological Administration",
+        "label": 0
+    },
+    {
+        "aff1": "California Energy Commission",
+        "aff2": "California Coastal Commission",
+        "label": 0
+    },
+    {
+        "aff1": "China Medical Board",
+        "aff2": "China Medical University (PRC)",
+        "label": 0
+    },
+    {
+        "aff1": "California Air Resources Board",
+        "aff2": "California State Water Resources Control Board",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing University of Posts and Telecommunications",
+        "aff2": "Ministry of Posts and Telecommunications",
+        "label": 0
+    },
+    {
+        "aff1": "Canadian Breast Cancer Foundation",
+        "aff2": "Breast Cancer Haven",
+        "label": 0
+    },
+    {
+        "aff1": "Breast Cancer Alliance",
+        "aff2": "Breast Cancer Haven",
+        "label": 0
+    },
+    {
+        "aff1": "California HealthCare Foundation",
+        "aff2": "AIDS Healthcare Foundation",
+        "label": 0
+    },
+    {
+        "aff1": "Virginia Department of Education",
+        "aff2": "West Virginia Department of Education",
+        "label": 0
+    },
+    {
+        "aff1": "West Virginia Department of Transportation",
+        "aff2": "West Virginia Department of Education",
+        "label": 0
+    },
+    {
+        "aff1": "Technological Educational Institute of Peloponnese",
+        "aff2": "Technological Educational Institute of Messolonghi",
+        "label": 0
+    },
+    {
+        "aff1": "Bethany Lutheran College",
+        "aff2": "Bethany College",
+        "label": 0
+    },
+    {
+        "aff1": "Pacific Northwest College of Art",
+        "aff2": "Pacific Northwest National Laboratory",
+        "label": 0
+    },
+    {
+        "aff1": "Nazarene Bible College",
+        "aff2": "Eastern Nazarene College",
+        "label": 0
+    },
+    {
+        "aff1": "Cornish College of the Arts",
+        "aff2": "California College of the Arts",
+        "label": 0
+    },
+    {
+        "aff1": "School of Visual Arts",
+        "aff2": "Southwest University of Visual Arts",
+        "label": 0
+    },
+    {
+        "aff1": "United States Sports Academy",
+        "aff2": "United States Military Academy",
+        "label": 0
+    },
+    {
+        "aff1": "Southern California University for Professional Studies",
+        "aff2": "University of Professional Studies",
+        "label": 0
+    },
+    {
+        "aff1": "Westminster Seminary California",
+        "aff2": "Westminster Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Civil Aviation Administration of China",
+        "aff2": "Civil Aviation University of China",
+        "label": 0
+    },
+    {
+        "aff1": "Government of Hungary",
+        "aff2": "University of West Hungary",
+        "label": 0
+    },
+    {
+        "aff1": "Breast Cancer Now",
+        "aff2": "Breast Cancer Haven",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo City University",
+        "aff2": "Tokyo Fuji University",
+        "label": 0
+    },
+    {
+        "aff1": "Sefako Makgatho Health Sciences University",
+        "aff2": "Northwestern Health Sciences University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing United Family Hospital",
+        "aff2": "Beijing Tongren Hospital",
+        "label": 0
+    },
+    {
+        "aff1": "North East University",
+        "aff2": "North East Medical College, Sylhet",
+        "label": 0
+    },
+    {
+        "aff1": "University of French Guiana",
+        "aff2": "University of the French West Indies and Guiana",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Mediterranean University",
+        "aff2": "Mediterranean University",
+        "label": 0
+    },
+    {
+        "aff1": "Lowestoft Hospital",
+        "aff2": "Union Hospital",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Shore Hospital Center",
+        "aff2": "University of Maryland Eastern Shore",
+        "label": 0
+    },
+    {
+        "aff1": "West Middlesex University Hospital",
+        "aff2": "Middlesex University",
+        "label": 0
+    },
+    {
+        "aff1": "Pacific Research Institute",
+        "aff2": "Pacific Northwest Diabetes Research Institute",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing City University",
+        "aff2": "Beijing Normal University",
+        "label": 0
+    },
+    {
+        "aff1": "ArtEZ Institute of the Arts",
+        "aff2": "California Institute of the Arts",
+        "label": 0
+    },
+    {
+        "aff1": "Asbury Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "College of West Anglia",
+        "aff2": "University of East Anglia",
+        "label": 0
+    },
+    {
+        "aff1": "Columbia Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Covenant Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Box Hill Institute",
+        "aff2": "Box Hill Hospital",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Idaho Technical College",
+        "aff2": "College of Idaho",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Institute of Technology",
+        "aff2": "North Eastern Regional Institute of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Calvin Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "General Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Knox Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Lexington Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "McCormick Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Memphis Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Merced College",
+        "aff2": "University of California, Merced",
+        "label": 0
+    },
+    {
+        "aff1": "Middle East College",
+        "aff2": "Middle East Institute",
+        "label": 0
+    },
+    {
+        "aff1": "Midwestern Baptist Theological Seminary",
+        "aff2": "Southeastern Baptist Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Nanjing Library",
+        "aff2": "Nanjing University",
+        "label": 0
+    },
+    {
+        "aff1": "Nashotah House Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "North East Institute of Science and Technology",
+        "aff2": "North China Institute of Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "New Orleans Baptist Theological Seminary",
+        "aff2": "Southeastern Baptist Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Northwestern Connecticut Community College",
+        "aff2": "Northwestern College",
+        "label": 0
+    },
+    {
+        "aff1": "Phillips Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Pittsburgh Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Southwestern Baptist Theological Seminary",
+        "aff2": "Southeastern Baptist Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Library",
+        "aff2": "Shanghai University",
+        "label": 0
+    },
+    {
+        "aff1": "Southeastern Baptist Theological Seminary",
+        "aff2": "Southern Baptist Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Southeastern University",
+        "aff2": "University of Southeastern Philippines",
+        "label": 0
+    },
+    {
+        "aff1": "Southwestern Adventist University",
+        "aff2": "Southwestern University",
+        "label": 0
+    },
+    {
+        "aff1": "United Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "United World College of South East Asia",
+        "aff2": "University of East Asia",
+        "label": 0
+    },
+    {
+        "aff1": "Wartburg Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "West Herts College",
+        "aff2": "University College West",
+        "label": 0
+    },
+    {
+        "aff1": "Virginia Theological Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Western Theological Seminary",
+        "aff2": "Seabury-Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Western Wyoming Community College",
+        "aff2": "Virginia Western Community College",
+        "label": 0
+    },
+    {
+        "aff1": "Westminster Kingsway College",
+        "aff2": "Westminster College (Missouri)",
+        "label": 0
+    },
+    {
+        "aff1": "Youngnam Theological University and Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Western Indian Ocean Marine Science Association",
+        "aff2": "Scottish Association for Marine Science",
+        "label": 0
+    },
+    {
+        "aff1": "China Academy of Space Technology",
+        "aff2": "China Academy of Launch Vehicle Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Civil Aviation Flight University of China",
+        "aff2": "Civil Aviation University of China",
+        "label": 0
+    },
+    {
+        "aff1": "China Tourism Academy",
+        "aff2": "China Academy of Art",
+        "label": 0
+    },
+    {
+        "aff1": "China Europe International Business School",
+        "aff2": "International Business School, Budapest",
+        "label": 0
+    },
+    {
+        "aff1": "Bank of China",
+        "aff2": "Agricultural Bank of China",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Innovative Research Center of Traditional Chinese Medicine",
+        "aff2": "Henan University of Traditional Chinese Medicine",
+        "label": 0
+    },
+    {
+        "aff1": "Geological Museum of China",
+        "aff2": "Geological Museum",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Science and Technology Museum",
+        "aff2": "Shanghai Museum",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Academy of Social Sciences",
+        "aff2": "Chinese Academy of Social Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences",
+        "aff2": "Indira Gandhi Institute of Medical Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "Government of West Bengal",
+        "aff2": "West Bengal State University",
+        "label": 0
+    },
+    {
+        "aff1": "Beijing Planetarium",
+        "aff2": "Adler Planetarium",
+        "label": 0
+    },
+    {
+        "aff1": "Academy for Jewish Religion California",
+        "aff2": "American Academy of Religion",
+        "label": 0
+    },
+    {
+        "aff1": "Western Seminary",
+        "aff2": "Western Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "European Polytechnical University",
+        "aff2": "Northwestern Polytechnical University",
+        "label": 0
+    },
+    {
+        "aff1": "Geological Survey of Western Australia",
+        "aff2": "British Geological Survey",
+        "label": 0
+    },
+    {
+        "aff1": "Western Institute of Technology and Higher Education",
+        "aff2": "Monterrey Institute of Technology and Higher Education",
+        "label": 0
+    },
+    {
+        "aff1": "South Florida Water Management District",
+        "aff2": "Southwest Florida Water Management District",
+        "label": 0
+    },
+    {
+        "aff1": "Southeast Asian Fisheries Development Center",
+        "aff2": "Asian Development Bank",
+        "label": 0
+    },
+    {
+        "aff1": "Western Cape Department of Health",
+        "aff2": "University of the Western Cape",
+        "label": 0
+    },
+    {
+        "aff1": "National Bureau of Statistics of China",
+        "aff2": "National Bureau of Statistics of Nigeria",
+        "label": 0
+    },
+    {
+        "aff1": "China Atomic Energy Authority",
+        "aff2": "United Kingdom Atomic Energy Authority",
+        "label": 0
+    },
+    {
+        "aff1": "China Youth Development Foundation",
+        "aff2": "China Development Bank",
+        "label": 0
+    },
+    {
+        "aff1": "China Graduate School of Theology",
+        "aff2": "Houston Graduate School of Theology",
+        "label": 0
+    },
+    {
+        "aff1": "China University of Technology",
+        "aff2": "North China University of Technology",
+        "label": 0
+    },
+    {
+        "aff1": "California College San Diego",
+        "aff2": "University of California, San Diego",
+        "label": 0
+    },
+    {
+        "aff1": "California Community Colleges System",
+        "aff2": "California independent system operator",
+        "label": 0
+    },
+    {
+        "aff1": "East Riding College",
+        "aff2": "Middle East College",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Arizona College",
+        "aff2": "Central Arizona College",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Medical College and Hospital",
+        "aff2": "Gauhati Medical College and Hospital",
+        "label": 0
+    },
+    {
+        "aff1": "Henderson Community College",
+        "aff2": "Henderson State University",
+        "label": 0
+    },
+    {
+        "aff1": "West New York School District",
+        "aff2": "New York Law School",
+        "label": 0
+    },
+    {
+        "aff1": "Northeastern Junior College",
+        "aff2": "Northeastern Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "Northwestern Oklahoma State University",
+        "aff2": "Northwestern State University",
+        "label": 0
+    },
+    {
+        "aff1": "Northwestern Polytechnic University",
+        "aff2": "Northwestern University",
+        "label": 0
+    },
+    {
+        "aff1": "Sacramento City College",
+        "aff2": "California State University, Sacramento",
+        "label": 0
+    },
+    {
+        "aff1": "Shanghai Business School",
+        "aff2": "International Business School, Budapest",
+        "label": 0
+    },
+    {
+        "aff1": "Sussex County Community College",
+        "aff2": "East Sussex County Council",
+        "label": 0
+    },
+    {
+        "aff1": "Open University of China",
+        "aff2": "Open University",
+        "label": 0
+    },
+    {
+        "aff1": "China Aerodynamics Research and Development Center",
+        "aff2": "Engineer Research and Development Center",
+        "label": 0
+    },
+    {
+        "aff1": "China Banking Regulatory Commission",
+        "aff2": "Postal Regulatory Commission",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Seiei College",
+        "aff2": "Tokyo Dental College",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo National Museum",
+        "aff2": "National Army Museum",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Management College",
+        "aff2": "Tokyo Dental College",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Union Theological Seminary",
+        "aff2": "Union Theological Seminary",
+        "label": 0
+    },
+    {
+        "aff1": "American University of the Middle East",
+        "aff2": "Middle East University",
+        "label": 0
+    },
+    {
+        "aff1": "Vietnam Academy of Social Sciences",
+        "aff2": "Shanghai Academy of Social Sciences",
+        "label": 0
+    },
+    {
+        "aff1": "California Teachers Association",
+        "aff2": "Association of University Teachers",
+        "label": 0
+    },
+    {
+        "aff1": "Red Cross Society of China",
+        "aff2": "Thai Red Cross Society",
+        "label": 0
+    },
+    {
+        "aff1": "Jewish Healthcare Foundation",
+        "aff2": "California HealthCare Foundation",
+        "label": 0
+    },
+    {
+        "aff1": "China Foundation for Poverty Alleviation",
+        "aff2": "Innovations for Poverty Action",
+        "label": 0
+    },
+    {
+        "aff1": "Fashion Group International",
+        "aff2": "Breast International Group",
+        "label": 0
+    },
+    {
+        "aff1": "Foundation for Middle East Peace",
+        "aff2": "Middle East Institute",
+        "label": 0
+    },
+    {
+        "aff1": "China Academy of Launch Vehicle Technology",
+        "aff2": "China Academy of Space Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Seasteading Institute",
+        "aff2": "Warburg Institute",
+        "label": 0
+    },
+    {
+        "aff1": "Nevsky Institute of Language and Culture",
+        "aff2": "Beijing Language and Culture University",
+        "label": 0
+    },
+    {
+        "aff1": "California Public Utilities Commission",
+        "aff2": "Seattle Public Utilities",
+        "label": 0
+    },
+    {
+        "aff1": "California Native Plant Society",
+        "aff2": "Oklahoma Native Plant Society",
+        "label": 0
+    },
+    {
+        "aff1": "Earthquake Commission",
+        "aff2": "China Earthquake Administration",
+        "label": 0
+    },
+    {
+        "aff1": "Southern California Earthquake Center",
+        "aff2": "Southern California Edison",
+        "label": 0
+    },
+    {
+        "aff1": "Tokyo Metropolitan Government",
+        "aff2": "Tokyo Metropolitan University",
+        "label": 0
+    },
+    {
+        "aff1": "Australian Regenerative Medicine Institute",
+        "aff2": "California Institute for Regenerative Medicine",
+        "label": 0
+    },
+    {
+        "aff1": "Association for Information Science and Technology",
+        "aff2": "China Association for Science and Technology",
+        "label": 0
+    },
+    {
+        "aff1": "Eastern Maine Community College",
+        "aff2": "Southern Maine Community College",
+        "label": 0
+    },
+    {
+        "aff1": "Middle East Institute",
+        "aff2": "Middle East University",
+        "label": 0
+    },
+    {
+        "aff1": "National Fire Protection Association",
+        "aff2": "California Department of Forestry and Fire Protection",
+        "label": 0
+    },
+    {
+        "aff1": "Social Welfare Department",
+        "aff2": "Tokyo University of Social Welfare",
+        "label": 0
+    },
+    {
+        "aff1": "Breast Cancer Network Australia",
+        "aff2": "Breast Cancer Haven",
+        "label": 0
+    },
+    {
+        "aff1": "Prevention Institute",
+        "aff2": "Cancer Prevention Institute of California",
+        "label": 0
+    },
+    {
+        "aff1": "China Aircraft Services Limited",
+        "aff2": "China Oilfield Services",
+        "label": 0
+    },
+    {
+        "aff1": "International Crisis Group",
+        "aff2": "Breast International Group",
+        "label": 0
+    },
+    {
+        "aff1": "World Academy of Art and Science",
+        "aff2": "China Academy of Art",
+        "label": 0
+    },
+    {
+        "aff1": "China Institutes of Contemporary International Relations",
+        "aff2": "China Institute of Industrial Relations",
+        "label": 0
+    },
+    {
+        "aff1": "Southern California Institute of Architecture",
+        "aff2": "Automobile Club of Southern California",
+        "label": 0
+    },
+    {
+        "aff1": "Agricultural Bank of China",
+        "aff2": "Bank of China",
+        "label": 0
+    },
+    {
+        "aff1": "China Construction Bank",
+        "aff2": "China Merchants Bank",
+        "label": 0
+    }
+]
