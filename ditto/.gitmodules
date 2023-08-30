@@ -1,3 +1,0 @@
-[submodule "blocking/sentence-transformers"]
-	path = blocking/sentence-transformers
-	url = https://github.com/UKPLab/sentence-transformers
