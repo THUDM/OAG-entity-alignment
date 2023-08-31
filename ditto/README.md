@@ -51,12 +51,12 @@ To train the matching model with Ditto:
 
 ```
 CUDA_VISIBLE_DEVICES=0 python train_ditto.py \
-  --task Structured/Beer \
+  --task oag/venue \
   --batch_size 64 \
   --max_len 64 \
   --lr 3e-5 \
   --n_epochs 40 \
-  --lm distilbert \
+  --lm pretrained_model_path\
   --fp16 \
   --da del \
   --dk product \
@@ -65,9 +65,9 @@ CUDA_VISIBLE_DEVICES=0 python train_ditto.py \
 
 The meaning of the flags:
 
-* ``--task``: the name of the tasks (see ``configs.json``)
+* ``--task``: the name of the tasks. Optional:  `oag/venue`, `oag/aff` (see ``configs.json``)
 * ``--batch_size``, ``--max_len``, ``--lr``, ``--n_epochs``: the batch size, max sequence length, learning rate, and the number of epochs
-* ``--lm``: the language model. We now support ``bert``, ``distilbert``, and ``albert`` (``distilbert`` by default).
+* ``--lm``: the language model path. We now support ``bert``, `deberta`, `roberta`, `LaBSE`, `GLM`, `deberta-large`, `roberta-large` and ``albert``.
 * ``--fp16``: whether train with the half-precision floating point optimization
 * ``--da``, ``--dk``, ``--summarize``: the 3 optimizations of Ditto. See the followings for details.
 * ``--save_model``: if this flag is on, then save the checkpoint to ``{logdir}/{task}/model.pt``.
