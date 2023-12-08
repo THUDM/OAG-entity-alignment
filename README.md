@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### Dataset
 
-The dataset can be downloaded from [BaiduPan](https://pan.baidu.com/s/1n9kq3d-mJ0y1k7K4Bei-9g) (with password 445n). Unzip the file and put the _data_ directory into project directory.
+The dataset can be downloaded from [BaiduPan](https://pan.baidu.com/s/1n9kq3d-mJ0y1k7K4Bei-9g) (with password 445n) or [Aliyun](https://open-data-set.oss-cn-beijing.aliyuncs.com/oag-benchmark/entity-matching/el_data.zip). Unzip the file and put the _data_ directory into project directory.
 
 ## How to run
 ```bash
